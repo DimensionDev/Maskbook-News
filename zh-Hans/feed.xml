@@ -1,0 +1,662 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-Hans"><generator uri="https://jekyllrb.com/" version="3.6.3">Jekyll</generator><link href="/zh-Hans/feed.xml" rel="self" type="application/atom+xml" /><link href="/zh-Hans/" rel="alternate" type="text/html" hreflang="zh-Hans" /><updated>2021-07-08T07:48:54+00:00</updated><id>/zh-Hans/feed.xml</id><title type="html">News</title><subtitle>The Portal to the New, Open Internet.</subtitle><entry xml:lang="zh-Hans"><title type="html">教程｜如何把 $MASK 从以太坊主网跨链至币安智能链</title><link href="/zh-Hans/2021/07/08/mask" rel="alternate" type="text/html" title="教程｜如何把 $MASK 从以太坊主网跨链至币安智能链" /><published>2021-07-08T00:00:00+00:00</published><updated>2021-07-08T00:00:00+00:00</updated><id>/zh-Hans/2021/07/08/mask</id><content type="html" xml:base="/zh-Hans/2021/07/08/mask">&lt;p&gt;&lt;strong&gt;方法一：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;访问 Mask Bridge（&lt;a href=&quot;bridge.mask.io&quot;&gt;bridge.mask.io&lt;/a&gt;），并连接钱包&lt;img src=&quot;/uploads/2-select-metamask.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;如果要把 $MASK 从 ETH 主网 转换到 BSC 上，请确保您的钱包设置在 ETH 主网&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/uploads/switch-to-eth.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;如果从 BSC 转换到 ETH 主网，请确保钱包设置在 BSC&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/uploads/switch-to-bsc.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;在左边的界面点击需要转换的 $MASK 数量，并点击 “Unlock”&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/uploads/unlock.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;在弹出窗口中选择 “Continue”，并在 MetaMask 的弹出窗口中进行确认，然后点击 “Transfer”&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/uploads/6-click-continue.jpg&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;
+&lt;img src=&quot;/uploads/5-click-transfer.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;等待区块确认&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/uploads/8-waiting-for-confirmation.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;确认完成后，即可看见 BSC 链上的 $MASK 余额，跨链成功！&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/uploads/9-balance-on-bsc.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;您也可以在 MetaMask 上查看：&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/uploads/10-metamask-bsc.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;方法二：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;在交易所提现 $MASK 时，在转账网络一栏选择 “BEP20（BSC）”&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/uploads/img_8577.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">方法一：</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/zh-Hans" /></entry><entry xml:lang="zh-Hans"><title type="html">新闻｜Mask Network 联合 PancakeSwap ，开启通证质押活动&amp;amp;流动性挖矿</title><link href="/zh-Hans/2021/07/07/mask-network-pancakeswap" rel="alternate" type="text/html" title="新闻｜Mask Network 联合 PancakeSwap ，开启通证质押活动&amp;流动性挖矿" /><published>2021-07-07T00:00:00+00:00</published><updated>2021-07-07T00:00:00+00:00</updated><id>/zh-Hans/2021/07/07/mask-network-pancakeswap</id><content type="html" xml:base="/zh-Hans/2021/07/07/mask-network-pancakeswap">&lt;p&gt;&lt;img src=&quot;/uploads/01.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Mask Network 的通证 $MASK 已上线 PancakeSwap Syrup Pool 和 Farm，开启流动性挖矿。通证持有者可以通过在 PancakeSwap 的 Syrup Pool 中质押 $CAKE 或在 Farm 中质押 $MASK-$BNB LP 的形式，获取相应的 $MASK 或 $CAKE 通证。&lt;/p&gt;
+
+&lt;p&gt;流动性挖矿开启后，会为 $MASK 通证提供更多流动性，并丰富 $MASK 通证的应用场景。&lt;/p&gt;
+
+&lt;p&gt;在上个月接入币安智能链（BSC）后，我们一直努力将 BSC 上的优秀项目接入 Mask 插件，让用户能够更加方便地使用。在 v1.34.0 版本的 Mask 插件中，Swap 功能在切换到 BSC 网络时增加了对 PancakeSwap 的支持，用户在 Twitter 上直接 Swap BEP20 链上资产。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/uploads/02.jpeg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;同时，我们也上线了 Mask Bridge（bridge.mask.io），它为 $MASK 通证在以太坊主网和币安智能链之间的转换提供一种快捷、经济的方式。请&lt;a href=&quot;https://news.mask.io/zh-Hans/2021/07/08/mask&quot;&gt;点击这里&lt;/a&gt;查看 Mask Bridge 的使用方法。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/uploads/03.jpeg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;🍯 在 Syrup Pools 中质押 $CAKE，赚取 $MASK&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;通证总数：111,000 $MASK&lt;/p&gt;
+
+&lt;p&gt;分发总时长：60 天&lt;/p&gt;
+
+&lt;p&gt;起始区块：8943700（约 7 月 7 日 17:00 UTC+8）&lt;/p&gt;
+
+&lt;p&gt;终止区块：10671700（约 9 月 5 日 17:00 UTC+8）&lt;/p&gt;
+
+&lt;p&gt;每区块的奖励：0.06423 $MASK&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://mmbiz.qpic.cn/mmbiz_png/QpV1OYwdMHDyRjia3TC9w8uBeCFzSutWkDa3udxILGTreWuHOsZsbrQKqL4Bf8icdG4bxZk88TW25sYg0OQ05iaiag/640?wx_fmt=png&amp;amp;tp=webp&amp;amp;wxfrom=5&amp;amp;wx_lazy=1&amp;amp;wx_co=1&quot; alt=&quot;Image&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;🚜 在 Farm 里质押 $MASK - $BNB LP，赚取 $CAKE&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;我们将创建一个 $MASK - $BNB 农场。最开始的 48 小时将有 1 倍 $CAKE 奖励，随后变成 0.5 倍 $CAKE 奖励。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://mmbiz.qpic.cn/mmbiz_png/QpV1OYwdMHDyRjia3TC9w8uBeCFzSutWkTMxz4hIpeAAkkRDZ0aicBpAX4OkpDB1Z5XiaMWGvJZ1fCNvVyYMYQvew/640?wx_fmt=png&amp;amp;tp=webp&amp;amp;wxfrom=5&amp;amp;wx_lazy=1&amp;amp;wx_co=1&quot; alt=&quot;Image&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;👛 每个钱包地址的质押额度&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;为了保证 $CAKE 持有者们获得最高收益，Pancake 将在前 48 小时内为每位参与者设置最高 100 $CAKE 的额度，48 小时后无额度限制。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;🍰 如何质押 $CAKE 赚取 $MASK&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;访问网站: https://pancakeswap.finance/syrup&lt;/li&gt;
+  &lt;li&gt;在 MASK Syrup Pool 中点击 “Approve CAKE”&lt;/li&gt;
+  &lt;li&gt;点击 “stake” 按钮&lt;/li&gt;
+  &lt;li&gt;确认交易即完成质押&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;⚠️当心食物中毒！！！&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;BSC 上的官方 $MASK 通证地址为：&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://bscscan.com/token/0x2ed9a5c8c13b93955103b9a7c167b67ef4d568a3&quot; title=&quot;https://bscscan.com/token/0x2ed9a5c8c13b93955103b9a7c167b67ef4d568a3&quot;&gt;&lt;strong&gt;https://bscscan.com/token/0x2ed9a5c8c13b93955103b9a7c167b67ef4d568a3&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;请谨慎辨认。&lt;/p&gt;
+
+&lt;p&gt;其他任何形式的 $MASK 通证都可能是骗局，并有带来经济损失的风险。请勿在其他通证地址购买，并在购买行为发生前注意核对通证地址。&lt;/p&gt;</content><author><name></name></author><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/zh-Hans" /></entry><entry xml:lang="zh-Hans"><title type="html">活动｜GMTC 全球大前端技术大会北京站即将召开</title><link href="/zh-Hans/2021/07/05/gmtc" rel="alternate" type="text/html" title="活动｜GMTC 全球大前端技术大会北京站即将召开" /><published>2021-07-05T00:00:00+00:00</published><updated>2021-07-05T00:00:00+00:00</updated><id>/zh-Hans/2021/07/05/gmtc</id><content type="html" xml:base="/zh-Hans/2021/07/05/gmtc">&lt;p&gt;&lt;img src=&quot;/uploads/1-62.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;GMTC 全球大前端技术大会将于 2021 年 7 月 4 日至 5 日在北京举办，聚焦前沿大前端技术，分享最新落地实战案例。此次 GMTC 会议中，&lt;strong&gt;Sujitech 前端工程师 Jack Works&lt;/strong&gt; 将受邀进行专题演讲 “ &lt;strong&gt;SES：安全的 ECMAScript&lt;/strong&gt; ”。在日常开发中，恶意代码非常容易破坏全局的 JavaScript 执行环境。Secure ECMAScript（SES）计划从 ES5 时代开始，就从安全层面影响语言发展并活跃至今，此次演讲将介绍它的最新进展。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;🎙️ 演讲时间：&lt;/strong&gt;7 月 5 日 10:30 - 11:15&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;🧩 所属专题：&lt;/strong&gt;前端核心标准和基础技术&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;🚩 演讲地点：&lt;/strong&gt;二层 2 号厅 A&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;📖 演讲内容：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;1. 易损的 ECMAScript 环境&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;展示一些破坏性代码的例子&lt;/li&gt;
+  &lt;li&gt;介绍 ES5 中已经解决的安全问题&lt;/li&gt;
+  &lt;li&gt;介绍 ES6 中加入的为了 SES 准备的特性&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;2. 沙盒&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;介绍沙盒的用途&lt;/li&gt;
+  &lt;li&gt;介绍 SES 计划&lt;/li&gt;
+  &lt;li&gt;今天的沙盒是如何制作的&lt;/li&gt;
+  &lt;li&gt;介绍身份不连续（Identity discontinuity）和规范中的领域（Realm）概念&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;3. 提案介绍&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;介绍 Realm 提案&lt;/li&gt;
+  &lt;li&gt;介绍 Compartment 提案&lt;/li&gt;
+  &lt;li&gt;完整的沙盒（Realm + Compartment）&lt;/li&gt;
+  &lt;li&gt;其他提案（待定）&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;4. How we work&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;会议（定期会议、午餐时间（Hallway track）、孵化器会议（Incubator call）、提案 Champion group 定期会议（例如：SES、Temporal、装饰器））&lt;/li&gt;
+  &lt;li&gt;其他交流（GitHub、邮件列表、IRC、Discourse 论坛）&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;你将获得：&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;了解沙盒、执行不可信代码相关方面的最新进展&lt;/li&gt;
+  &lt;li&gt;了解 TC39 组织&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;此次会议还邀请到了来自诸如极客邦、阿里巴巴、字节跳动、腾讯、京东等等大厂的技术专家为大家带来前端技术前沿的分享，点击文末「&lt;strong&gt;&lt;em&gt;阅读原文&lt;/em&gt;&lt;/strong&gt;」获取更多会议议题以及议程相关信息！&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;关于 GMTC 全球大前端技术大会&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;GMTC 全球大前端技术大会是由极客邦科技旗下 InfoQ 中国主办的技术盛会，关注前段、移动、AI 应用等多个技术领域，促进全球技术交流，推动国内技术升级。GMTC 为期 4 天，包括两天的会议和两天的培训课，主要面向各行业对前端、移动开发、AI 技术感兴趣的中高端技术人员，大会聚焦前沿技术及实践经验，旨在帮助参会者了解大前端 &amp;amp; 移动开发领域的技术趋势与实践案例。&lt;/p&gt;</content><author><name></name></author><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/zh-Hans" /></entry><entry xml:lang="zh-Hans"><title type="html">月报｜Mask Network 六月动态（2021 年 6 月）</title><link href="/zh-Hans/2021/07/05/mask-network-2021-6" rel="alternate" type="text/html" title="月报｜Mask Network 六月动态（2021 年 6 月）" /><published>2021-07-05T00:00:00+00:00</published><updated>2021-07-05T00:00:00+00:00</updated><id>/zh-Hans/2021/07/05/mask-network-2021-6</id><content type="html" xml:base="/zh-Hans/2021/07/05/mask-network-2021-6">&lt;p&gt;&lt;img src=&quot;/uploads/1-47.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;-开发进展&quot;&gt;&lt;strong&gt;🔧 开发进展&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;h4 id=&quot;--mask-extension&quot;&gt;&lt;strong&gt;- Mask Extension&lt;/strong&gt;&lt;/h4&gt;
+
+&lt;h5 id=&quot;v-1330&quot;&gt;v 1.33.0&lt;/h5&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;增加 BSC 和 Polygon 的支持&lt;/li&gt;
+  &lt;li&gt;UI 改进&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h5 id=&quot;v-1331&quot;&gt;v 1.33.1&lt;/h5&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;增加 BSC 和 Polygon 的红包历史查询&lt;/li&gt;
+  &lt;li&gt;Bug 修正：在非 ETH 主网环境下隐藏 Swap 按钮和功能的显示细节&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h5 id=&quot;v-1332&quot;&gt;v 1.33.2&lt;/h5&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;增加交易 Gas 费用选择和自定义界面&lt;/li&gt;
+  &lt;li&gt;增加 BSC 和 Polygon 的 ITO 历史查询&lt;/li&gt;
+  &lt;li&gt;增加更新 Polygon 浏览器的地址&lt;/li&gt;
+  &lt;li&gt;多个 Bug 修正&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;-生态系统建设&quot;&gt;&lt;strong&gt;🌳 生态系统建设&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;h4 id=&quot;--多链&quot;&gt;&lt;strong&gt;- 多链&lt;/strong&gt;&lt;/h4&gt;
+
+&lt;h5 id=&quot;-mask-network-现已接入-polygon-和-bsc多链生态即将全面开启&quot;&gt;&lt;strong&gt;⛓ Mask Network 现已接入 Polygon 和 BSC，多链生态即将全面开启&lt;/strong&gt;&lt;/h5&gt;
+
+&lt;p&gt;&lt;img src=&quot;/uploads/2-57.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Mask Network 现已正式接入 Polygon 和 Binance 智能链（Binance Smart Chain，BSC），正式宣布进入 Web 3.0 多链时代。&lt;/p&gt;
+
+&lt;p&gt;$MASK 现已全面支持 ERC20、BEP20 网络，并在 BSC 网络注册跨链资产（合约地址：0x2ed9a5c8c13b93955103b9a7c167b67ef4d568a3）。对 Polygon 网络的支持即将上线。&lt;/p&gt;
+
+&lt;p&gt;现在用户可以使用 Mask 插件，通过 BSC 和 Polygon 网络在 Twitter 上直接创建并收发加密红包，红包支持 BSC、Polygon 上各种资产。我们后续也会继续开发多链 ITO、Swap 等核心功能。&lt;/p&gt;
+
+&lt;h4 id=&quot;--nft&quot;&gt;&lt;strong&gt;- NFT&lt;/strong&gt;&lt;/h4&gt;
+
+&lt;h5 id=&quot;-mask-network--doingud推特上的次世代-nft-体验&quot;&gt;&lt;strong&gt;🖼 Mask Network × DoinGud：推特上的次世代 NFT 体验&lt;/strong&gt;&lt;/h5&gt;
+
+&lt;p&gt;&lt;img src=&quot;/uploads/3-52.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Mask Network 将和 NFT 市场 DoinGud 合作，让其可以无缝接入传统的 Web 2.0 社交平台。用户可以在 Twitter 上访问创作者个人主页的同时，查看并交易创作者的作品。Mask Network 和 DoinGud 都相信，技术应该扮演为「人」赋能、为「人」服务的角色。任何在线的社群都由人组成，应当以人为中心，自主、自治，并可以自我维持。&lt;/p&gt;
+
+&lt;h4 id=&quot;--社区与开发&quot;&gt;&lt;strong&gt;- 社区与开发&lt;/strong&gt;&lt;/h4&gt;
+
+&lt;h5 id=&quot;-gitcoin-gr10-开启mask-network-赞助并更新赏金计划&quot;&gt;&lt;strong&gt;🎉 Gitcoin GR10 开启，Mask Network 赞助并更新赏金计划&lt;/strong&gt;&lt;/h5&gt;
+
+&lt;p&gt;&lt;img src=&quot;/uploads/4-30.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;点击图片查看更多详情&lt;/p&gt;
+
+&lt;p&gt;开源软件开发激励平台 Gitcoin 于 6 月 16 日至 7 月 1 日举行了第 10 轮捐赠活动（GR10） 。发展开源 Web 3.0 是 Gitcoin 长期以来的核心使命，捐赠活动的发起也是向基于以太坊的开源项目以及开发团队进行资金激励。Mask Network 自 Gitcoin 第 6 轮捐赠活动以来就一直是其活跃的支持者，已经陆续发布了 29 则赏金。&lt;/p&gt;
+
+&lt;p&gt;具体赏金信息请访问:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://gitcoin.co/dimensiondev/bounties&quot; title=&quot;https://gitcoin.co/dimensiondev/bounties&quot;&gt;https://gitcoin.co/dimensiondev/bounties&lt;/a&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;-治理&quot;&gt;&lt;strong&gt;🙋 治理&lt;/strong&gt;&lt;/h4&gt;
+
+&lt;h5 id=&quot;-mask-network-在六月发布了三个关于未来社区治理的提案均通过了社区投票&quot;&gt;✅ Mask Network 在六月发布了三个关于未来社区治理的提案，均通过了社区投票：&lt;/h5&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;「自由发行 ITO」的流程更新&lt;br /&gt;
+&lt;a href=&quot;https://snapshot.org/#/masknetwork.eth/proposal/QmfYBYP7mKu7Tt6zdeVRWSh4uDPaLfz5JXT1dLS7WFiahE&quot; title=&quot;https://snapshot.org/#/masknetwork.eth/proposal/QmfYBYP7mKu7Tt6zdeVRWSh4uDPaLfz5JXT1dLS7WFiahE&quot;&gt;https://snapshot.org/#/masknetwork.eth/proposal/QmfYBYP7mKu7Tt6zdeVRWSh4uDPaLfz5JXT1dLS7WFiahE&lt;/a&gt;&lt;/p&gt;
+
+    &lt;p&gt;「自由发行 ITO」面向所有安装了 Mask 插件的个人和组织，它承载了我们对未来去中心化资产发行的美好愿景，我们希望「自由发行 ITO」是免费、开放的。但我们发现有一些 ITO 项目可能存在某些风险行为，有可能会给用户造成潜在风险和经济损失。为了规避这些风险，并创造更多 $MASK 的使用场景，对于「自由发行 ITO」，我们将提出最低保证金的要求。最低保证金将为「自由发行 ITO」设置一定门槛，并防止项目出现一些意外情况。和保证金相关细节的详细讨论将在 Mask 论坛（&lt;a href=&quot;https://we.mask.io/&quot; title=&quot;https://we.mask.io/&quot;&gt;https://we.mask.io/&lt;/a&gt;）上进行。&lt;/p&gt;
+
+    &lt;p&gt;备注：期望进行「社区发行 ITO」，但没有通过 ITO 审核自治小组投票或 Mask Network 社群 Snapshot 投票的项目，也可以采取提交保证金的方式发行 ITO。&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;「社区选择 ITO」的流程更新&lt;br /&gt;
+&lt;a href=&quot;https://snapshot.org/#/masknetwork.eth/proposal/QmPzMzXkFXuEDnxud4F2MA9V31MmnMBRhCCe4iFXiGrSY6&quot; title=&quot;https://snapshot.org/#/masknetwork.eth/proposal/QmPzMzXkFXuEDnxud4F2MA9V31MmnMBRhCCe4iFXiGrSY6&quot;&gt;https://snapshot.org/#/masknetwork.eth/proposal/QmPzMzXkFXuEDnxud4F2MA9V31MmnMBRhCCe4iFXiGrSY6&lt;/a&gt;&lt;/p&gt;
+
+    &lt;p&gt;&lt;img src=&quot;/uploads/5-29.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+    &lt;h6 id=&quot;️社区选择-ito发行申请表单&quot;&gt;✍️「社区选择 ITO」发行申请表单：&lt;/h6&gt;
+    &lt;p&gt;&lt;a href=&quot;https://forms.gle/gUS34vrm1xNWQDe2A&quot; title=&quot;https://forms.gle/gUS34vrm1xNWQDe2A&quot;&gt;https://forms.gle/gUS34vrm1xNWQDe2A&lt;/a&gt;&lt;/p&gt;
+
+    &lt;p&gt;######&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;ITO 审核自治小组的规则改动&lt;/strong&gt;&lt;/p&gt;
+
+    &lt;h6 id=&quot;httpssnapshotorgmasknetworkethproposalqmps9w8qb6asksjr8aim9lxptdgwmt9tncb6slvda2bgdd&quot;&gt;&lt;a href=&quot;https://snapshot.org/#/masknetwork.eth/proposal/QmPS9W8qB6asKSjR8AiM9LxpTDgWMT9TNcb6sLVdA2BgdD&quot; title=&quot;https://snapshot.org/#/masknetwork.eth/proposal/QmPS9W8qB6asKSjR8AiM9LxpTDgWMT9TNcb6sLVdA2BgdD&quot;&gt;https://snapshot.org/#/masknetwork.eth/proposal/QmPS9W8qB6asKSjR8AiM9LxpTDgWMT9TNcb6sLVdA2BgdD&lt;/a&gt;&lt;/h6&gt;
+
+    &lt;p&gt;每届 ITO 审核自治小组成员由自主申请用户、Mask Network 社区活跃用户以及专业机构背景人士三部分构成，每期成员共 11 人，任期将由此前的 15 天延长至 30 天。&lt;/p&gt;
+
+    &lt;p&gt;任期内，委员会成员可自由退出；同时，委员会成员如果未能及时履行职责将有可能被取消委员会资格。如有空位，将由 Mask Network 添加候选成员。&lt;/p&gt;
+
+    &lt;p&gt;✍️ 填写表单开始自主申请：&lt;/p&gt;
+
+    &lt;h6 id=&quot;httpsformsglecevudhymll9yrlq5a&quot;&gt;&lt;a href=&quot;https://forms.gle/ceVUdhYmLL9yRLQ5A&quot; title=&quot;https://forms.gle/ceVUdhYmLL9yRLQ5A&quot;&gt;https://forms.gle/ceVUdhYmLL9yRLQ5A&lt;/a&gt;&lt;/h6&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;💬 我们的论坛（we.mask.io）上线了！欢迎大家来论坛参与 DAO 治理的讨论。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/uploads/5-24.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/zh-Hans" /></entry><entry xml:lang="zh-Hans"><title type="html">新闻｜Mask Network 论坛现已上线，将成为新的社区交流主场</title><link href="/zh-Hans/2021/07/05/mask-network" rel="alternate" type="text/html" title="新闻｜Mask Network 论坛现已上线，将成为新的社区交流主场" /><published>2021-07-05T00:00:00+00:00</published><updated>2021-07-05T00:00:00+00:00</updated><id>/zh-Hans/2021/07/05/mask-network</id><content type="html" xml:base="/zh-Hans/2021/07/05/mask-network">&lt;p&gt;&lt;img src=&quot;/uploads/1-61.png&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;
+Mask Network 的论坛 Mask Forum 现已上线。论坛将成为 Mask Network 用户之间重要的观点交流场所，并在 MaskDAO 的治理和运作中扮演重要角色。&lt;/p&gt;
+
+&lt;p&gt;MaskDAO 是由 $MASK 通证持有者组成的去中心化自治小组（DAO），他们将在论坛上通过开放讨论等形式，对相关议题表达看法并做出决定。此前相关的累计社区投票数量超过了 2 亿 $MASK，显示出了成员对参与治理的热情。DAO 的治理需要大量沟通工作，因此一个便捷的沟通平台尤为重要。&lt;/p&gt;
+
+&lt;p&gt;此前 Mask Network 的社区交流一直分散在各个平台。社区成员之间的交流壁垒较高，沟通的效率也受到影响。论坛上线后，将成为新的社区开放交流主场，汇聚来自不同地区、语言和文化背景的人们，共享同一个身份：Mask Network 的社区成员。&lt;/p&gt;
+
+&lt;p&gt;点击下方链接，或者文章最后的「阅读原文」访问我们的论坛：&lt;a href=&quot;https://we.mask.io/&quot; title=&quot;https://we.mask.io/&quot;&gt;https://we.mask.io/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/uploads/2-39.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;论坛将分为以下几个板块：新闻及公告、综合、技术发展、产品及功能、提案、知识库。&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;「新闻及公告」&lt;/strong&gt;板块会更新 Mask Network 的新闻，版本更新信息，合作活动，月报等资讯；&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;「综合」&lt;/strong&gt;将包含 Web 3.0 相关活动的反馈和问答，并下属中文、日语、韩语的专属子版块；&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;「技术发展」&lt;/strong&gt;会包括技术细节的讨论，技术控和产品粉丝们可以在这里分享开发内容，并下载使用测试版本；&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;「产品及功能」&lt;/strong&gt;中可以发布任何关于 Mask 插件现存和未来可能上线功能的讨论；&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;「提案」&lt;/strong&gt;会成为 MaskDAO 治理的重要场所，任何成员都可以发布贴文和提案，并与 ITO 审核自治小组交流。刚刚通过的&lt;a href=&quot;http://mp.weixin.qq.com/s?__biz=MzU4OTkwNDYzMw==&amp;amp;mid=2247488621&amp;amp;idx=1&amp;amp;sn=797ccd0349e856b541091d4c77c9f567&amp;amp;chksm=fdc73bfbcab0b2ed5c26e34222924a0086d1917756a2036b3dfee7fa05b070cf1a6988b8405f&amp;amp;scene=21#wechat_redirect&quot;&gt;关于「自由发行 ITO」的提案&lt;/a&gt;细节，都可以在这里讨论；&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;「知识库」&lt;/strong&gt;则是一个和 Mask 产品、相关社区活动有关的百科全书。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;论坛将以英语作为主要沟通语言，中文、日语、韩语等多语言频道也将陆续上线。除了日常讨论和交流外，论坛也会定期更新包含满满干货的长文章。&lt;/p&gt;
+
+&lt;p&gt;来我们的论坛发布帖文，表达你的想法，参与 DAO 的治理，Mask 团队成员会不定期出现互动。我们期待着社区成员灵感和思考的交锋与激荡。&lt;/p&gt;</content><author><name></name></author><summary type="html">Mask Network 的论坛 Mask Forum 现已上线。论坛将成为 Mask Network 用户之间重要的观点交流场所，并在 MaskDAO 的治理和运作中扮演重要角色。</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/zh-Hans" /></entry><entry xml:lang="zh-Hans"><title type="html">提案｜ITO 审核自治小组 &amp;amp; 项目申请规则调整</title><link href="/zh-Hans/2021/06/25/ito" rel="alternate" type="text/html" title="提案｜ITO 审核自治小组 &amp; 项目申请规则调整" /><published>2021-06-25T00:00:00+00:00</published><updated>2021-06-25T00:00:00+00:00</updated><id>/zh-Hans/2021/06/25/ito</id><content type="html" xml:base="/zh-Hans/2021/06/25/ito">&lt;p&gt;&lt;img src=&quot;/uploads/1-59.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;自 Mask Network 在四月公布 ITO 发行参与规则与 ITO 审核自治小组制度以来，我们积极进行实践与探索。用户和项目方可以通过「ITO 自由发行」与「ITO 社区发行」两种方式参与使用 ITO 功能。&lt;/p&gt;
+
+&lt;p&gt;在过去一个多月的几次 ITO 项目尝试中，我们收到了众多的「ITO 社区发行」项目申请，经历了 2 届 ITO 审核自治小组，协助 Lever、O3 Swap、DAOSquare 、Evanesco 等项目发起 ITO，无偿提供了包括智能合约部署、市场宣发等方面的支持，得到合作方与社区成员的认可。其中 Snapshot 累计投票数量超 200M $MASK，ITO 累计参与人次破万。同时我们也发现现有「ITO 自由发行」与「ITO 社区发行」规则中存在的潜在问题和风险，如「ITO 自由发行」项目可能存在风险并给用户造成潜在的经济损失；「ITO 社区发行」存在项目沟通流程不清晰，耗费过长时间等问题。在「ITO 社区发行」 的沟通过程中，ITO 审核自治小组扮演了重要的角色。但在审核自治小组参与 ITO 项目初审的过程中，我们发现审核自治小组对 Mask Network 社群代表程度不够，沟通效率较低等问题。&lt;/p&gt;
+
+&lt;p&gt;因此，我们提议对现有「ITO 自由发行」与「ITO 社区发行」 的发行流程及 ITO 审核自治小组的相关规则进行调整和更新，期望找到上述问题可行的解决方式。Mask Network 将发起 3 个为期 48 小时的 Snapshot 投票提案。$MASK 持有者将有权利投出 “Yes” 或者 “No” 来支持或者否定此提案。&lt;/p&gt;
+
+&lt;p&gt;三个提案详情如下：（具体内容以 Snapshot 正文为准）&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;提案 1：「自由发行 ITO」的流程更新&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://snapshot.org/#/masknetwork.eth/proposal/QmfYBYP7mKu7Tt6zdeVRWSh4uDPaLfz5JXT1dLS7WFiahE&quot; title=&quot;https://snapshot.org/#/masknetwork.eth/proposal/QmfYBYP7mKu7Tt6zdeVRWSh4uDPaLfz5JXT1dLS7WFiahE&quot;&gt;https://snapshot.org/#/masknetwork.eth/proposal/QmfYBYP7mKu7Tt6zdeVRWSh4uDPaLfz5JXT1dLS7WFiahE&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;「自由发行 ITO」面向所有安装了 Mask 插件的个人和组织，它承载了我们对未来去中心化资产发行的美好愿景，我们希望「自由发行 ITO」是免费、开放的。但我们发现有一些 ITO 项目可能存在某些风险行为，有可能会给用户造成潜在风险和经济损失。为了规避这些风险，并创造更多 $MASK 的使用场景，对于「自由发行 ITO」，我们将提出最低保证金的要求。最低保证金将为「自由发行 ITO」设置一定门槛，并防止项目出现一些意外情况。更多和保证金相关的细节将在 Mask 论坛（&lt;a href=&quot;https://we.mask.io/&quot; title=&quot;https://we.mask.io/&quot;&gt;https://we.mask.io/&lt;/a&gt;）上线后进行详细讨论。&lt;/p&gt;
+
+&lt;p&gt;备注：期望进行「社区发行 ITO」，但没有通过 ITO 审核自治小组投票或 Mask Network 社群 Snapshot 投票的项目，也可以采取提交保证金的方式发行 ITO。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;提案 2：「社区选择 ITO」的流程更新&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://snapshot.org/#/masknetwork.eth/proposal/QmPzMzXkFXuEDnxud4F2MA9V31MmnMBRhCCe4iFXiGrSY6&quot; title=&quot;https://snapshot.org/#/masknetwork.eth/proposal/QmPzMzXkFXuEDnxud4F2MA9V31MmnMBRhCCe4iFXiGrSY6&quot;&gt;https://snapshot.org/#/masknetwork.eth/proposal/QmPzMzXkFXuEDnxud4F2MA9V31MmnMBRhCCe4iFXiGrSY6&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/uploads/2-55.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;项目方填写申请 ITO 社区发行的表单（&lt;a href=&quot;https://forms.gle/gUS34vrm1xNWQDe2A&quot; title=&quot;https://forms.gle/gUS34vrm1xNWQDe2A&quot;&gt;https://forms.gle/gUS34vrm1xNWQDe2A&lt;/a&gt;），提供项目资料（包括不限于白皮书、团队介绍、投资机构、代币经济模型、分配机制、是否有其他 IDO 计划等）以及初步的 ITO 方案（包括但不限于认购总额、认购轮次、持仓规定、白名单细则等）；&lt;/li&gt;
+  &lt;li&gt;ITO 审核自治小组针对项目本身及 ITO 初步方案进行第一次为期 48 小时的集中讨论，给予反馈并进行第一轮投票（ITO 方案通过需投票参与人数不低于 7 人，且赞成率超过 50% ）。如方案通过， Mask Network 将发起面向所有社区成员的 Snapshot 投票；&lt;/li&gt;
+  &lt;li&gt;如方案未通过第一轮投票，项目方可根据 ITO 审核自治小组意见，在 24 小时内修改调整，并提供 ITO 最终方案。ITO 审核自治小组进行为期 24 小时的第二轮集中讨论和投票，规则同上（方案通过需投票参与人数不低于 7 人，且赞成率超过 50%）。投票通过即可发起面向所有社区成员的 Snapshot 投票；若本轮投票仍未通过，则代表该项目没有通过 ITO 审核自治小组的审核。&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;strong&gt;提案 3：ITO 审核自治小组的规则改动&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://snapshot.org/#/masknetwork.eth/proposal/QmPS9W8qB6asKSjR8AiM9LxpTDgWMT9TNcb6sLVdA2BgdD&quot; title=&quot;https://snapshot.org/#/masknetwork.eth/proposal/QmPS9W8qB6asKSjR8AiM9LxpTDgWMT9TNcb6sLVdA2BgdD&quot;&gt;https://snapshot.org/#/masknetwork.eth/proposal/QmPS9W8qB6asKSjR8AiM9LxpTDgWMT9TNcb6sLVdA2BgdD&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;每届 ITO 审核自治小组成员由自主申请用户、Mask Network 社区活跃用户以及专业机构背景人士三部分构成，每期成员共 11 人，任期将由此前的 15 天延长至 30 天。&lt;/p&gt;
+
+&lt;p&gt;任期内，委员会成员可自由退出；同时，委员会成员如果未能及时履行职责*将有可能被取消委员会资格。如有空位，将由 Mask Network 添加候选成员。&lt;/p&gt;
+
+&lt;p&gt;1/ 用户申请。满足以下任意 1 个条件，即可填写表格参与申请。&lt;/p&gt;
+
+&lt;p&gt;申请地址：&lt;a href=&quot;https://forms.gle/ceVUdhYmLL9yRLQ5A&quot; title=&quot;https://forms.gle/ceVUdhYmLL9yRLQ5A&quot;&gt;https://forms.gle/ceVUdhYmLL9yRLQ5A&lt;/a&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;链上持仓不低于 1000 $MASK 的用户；&lt;/li&gt;
+  &lt;li&gt;参与过至少 2 次 Mask Network 链上合约交互，包括但不限于 ITO 认购、红包认领、NFT 拍卖等；&lt;/li&gt;
+  &lt;li&gt;在 2021 年 5 月 30 日前使用 Mask Network 插件功能发布过至少 3 次加密 Twitter 。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;2/ Mask Network 社区中的活跃成员将有机会进入 ITO 审核自治小组，其中包括：&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;每日活跃在 Mask Telegram、WeChat Group、Discord、论坛等 Mask 社区用户；&lt;/li&gt;
+  &lt;li&gt;日常中，对于 Mask Network 有提出过建设性意见的用户。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;3/ 我们将邀请区块链投资、研究、媒体等机构的专业人士加入 ITO 审核自治小组。&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;希望你拥有专业的区块链投资、研究、媒体等机构背景；&lt;/li&gt;
+  &lt;li&gt;能够本着中立严谨的态度，提供相关的专业意见，共同筛选优质项目；并且为非利益相关者。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;* 未能履行委员会成员职责的情景包括不限于：&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;一个项目申请周期内，从未参与讨论并给予反馈；&lt;/li&gt;
+  &lt;li&gt;在委员会投票期间，超过 2 次未做出投票或明确表示弃权；&lt;/li&gt;
+  &lt;li&gt;以委员会成员身份，为个人谋取私利；&lt;/li&gt;
+  &lt;li&gt;有违 MaskDAO 共同利益的其他表现。&lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/zh-Hans/%7B%7B%20site.baseurl_root%20%7D%7D/uploads/1-59.png" /></entry><entry xml:lang="zh-Hans"><title type="html">新闻｜Gitcoin GR10 开启，Mask Network 赞助并更新赏金计划</title><link href="/zh-Hans/2021/06/17/gitcoin-gr10-mask-network" rel="alternate" type="text/html" title="新闻｜Gitcoin GR10 开启，Mask Network 赞助并更新赏金计划" /><published>2021-06-17T00:00:00+00:00</published><updated>2021-06-17T00:00:00+00:00</updated><id>/zh-Hans/2021/06/17/gitcoin-gr10-mask-network</id><content type="html" xml:base="/zh-Hans/2021/06/17/gitcoin-gr10-mask-network">&lt;p&gt;&lt;img src=&quot;/uploads/_20210617123502.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;开源软件开发激励平台 Gitcoin 将于 6 月 16 日至 7 月 1 日举行其第 10 轮捐赠活动（GR10） 。发展开源 Web 3.0 是 Gitcoin 长期以来的核心使命，捐赠活动的发起也是向基于以太坊的开源项目以及开发团队进行资金激励。就像以往的捐赠活动一样，GR 10 将采用二次方募资的形式，更好地支持更多 Web 3.0 项目。&lt;/p&gt;
+
+&lt;p&gt;在 2020 年 3 月举行的的第 9 轮捐赠活动（GR9）中，Gitcoin 共获得 $1,380,000 的捐赠金额，对应资金 $500,000，支持了 812 个开源项目。在第 9 轮捐赠活动的黑客松活动中，更是迎来了 2250 名参与者和总计 $350,000 的赏金。而第 10 轮捐赠黑客松将超越第 9 轮，成为迄今为止规模最大、奖励最多的一轮黑客松。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/uploads/2-38.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Mask Network 自 Gitcoin 第 6 轮捐赠活动以来就一直是其活跃的支持者，已经陆续发布了 29 则赏金。在本轮 Gitcoin 捐赠活动中 Mask Network 也继续提供了资金支持，鼓励更多开发者参与到未来 Web 3.0 以及开源开发的生态建设中来。此轮同在主要资助行列的项目还有：Polygon、Aave、Minds.com、The Graph、Badger Finance、DODO Labs、Force、Uniswap 等等。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/uploads/3-50.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;除了为近几轮捐赠活动提供资金支持以外，Mask 的插件也在去年 6 月支持了 Gitcoin 项目在 Twitter 上的展示。安装 Mask 插件后，帖文中的 Gitcoin 项目就会被自动识别并生成捐赠入口。用户可以直接捐赠支持，无需离开 Twitter 页面。使用插件极大地简化了为 Gitcoin 上项目募款的繁琐步骤（添加项目至购物车，通过 zkSync 结账等），并增加了这些优秀 Web 3.0 项目的曝光度。&lt;/p&gt;
+
+&lt;p&gt;Vitalik Buterin 在 Gitcoin 第 9 轮捐赠活动结束后，在自己的博客中回顾了这次活动：&lt;a href=&quot;https://vitalik.ca/general/2021/04/02/round9.html&quot; title=&quot;https://vitalik.ca/general/2021/04/02/round9.html&quot;&gt;https://vitalik.ca/general/2021/04/02/round9.html&lt;/a&gt; ，其中提及了 Mask Network （文中称 Maskbook）以及我们对 Gitcoin 系列捐赠活动的支持。&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;以下是 Mask Network 最新发布的 5 则赏金信息：&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/uploads/4-34.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;全部赏金信息请点击: &lt;a href=&quot;https://gitcoin.co/dimensiondev/bounties&quot; title=&quot;https://gitcoin.co/dimensiondev/bounties&quot;&gt;https://gitcoin.co/dimensiondev/bounties&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;1&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;将 PoolTogether 接入 Mask Network&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://gitcoin.co/issue/DimensionDev/Maskbook/3343/100025893&quot; title=&quot;https://gitcoin.co/issue/DimensionDev/Maskbook/3343/100025893&quot;&gt;https://gitcoin.co/issue/DimensionDev/Maskbook/3343/100025893&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;平台：Gitcoin&lt;/p&gt;
+
+&lt;p&gt;经验要求：中级&lt;/p&gt;
+
+&lt;p&gt;类别 : Mask 插件&lt;/p&gt;
+
+&lt;p&gt;时限：2 周&lt;/p&gt;
+
+&lt;p&gt;悬赏金额：250 $MASK 或 $1,500&lt;/p&gt;
+
+&lt;p&gt;需求描述：&lt;/p&gt;
+
+&lt;p&gt;PoolTogether 是建立在以太坊上的无损乐透。其使命是通过提供健康的区块链版彩票替代产品，创造金融安全。购买彩票，则有机会获胜。如果你没有赢，可以拿回所有的钱。这是可能的，因为奖金源于彩票资金池的利息。PoolTogether 基于被证明的概念，使用 Dai，且构建在以太坊上，善用智能合约运行每个彩票池，经过 Quanstamp 审核和验证。&lt;/p&gt;
+
+&lt;p&gt;创建一个 PoolTogether 的插件，UI 可以和 dHEDGE 的插件类似。&lt;/p&gt;
+
+&lt;p&gt;资源：&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/DimensionDev/Maskbook/tree/master/docs/bounty-guide.md&quot; title=&quot;https://github.com/DimensionDev/Maskbook/tree/master/docs/bounty-guide.md&quot;&gt;https://github.com/DimensionDev/Maskbook/tree/master/docs/bounty-guide.md&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://pooltogether.com/&quot; title=&quot;https://pooltogether.com/&quot;&gt;https://pooltogether.com/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.pooltogether.com/&quot; title=&quot;https://docs.pooltogether.com/&quot;&gt;https://docs.pooltogether.com/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;2&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;将 Reality Card 接入 Mask Network&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://gitcoin.co/issue/DimensionDev/Maskbook/3342/100025892&quot; title=&quot;https://gitcoin.co/issue/DimensionDev/Maskbook/3342/100025892&quot;&gt;https://gitcoin.co/issue/DimensionDev/Maskbook/3342/100025892&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;平台：Gitcoin&lt;/p&gt;
+
+&lt;p&gt;经验要求：中级&lt;/p&gt;
+
+&lt;p&gt;类别 : Mask 插件&lt;/p&gt;
+
+&lt;p&gt;时限：2 周&lt;/p&gt;
+
+&lt;p&gt;悬赏金额：250 $MASK 或 $1,500&lt;/p&gt;
+
+&lt;p&gt;需求描述：&lt;/p&gt;
+
+&lt;p&gt;Reality Cards 是一个新兴的预测市场，可以将下注结果变成可购买、可拥有的 NFT。在结果揭晓前后，人们都会对其下注的内容产生强烈的展示欲。和 Mask 的 DApplets 结合，也许会有强大的效果。&lt;/p&gt;
+
+&lt;p&gt;创建 Reality Cards 插件，UI 可以和 dHEDGE 的插件类似。&lt;/p&gt;
+
+&lt;p&gt;资源：&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/DimensionDev/Maskbook/tree/master/docs/bounty-guide.md&quot; title=&quot;https://github.com/DimensionDev/Maskbook/tree/master/docs/bounty-guide.md&quot;&gt;https://github.com/DimensionDev/Maskbook/tree/master/docs/bounty-guide.md&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://realitycards.io/&quot; title=&quot;https://realitycards.io/&quot;&gt;https://realitycards.io/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/RealityCards&quot; title=&quot;https://github.com/RealityCards&quot;&gt;https://github.com/RealityCards&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;3&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;将 Augur Turbo 接入 Mask Network&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://gitcoin.co/issue/DimensionDev/Maskbook/3341/100025891&quot; title=&quot;https://gitcoin.co/issue/DimensionDev/Maskbook/3341/100025891&quot;&gt;https://gitcoin.co/issue/DimensionDev/Maskbook/3341/100025891&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;平台：Gitcoin&lt;/p&gt;
+
+&lt;p&gt;经验要求：中级&lt;/p&gt;
+
+&lt;p&gt;类别 : Mask 插件&lt;/p&gt;
+
+&lt;p&gt;时限：2 周&lt;/p&gt;
+
+&lt;p&gt;悬赏金额：250 $MASK 或 $1,500&lt;/p&gt;
+
+&lt;p&gt;需求描述：&lt;/p&gt;
+
+&lt;p&gt;Augur Turbo 是之前在 Matic 上已经运行 6 年的 Augur 的新版本。目前专注于体育菠菜。&lt;/p&gt;
+
+&lt;p&gt;创建 Augur Turbo 插件，UI 可以和 dHEDGE 的插件类似。&lt;/p&gt;
+
+&lt;p&gt;资源：&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/DimensionDev/Maskbook/tree/master/docs/bounty-guide.md&quot; title=&quot;https://github.com/DimensionDev/Maskbook/tree/master/docs/bounty-guide.md&quot;&gt;https://github.com/DimensionDev/Maskbook/tree/master/docs/bounty-guide.md&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://augur.net/developers&quot; title=&quot;https://augur.net/developers&quot;&gt;https://augur.net/developers&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://help.augur.net/&quot; title=&quot;https://help.augur.net/&quot;&gt;https://help.augur.net/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;4&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;将 Omen 接入 Mask Network&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://gitcoin.co/issue/DimensionDev/Maskbook/3339/100025890&quot; title=&quot;https://gitcoin.co/issue/DimensionDev/Maskbook/3339/100025890&quot;&gt;https://gitcoin.co/issue/DimensionDev/Maskbook/3339/100025890&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;平台：Gitcoin&lt;/p&gt;
+
+&lt;p&gt;经验要求：中级&lt;/p&gt;
+
+&lt;p&gt;类别 : Mask 插件&lt;/p&gt;
+
+&lt;p&gt;时限：2 周&lt;/p&gt;
+
+&lt;p&gt;悬赏金额：250 $MASK 或 $1,500&lt;/p&gt;
+
+&lt;p&gt;需求描述：&lt;/p&gt;
+
+&lt;p&gt;菠菜插件。&lt;/p&gt;
+
+&lt;p&gt;创建 Omen 插件，UI 可以和 dHEDGE 的插件类似。&lt;/p&gt;
+
+&lt;p&gt;资源：&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/DimensionDev/Maskbook/tree/master/docs/bounty-guide.md&quot; title=&quot;https://github.com/DimensionDev/Maskbook/tree/master/docs/bounty-guide.md&quot;&gt;https://github.com/DimensionDev/Maskbook/tree/master/docs/bounty-guide.md&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://omen.eth.link/#/liquidity&quot; title=&quot;https://omen.eth.link/#/liquidity&quot;&gt;https://omen.eth.link/#/liquidity&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/protofire/omen-exchange&quot; title=&quot;https://github.com/protofire/omen-exchange&quot;&gt;https://github.com/protofire/omen-exchange&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;5&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;将 GoodGhosting 接入 Mask Network&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://gitcoin.co/issue/DimensionDev/Maskbook/3337/100025889&quot; title=&quot;https://gitcoin.co/issue/DimensionDev/Maskbook/3337/100025889&quot;&gt;https://gitcoin.co/issue/DimensionDev/Maskbook/3337/100025889&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;平台：Gitcoin&lt;/p&gt;
+
+&lt;p&gt;经验要求：中级&lt;/p&gt;
+
+&lt;p&gt;类别 : Mask 插件&lt;/p&gt;
+
+&lt;p&gt;时限：2 周&lt;/p&gt;
+
+&lt;p&gt;悬赏金额：250 $MASK 或 $1,500&lt;/p&gt;
+
+&lt;p&gt;需求描述：&lt;/p&gt;
+
+&lt;p&gt;GoodGhosting 是一个奖励定期储蓄的 DeFi 资金池。其中的活跃用户将收获来自定期储蓄失败用户的利息。这和传统社交媒体的风格十分吻合，因此我们觉得这个创造插件会非常有意思。&lt;/p&gt;
+
+&lt;p&gt;（可能是 Mask 的第一个 Polygon DeFi 插件！）&lt;/p&gt;
+
+&lt;p&gt;创建 GoodGhosting 插件，UI 可以和 Gitcoin 的插件类似。&lt;/p&gt;
+
+&lt;p&gt;资源：&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/DimensionDev/Maskbook/tree/master/docs/bounty-guide.md&quot; title=&quot;https://github.com/DimensionDev/Maskbook/tree/master/docs/bounty-guide.md&quot;&gt;https://github.com/DimensionDev/Maskbook/tree/master/docs/bounty-guide.md&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://goodghosting.com/#/&quot; title=&quot;https://goodghosting.com/#/&quot;&gt;https://goodghosting.com/#/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.goodghosting.com/goodghosting/guides/connecting#connecting-to-goodghosting-on-polygon&quot; title=&quot;https://docs.goodghosting.com/goodghosting/guides/connecting#connecting-to-goodghosting-on-polygon&quot;&gt;https://docs.goodghosting.com/goodghosting/guides/connecting#connecting-to-goodghosting-on-polygon&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://gitcoin.co/grants/1112/goodghosting-a-defi-savings-game&quot; title=&quot;https://gitcoin.co/grants/1112/goodghosting-a-defi-savings-game&quot;&gt;https://gitcoin.co/grants/1112/goodghosting-a-defi-savings-game&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/zh-Hans/%7B%7B%20site.baseurl_root%20%7D%7D/uploads/_20210617123502.jpg" /></entry><entry xml:lang="zh-Hans"><title type="html">新闻｜Mask Network × DoinGud：推特上的次世代 NFT 体验</title><link href="/zh-Hans/2021/06/16/mask-network-x-doingud-nft" rel="alternate" type="text/html" title="新闻｜Mask Network × DoinGud：推特上的次世代 NFT 体验  " /><published>2021-06-16T00:00:00+00:00</published><updated>2021-06-16T00:00:00+00:00</updated><id>/zh-Hans/2021/06/16/mask-network-x-doingud-nft</id><content type="html" xml:base="/zh-Hans/2021/06/16/mask-network-x-doingud-nft">&lt;p&gt;&lt;img src=&quot;/uploads/1-57.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Mask Network 将和 NFT 市场 DoinGud 合作，让其可以无缝接入传统的 Web 2.0 社交平台。用户可以在 Twitter 上访问创作者个人主页的同时，查看并交易创作者的作品。&lt;/p&gt;
+
+&lt;p&gt;网络上的内容生产者们除了在创造作品外，不可避免地投入了许多精力寻找支持者。收藏者和相关策展人也花费许多心思在寻找「最完美」的作品上。传统社交网络（如 Twitter）为人们寻找彼此提供了便利，但在建立连接的基础上，进一步为双方带来商业/经济收益的操作，却很难在传统社交网络中实现，不得不转移到新的平台。&lt;/p&gt;
+
+&lt;p&gt;作为一个开源 Web 3.0 应用，Mask Network 一直在努力搭建现有互联网 Web 2.0 和新型开放互联网 Web 3.0 之间的桥梁，期望把更多优秀的 Web 3.0 应用带到 Twitter 和 Facebook 这样的传统社交媒体平台上。Mask 插件可以为使用者省去许多繁琐的步骤，让内容创造相关的从业人员在他们熟悉的传统社交媒体平台上和同行及支持者互动的同时，进行其作品 NFT 的展示和交易。&lt;/p&gt;
+
+&lt;p&gt;此次合作对于创作者等群体意义非凡：在 Mask Network 的帮助下，DoinGud 将在 DApplet 开发上更进一步，从而更好地为使用 DoinGud 的创作者、收藏者和社会影响力组织们赋能。不用成为相关技术的专家，也不用学习新的平台使用逻辑，在熟悉的界面下就可以感受到 Web 3.0 的魅力。同时，此次合作也丰富了 Mask 插件使用者们对 NFT 相关内容的操作选择，让更多人可以认识到才华横溢的创造者们。&lt;/p&gt;
+
+&lt;p&gt;Mask Network 和 DoinGud 都相信，技术应该扮演为「人」赋能、为「人」服务的角色。任何在线的社群都由人组成，应当以人为中心，自主、自治，并可以自我维持。&lt;/p&gt;
+
+&lt;p&gt;DoinGud 的创始人 Manuel Gonzalez Alzuru 说：“就在我们建造 NFT 平台，让创作者、策展人、收藏家和社会影响力组织聚到一起的同时，我们也专注于为社区提供让访问 NFT 世界更加便捷的工具。Mask Network 提供的将 Web 3.0 解决方案带到在传统社交媒体上的办法，成为 DoinGud 和我们努力服务的广大社区的自然首选。”&lt;/p&gt;
+
+&lt;p&gt;我们欢迎所有创造者加入社群，丰富讨论，带来新鲜有趣的想法。也敬请关注我们即将举行的关于 NFT 应用的 Clubhouse 谈话！&lt;/p&gt;
+
+&lt;p&gt;对谈时间：15:30 June 16th, GMT&lt;/p&gt;
+
+&lt;p&gt;对谈地址：&lt;br /&gt;
+&lt;a href=&quot;https://www.clubhouse.com/event/xnR3OA3R&quot; title=&quot;https://www.clubhouse.com/event/xnR3OA3R&quot;&gt;https://www.clubhouse.com/event/xnR3OA3R&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/uploads/2-53.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;关于 DoinGud&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;DoinGud 是一个生态系统，旨在探索数字内容、创造者、和给予经济的未来。在这里，各个领域的策展人和创造者可以和自己的社群及收藏家联系，并支持他们选择的社会影响组织。DoinGud 平台和最顶尖的创造者、技术人员、社群及相关公司合作开发，为人们带来次世代的 NFT 体验。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;关于 Mask Network&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Mask Network 是一个帮助用户从 Web 2.0 无缝过渡到 Web 3.0 的门户。其提供的主要功能是对信息传输进行加解密，并围绕着这一功能不断发展。Mask Network 倡导用户珍视自己的隐私数据，个人资产并拥有主权。&lt;/p&gt;
+
+&lt;p&gt;Mask Network 集去隐私社交，无国界支付网络，去中心化文件存储与分享，去中心化金融，治理（DAO）、NFT 于一体，帮助用户在 Twitter、Facebook 等传统社交网络上保护自身的隐私，数据，资产和权利。Mask Network 创建了一个去中心化的应用程序生态系统，为数以万计的用户搭建了一个连接 Web 2.0（现有互联网）和 Web 3.0（新型开放的互联网）的桥梁。&lt;/p&gt;</content><author><name></name></author><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/zh-Hans/%7B%7B%20site.baseurl_root%20%7D%7D/uploads/1-57.png" /></entry><entry xml:lang="zh-Hans"><title type="html">新闻｜Mask Network 现已接入 Polygon 和 BSC，Web 3.0 多链元宇宙正式开启</title><link href="/zh-Hans/2021/06/14/mask-network-polygon-bsc-web-3.0" rel="alternate" type="text/html" title="新闻｜Mask Network 现已接入 Polygon 和 BSC，Web 3.0 多链元宇宙正式开启" /><published>2021-06-14T00:00:00+00:00</published><updated>2021-06-14T00:00:00+00:00</updated><id>/zh-Hans/2021/06/14/mask-network-polygon-bsc-web-3.0</id><content type="html" xml:base="/zh-Hans/2021/06/14/mask-network-polygon-bsc-web-3.0">&lt;p&gt;&lt;img src=&quot;/uploads/1-56.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Mask Network 现已正式接入 Polygon 和 Binance 智能链（Binance Smart Chain，BSC），正式宣布进入 Web 3.0 多链时代。&lt;/p&gt;
+
+&lt;p&gt;Mask Network 一直以来都为不断寻找优秀的 Web 3.0 应用而努力，并致力于在减少支出的同时向广大用户提供更优质的产品体验。以太坊主网通证价格上涨（和较大波动），以及 Web 3.0 用户的飞速增长和 DApp 数量的不断上升，造成了整个以太坊网络的拥堵和昂贵。越来越多的项目开始着手寻找跨链等解决方案。Mask Network 紧跟用户的需求和痛点，不断筛选和调整解决方案，并最终与 Polygon 和 BSC 等网络达成共识，将创建并完善 Mask Network 的多链元宇宙。&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Polygon 提供经济高效的跨链解决方案。Polygon 提供区块链上的 Layer2 解决方案，使得以太坊上的交易可以通过 Plasma 侧链和 PoS 权益证明更加安全、即时、大规模。&lt;/li&gt;
+  &lt;li&gt;Binance 智能链（BSC）拥有智能合约功能并与以太坊虚拟机（EVM）兼容，能够保持完整币安链的高吞吐量，同时将智能合约引入其生态系统。BSC 的高扩展性、低交易费用和 3 秒的区块产出时间使其收到了用户的广泛好评。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;在正式接入 Polygon 以及 BSC 后，Mask Network 的生态项目将不再局限于以太坊，这将能够创建更快速和使用成本更低的 DApp，并极大地拓展 Mask Network 的生态版图；Polygon 和 BSC 链上许多优秀的 DApp，也能通过 Mask Network 接触到更多用户。现在， Mask 现有插件中的红包功能已经支持多链，用户可以使用 Polygon 网络和 BSC 网络来收发 Twitter 红包。后续，Mask Network 也会将 ITO、Swap 等功能陆续多链化，有效降低用户的成本，吸引更多玩家。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/uploads/2-37.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;对于 Mask Network 来说，接入 Polygon 和 BSC 更意味着我们将欢迎来自不同生态的用户。我们期待着更多有创意的 Mask Network 插件使用方式；在交易费用高昂时，Mask Network 的用户也可以有更丰富的操作选择，减少不必要的损失。&lt;/p&gt;
+
+&lt;p&gt;我们对于即将到来的多链时代十分激动。这不仅将为用户降低使用成本，提供更丰富的体验，也是 Mask Network 开创未来开放互联网愿景中不可或缺的一个阶段。我们希望通过不懈的努力，让 Web 3.0 成为一个对所有互联网用户都更友好、更易于使用的数字世界。&lt;/p&gt;</content><author><name></name></author><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/zh-Hans" /></entry><entry xml:lang="zh-Hans"><title type="html">月报｜Mask Network 五月动态（2021 年 5 月）</title><link href="/zh-Hans/2021/06/03/mask-network-2021-5" rel="alternate" type="text/html" title="月报｜Mask Network 五月动态（2021 年 5 月）" /><published>2021-06-03T00:00:00+00:00</published><updated>2021-06-03T00:00:00+00:00</updated><id>/zh-Hans/2021/06/03/mask-network-2021-5</id><content type="html" xml:base="/zh-Hans/2021/06/03/mask-network-2021-5">&lt;p&gt;&lt;img src=&quot;/uploads/may-newsletter-cover.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;-开发进展&quot;&gt;&lt;strong&gt;🔧 开发进展&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;h3 id=&quot;--mask-plug-in&quot;&gt;&lt;strong&gt;- Mask Plug-in&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;h4 id=&quot;v-1317&quot;&gt;v 1.31.7&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;改进 NFT 信息的显示&lt;/li&gt;
+  &lt;li&gt;改进了 ITO 卡片显示的细节&lt;/li&gt;
+  &lt;li&gt;添加拥有者的专属显示&lt;/li&gt;
+  &lt;li&gt;增加了资格评判&lt;/li&gt;
+  &lt;li&gt;改进了钱包，交易，和收藏品（Collectible）的展示&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;v-1320&quot;&gt;v 1.32.0&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;ITO 插件的 UI 改进&lt;/li&gt;
+  &lt;li&gt;处理细节校正&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;v-1323&quot;&gt;v 1.32.3&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;展示过去的 ITO 「Claim」按钮&lt;/li&gt;
+  &lt;li&gt;改进 ITO 显示的细节&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;-生态系统建设&quot;&gt;&lt;strong&gt;🌳 生态系统建设&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;h3 id=&quot;--隐私&quot;&gt;&lt;strong&gt;- 隐私&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;p&gt;🔏 &lt;a href=&quot;https://matters.news/@masknetwork/mask-network-%E5%B0%86%E4%B8%8E-nym-%E5%90%88%E4%BD%9C%E5%BC%80%E5%8F%91%E6%8F%92%E4%BB%B6-%E5%85%B1%E5%BB%BA%E9%9A%90%E7%A7%81%E4%BF%9D%E6%8A%A4-bafyreig6fnxgkufkwh2w7em2linncpbhrhlcecqadne6c45vdjm2zay4yu&quot;&gt;&lt;strong&gt;Mask Network 将与 Nym 合作开发插件，共建隐私保护&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://assets.matters.news/embed/32264078-97fd-4b0b-a000-1cebe8572090.webp&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Mask Network 和 Nym 进行了关于下一个混合网络测试网的深度讨论。双方将在隐私保护，加密去中心化概念的现实应用方面开启对话和深度探讨，并计划通过合作开发插件合作等形式，使用户能够在 Mask Network 插件上使用 Nym 测试网。&lt;/p&gt;
+
+&lt;h2 id=&quot;-社区选择-ito&quot;&gt;&lt;strong&gt;🙋 社区选择 ITO&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;p&gt;Mask Network 在五月支持了 4 个通过投票的社区选择 ITO 项目，其中 3 个项目的 ITO 已经成功发布：&lt;/p&gt;
+
+&lt;p&gt;（排序按照 ITO 发行时间先后）&lt;/p&gt;
+
+&lt;h3 id=&quot;lever-network&quot;&gt;&lt;strong&gt;Lever Network&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://assets.matters.news/embed/c13640f2-d46c-462c-8cbe-40a4c01fc2d2.webp&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;基于 AMM 的杠杆交易经纪平台&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://masknetwork.medium.com/announcing-the-community-choice-ito-lever-network-c86b78f8935d&quot;&gt;更多详情&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;o3-swap&quot;&gt;&lt;strong&gt;O3 Swap&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://assets.matters.news/embed/e7f5b0ea-846d-4832-86c7-97845a41c11a.webp&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;跨链聚合交易协议&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://masknetwork.medium.com/announcing-the-community-choice-ito-o3-swap-4090ddae63e1&quot;&gt;更多详情&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;dao-square&quot;&gt;&lt;strong&gt;DAO Square&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://assets.matters.news/embed/06d61804-6878-474c-a9bd-e8ed498db41c.webp&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Web 3.0 孵化器&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://news.daosquare.io/daosquare-ito-details-f727202fe9e8&quot;&gt;更多详情&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;evanesco-network&quot;&gt;&lt;strong&gt;Evanesco Network&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;p&gt;ITO 还未进行，日期待定&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://assets.matters.news/embed/80397e7b-e2a4-4be9-90e0-0449d0bfb7d7.webp&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;基于波卡生态的 Layer0 层隐私网络协议&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://evanesco-networks.medium.com/&quot;&gt;更多详情&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://forms.gle/kP2FQbSBqwUP5TDw7&quot;&gt;&lt;strong&gt;ITO 项目方申请表&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://forms.gle/j1BvcR8189AAjgLw8&quot;&gt;&lt;strong&gt;ITO 审核自治小组申请表&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://news.mask.io/zh-Hans/2021/04/22/ito-is-upgraded-who-is-the-next&quot;&gt;&lt;strong&gt;点击查看&lt;/strong&gt;&lt;/a&gt;&lt;strong&gt;更多关于社区选择 ITO 的信息&lt;/strong&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/zh-Hans/%7B%7B%20site.baseurl_root%20%7D%7D/uploads/may-newsletter-cover.png" /></entry></feed>

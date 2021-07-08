@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+	<channel>
+		<title>News</title>
+		<description>The Portal to the New, Open Internet.</description>
+		<link>/ko</link>
+		<atom:link href="/korss-feed.xml" rel="self" type="application/rss+xml" />
+		
+			<item>
+				<title>$MASK, PancakeSwap Syrup Pools &amp; Farms에 상장</title>
+				
+				
+					<description>&lt;p&gt;&lt;img src=&quot;/uploads/mask.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+</description>
+				
+				<pubDate>Wed, 07 Jul 2021 00:00:00 +0000</pubDate>
+				<link>/ko20210707mask-pancakeswap-syrup-pools-farms</link>
+				<guid isPermaLink="true">/ko20210707mask-pancakeswap-syrup-pools-farms</guid>
+			</item>
+		
+			<item>
+				<title>Mask Network 멀티 체인 생태 시동, $MASK, 바이낸스 스마트 체인에서 활성화</title>
+				
+				
+					<description>&lt;p&gt;&lt;img src=&quot;https://lh4.googleusercontent.com/GoAARf_4Sy20pXhh-iCMOlp4DfRgjDCiqsCLr3IuNLXzIzFrNsdUfdyQHW7R6xNHvODDD2kUJhDNDtBOELniHaknFSfC-1IY8Ukn2q4wA99I72v-Kk3DD53EMhoX7tDCYNbGosxo =602x305&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+</description>
+				
+				<pubDate>Tue, 29 Jun 2021 00:00:00 +0000</pubDate>
+				<link>/ko20210629mask-network-mask</link>
+				<guid isPermaLink="true">/ko20210629mask-network-mask</guid>
+			</item>
+		
+			<item>
+				<title>프로포절 | ITO 심사 위원회 및 프로젝트 신청 규칙 수정</title>
+				
+				
+					<description>&lt;p&gt;&lt;img src=&quot;/uploads/1-59.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+</description>
+				
+				<pubDate>Fri, 25 Jun 2021 00:00:00 +0000</pubDate>
+				<link>/ko20210625ito</link>
+				<guid isPermaLink="true">/ko20210625ito</guid>
+			</item>
+		
+			<item>
+				<title>미들웨어가 이 세상을 바꾼다</title>
+				
+				
+					<description>&lt;p&gt;독점 장사는 가장 좋은 장사다. 하지만 Web 3.0 의 세계에서 독점을 하는 게 쉽지 않다(포크성과 결합성이 준재하기 때문이다). 하지만 미들웨어 업무가 예외인 것 같다. Chainlink는 대표적인 미들웨어이며, The Graph도 독점 정도가 높은 미들웨어 업무다. 이해하기 더 쉽게 위하여 The Graph를 역오라클로 부른다.&lt;/p&gt;
+
+</description>
+				
+				<pubDate>Fri, 07 May 2021 00:00:00 +0000</pubDate>
+				<link>/ko20210507%EB%AF%B8%EB%93%A4%EC%9B%A8%EC%96%B4%EA%B0%80-%EC%9D%B4-%EC%84%B8%EC%83%81%EC%9D%84-%EB%B0%94%EA%BE%BC%EB%8B%A4</link>
+				<guid isPermaLink="true">/ko20210507%EB%AF%B8%EB%93%A4%EC%9B%A8%EC%96%B4%EA%B0%80-%EC%9D%B4-%EC%84%B8%EC%83%81%EC%9D%84-%EB%B0%94%EA%BE%BC%EB%8B%A4</guid>
+			</item>
+		
+	</channel>
+</rss>

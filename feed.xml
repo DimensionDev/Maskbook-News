@@ -1,0 +1,622 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="3.6.3">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" hreflang="en" /><updated>2021-07-08T07:48:51+00:00</updated><id>/feed.xml</id><title type="html">News</title><subtitle>The Portal to the New, Open Internet.</subtitle><entry xml:lang="en"><title type="html">$MASK is listed on PancakeSwap Syrup Pools &amp;amp; Farms</title><link href="/2021/07/07/mask-is-listed-on-pancakeswap-syrup-pools-farms" rel="alternate" type="text/html" title="$MASK is listed on PancakeSwap Syrup Pools &amp; Farms" /><published>2021-07-07T00:00:00+00:00</published><updated>2021-07-07T00:00:00+00:00</updated><id>/2021/07/07/mask-is-listed-on-pancakeswap-syrup-pools-farms</id><content type="html" xml:base="/2021/07/07/mask-is-listed-on-pancakeswap-syrup-pools-farms">&lt;p&gt;&lt;img src=&quot;/uploads/01.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;We are happy to announce that the native token of Mask Network is listed on Syrup Pools and Farm in PancakeSwap. All token holders could stake $CAKE in Syrup Pools or stake $MASK-$BNB LP in Farm, to earn $MASK or $CAKE accordingly. The Yield Farming will increase liquidity for $MASK, and enrich the use cases for $MASK token.&lt;/p&gt;
+
+&lt;p&gt;Since the integration of Binance Smart Chain (BSC) in June, our team has been working hard in bringing amazing projects on BSC to Mask extension. The extension v1.34.0 will support PancakeSwap, providing more choices to users when swapping BEP20 assets.&lt;img src=&quot;/uploads/02.jpeg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Meanwhile, we have also launched the &lt;strong&gt;Mask Bridge&lt;/strong&gt; (&lt;a href=&quot;http://bridge.mask.io/&quot;&gt;bridge.mask.io&lt;/a&gt;), which provides a simple and economic way to convert $MASK tokens between ERC20 and BEP20. See the end of this article for tutorials on how to use the Mask Bridge.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/uploads/03.jpeg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;stake-cake-and-earn-mask-on-the-syrup-pools&quot;&gt;&lt;strong&gt;Stake $CAKE and earn $MASK on the Syrup Pools&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;p&gt;Total Tokens: 111,000 $MASK&lt;/p&gt;
+
+&lt;p&gt;Distribution Duration: 60 Days&lt;/p&gt;
+
+&lt;p&gt;Start Block: 8943700 (approx. 09:00 AM July 7th, UTC)&lt;/p&gt;
+
+&lt;p&gt;Finish Block: 10671700 (approx. 09:00 AM Sept 5th, UTC)&lt;/p&gt;
+
+&lt;p&gt;Token Rewards per Block: 0.06423 $MASK&lt;/p&gt;
+
+&lt;h2 id=&quot;stake-mask-bnb-lp-in-farm-and-earn-cake&quot;&gt;&lt;strong&gt;Stake $MASK-$BNB LP in Farm and earn $CAKE&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;p&gt;In order to host the $MASK Syrup Pool, we will need to provide a $MASK-$BNB farm that will have 1x $CAKE rewards for the first 48 hours and then 0.5x $CAKE rewards after that.&lt;/p&gt;
+
+&lt;h2 id=&quot;max-stake-per-wallet&quot;&gt;&lt;strong&gt;Max Stake per wallet&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;p&gt;100 $CAKE for the first 48 hours, then unlimited $CAKE staking.&lt;/p&gt;
+
+&lt;p&gt;To give as many CAKE holders the opportunity to Farm some juicy pool rewards at a high APY, we will have a 100 CAKE token cap staking limit per user for the first 48 hours.&lt;/p&gt;
+
+&lt;h2 id=&quot;how-do-you-stake-cake-to-earn-mask-rewards&quot;&gt;&lt;strong&gt;How do you stake CAKE to earn MASK rewards?&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Visit this webpage: &lt;a href=&quot;https://pancakeswap.finance/syrup&quot;&gt;https://pancakeswap.finance/syrup&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Click “Approve CAKE” on the MASK Syrup Pool&lt;/li&gt;
+  &lt;li&gt;Click on the stake button.&lt;/li&gt;
+  &lt;li&gt;Confirm the transaction.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;beware-of-food-poisoning-️️️&quot;&gt;&lt;strong&gt;BEWARE OF FOOD POISONING ⚠️⚠️⚠️💀&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;p&gt;The official $MASK token contract address on Binance Smart Chain is:&lt;br /&gt;
+&lt;strong&gt;0x2ed9a5c8c13b93955103b9a7c167b67ef4d568a3&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Please be careful.&lt;/p&gt;
+
+&lt;p&gt;Any other $MASK token will be a scam and will result in a financial loss for users. Do not buy tokens from any other token address. Always verify the token address before purchasing tokens.&lt;/p&gt;
+
+&lt;p&gt;See below for tutorials on:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.notion.so/How-to-add-MASK-liquidity-to-PancakeSwap-1af175c8a4524e3d8c3ec988480c4674&quot;&gt;How to add $MASK liquidity to PancakeSwap?&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.notion.so/Convert-MASK-from-ERC20-to-BEP20-7e982c16c1404d758a3c94b1e5ee9ca2&quot;&gt;How to convert $MASK from ERC20 to BEP20?&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="" /></entry><entry xml:lang="en"><title type="html">Mask Network Newsletter (June 2021)</title><link href="/2021/07/05/mask-network-newsletter-june-2021" rel="alternate" type="text/html" title="Mask Network Newsletter (June 2021)" /><published>2021-07-05T00:00:00+00:00</published><updated>2021-07-05T00:00:00+00:00</updated><id>/2021/07/05/mask-network-newsletter-june-2021</id><content type="html" xml:base="/2021/07/05/mask-network-newsletter-june-2021">&lt;p&gt;&lt;img src=&quot;/uploads/1-47.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;engineering-update&quot;&gt;Engineering Update&lt;/h3&gt;
+
+&lt;h4 id=&quot;-mask-for-extension&quot;&gt;🌍 Mask for Extension&lt;/h4&gt;
+
+&lt;h5 id=&quot;v-1330&quot;&gt;&lt;strong&gt;v 1.33.0&lt;/strong&gt;&lt;/h5&gt;
+
+&lt;p&gt;BSC and Polygon integration&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;v 1.33.1&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Red Packet history BSC and Polygon;&lt;/p&gt;
+
+&lt;p&gt;Big Fixes:&lt;/p&gt;
+
+&lt;p&gt;Hide swap tab if the no-ethereum network was selected Hide swap item if the no-ethereum network was selected.&lt;/p&gt;
+
+&lt;h5 id=&quot;v-1332&quot;&gt;&lt;strong&gt;v 1.33.2&lt;/strong&gt;&lt;/h5&gt;
+
+&lt;p&gt;Reset gas price&lt;br /&gt;
+ITO BSC Polygon history&lt;br /&gt;
+Update Polygon Explorer URL&lt;/p&gt;
+
+&lt;h3 id=&quot;-ecosystem-building&quot;&gt;🌳 Ecosystem Building&lt;/h3&gt;
+
+&lt;h4 id=&quot;--multi-chain&quot;&gt;- Multi-Chain&lt;/h4&gt;
+
+&lt;h5 id=&quot;-mask-network-is-now-live-on-polygon-and-bsc-officially-enters-the-multi-chain-metaverse&quot;&gt;⛓ &lt;a href=&quot;https://masknetwork.medium.com/mask-network-is-now-live-on-polygon-and-bsc-officially-enters-the-multi-chain-metaverse-6b2184f3e87b&quot;&gt;&lt;strong&gt;Mask Network is Now Live on Polygon and BSC, Officially Enters the Multi-Chain Metaverse&lt;/strong&gt;&lt;/a&gt;&lt;/h5&gt;
+
+&lt;p&gt;&lt;img src=&quot;/uploads/2-57.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Mask Network is now live on Polygon and Binance Smart Chain (BSC), officially declare the beginning of the Web 3.0 multi-chain era.&lt;/p&gt;
+
+&lt;p&gt;$MASK, the native token of Mask Network, is now available on BSC Network. The token contract is:&lt;br /&gt;
+&lt;a href=&quot;https://bscscan.com/token/0x2ed9a5c8c13b93955103b9a7c167b67ef4d568a3&quot;&gt;&lt;em&gt;0x2ed9a5c8c13b93955103b9a7c167b67ef4d568a3&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;The Red Packet plugin in the Mask extension now supports the BSC network and Polygon, so users could create, send, and receive encrypted Red Packets with any assets on BSC and Polygon directly on Twitter, using the two networks. In the future, Mask Network will continue developing its core functions on the two networks, such as ITO and Swaps.&lt;/p&gt;
+
+&lt;h4 id=&quot;--nft&quot;&gt;- NFT&lt;/h4&gt;
+
+&lt;h5 id=&quot;-mask-network--doingud-the-next-gen-nft-experience-on-twitter&quot;&gt;🖼 &lt;a href=&quot;https://masknetwork.medium.com/mask-network-doingud-the-next-gen-nft-experience-on-twitter-4810a43a8769&quot;&gt;&lt;strong&gt;Mask Network × DoinGud: The Next-Gen NFT Experience on Twitter&lt;/strong&gt;&lt;/a&gt;&lt;/h5&gt;
+
+&lt;p&gt;&lt;img src=&quot;/uploads/3-52.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Mask Network will partner with DoinGud, the NFT marketplace for social impact, to allow seamless access to traditional Web 2.0 social platforms. It will allow creators to display their work while users could access their homepage and trade the work via Twitter at the same time.&lt;/p&gt;
+
+&lt;p&gt;Mask Network and DoinGud both believe that technology is supposed to play the role of empowering people and serving people. Any online community is constituted by people and should be people-centric, autonomous, self-governing, and self-sustaining.&lt;/p&gt;
+
+&lt;h4 id=&quot;-community--developer&quot;&gt;-Community &amp;amp; Developer&lt;/h4&gt;
+
+&lt;h5 id=&quot;-mask-network-x-gitcoin-gitcoin-grants-round-10&quot;&gt;🎉 &lt;a href=&quot;https://masknetwork.medium.com/calling-all-bounty-hunters-gitcoin-gr10-is-here-7a041205834d&quot;&gt;&lt;strong&gt;Mask Network x Gitcoin: Gitcoin Grants Round 10&lt;/strong&gt;&lt;/a&gt;&lt;/h5&gt;
+
+&lt;p&gt;&lt;img src=&quot;/uploads/4-30.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Mask Network has been an active funder since Gitcoin Grants Round 6 and has published 29 bounties on Gitcoin. Meanwhile, Mask Network keeps on supporting the Gitcoin Grants Round 10, encouraging more developers into the ecosystem building of future blockchain and the development of the open-source projects.&lt;/p&gt;
+
+&lt;p&gt;Mask Network reached a technical partnership with Gitcoin years ago. Mask Network can automatically recognize Gitcoin donation links, so users could donate with a few clicks after the installation of the extension.&lt;/p&gt;
+
+&lt;p&gt;Click &lt;a href=&quot;https://gitcoin.co/dimensiondev/bounties&quot;&gt;here&lt;/a&gt; to see the bounties we posted.&lt;/p&gt;
+
+&lt;h4 id=&quot;governance&quot;&gt;🙋Governance&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://snapshot.org/#/masknetwork.eth/proposal/QmfYBYP7mKu7Tt6zdeVRWSh4uDPaLfz5JXT1dLS7WFiahE&quot;&gt;&lt;strong&gt;Improvements in the Permissionless ITO launching process&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;In order to avoid such loss and at the same time create more value and use cases of the $MASK token, we are proposing a $MASK deposit requirement for Permissionless ITO launching. The deposit will set a threshold to Permissionless ITO, and be the precautionary act if the launched ITO is found to be scammy later. More details will be further discussed at the &lt;a href=&quot;http://we.mask.io/&quot;&gt;Mask Forum&lt;/a&gt;.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://snapshot.org/#/masknetwork.eth/proposal/QmPzMzXkFXuEDnxud4F2MA9V31MmnMBRhCCe4iFXiGrSY6&quot;&gt;&lt;strong&gt;Improvements in the Community Choice ITO launching process&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;/uploads/5-29.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://snapshot.org/#/masknetwork.eth/proposal/QmPS9W8qB6asKSjR8AiM9LxpTDgWMT9TNcb6sLVdA2BgdD&quot;&gt;&lt;strong&gt;Changes to the ITO Review Committee&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;We propose that each round of the ITO Review Committee will be composed of three parts: users by application, active Mask community members, and personnel from relevant organizations with professional backgrounds. There will be 11 members per round, and each term is extended from 15 days to 30 days.&lt;/p&gt;
+
+&lt;p&gt;💬 &lt;a href=&quot;https://masknetwork.medium.com/we-are-online-the-mask-forum-is-here-d88e24b2e8cc&quot;&gt;&lt;strong&gt;The Mask Forum is now Online!&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/uploads/5-24.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://we.mask.io/&quot;&gt;Mask Forum&lt;/a&gt;, the new discussion platform for the Mask Network community, is now online. Mask Forum will be a key opinion-exchange platform for Mask Network users and will play a key role in the governance and operation of the MaskDAO.&lt;/p&gt;</content><author><name></name></author><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/%7B%7B%20site.baseurl_root%20%7D%7D/uploads/1-47.jpg" /></entry><entry xml:lang="en"><title type="html">The Mask Network Multi-Chain Ecosystem Officially Starts, with $MASK Now Live on BSC</title><link href="/2021/07/05/the-mask-network-multi-chain-ecosystem-officially-starts-with-mask-now-live-on-bsc" rel="alternate" type="text/html" title="The Mask Network Multi-Chain Ecosystem Officially Starts, with $MASK Now Live on BSC" /><published>2021-07-05T00:00:00+00:00</published><updated>2021-07-05T00:00:00+00:00</updated><id>/2021/07/05/the-mask-network-multi-chain-ecosystem-officially-starts-with-mask-now-live-on-bsc</id><content type="html" xml:base="/2021/07/05/the-mask-network-multi-chain-ecosystem-officially-starts-with-mask-now-live-on-bsc">&lt;p&gt;&lt;img src=&quot;/uploads/1-60.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;$MASK, the native token of Mask Network, is now a cross-chain asset, marking the official start of the Mask Network multi-chain ecosystem. Mask Network has finished bridging $MASK from Ethereum to Binance Smart Chain (BSC). The bridge from Ethereum to Polygon will be available soon.&lt;/p&gt;
+
+&lt;p&gt;$MASK is now available on BSC Network, the token contract is: &lt;a href=&quot;https://bscscan.com/token/0x2ed9a5c8c13b93955103b9a7c167b67ef4d568a3&quot;&gt;&lt;strong&gt;0x2ed9a5c8c13b93955103b9a7c167b67ef4d568a3&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;The Red Packet plugin in the Mask extension now supports the BSC network and Polygon, so users could create, send, and receive encrypted Red Packets with any assets on BSC and Polygon directly on Twitter, using the two networks. In the future, Mask Network will continue developing its core functions on the two networks, such as ITO and Swaps.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/uploads/2-56.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Mask Network received the strategic investment from Binance this April, and both parties aim to build a multi-chain metaverse that includes Binance Smart Chain. The completion of the cross-chain asset bridge is a key step for Mask Network to enter the Web 3.0 multi-chain era. The boundary of the Mask Network ecosystem has now expanded to BSC. Mask Network will cooperate with all sorts of amazing projects in the BSC ecosystem and take outstanding applications on BSC onto the Mask Network in a fast and seamless way, to attract more users to play in the more efficient and convenient Web 3.0 multi-chain universe.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;About Binance Smart Chain (BSC)&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Binance Smart Chain was launched in April 2020 as the parallel blockchain of the current Binance Chain. BSC boasts smart contract functionality and compatibility with the Ethereum Virtual Machine (EVM). The design goal here was to leave the high throughput of the Binance chain intact while introducing smart contracts into its ecosystem.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;About Polygon&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Polygon provides a cost-effective, speedy cross-chain solution. Polygon is a Layer2 solution blockchain, which provides scalable, secure, and instant Ethereum transactions using Plasma side-chains and a Proof-of-Stake network.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;About Mask Network&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Mask Network is the core product of Dimension, which is positioned to become the bridge that connects internet users from Web 2.0 to Web 3.0. The foundational technology of Mask Network is a peer-to-peer encrypted messaging application, with new functions continuously being created around this foundation. We at Mask Network are strong believers in the ownership economy. People should own what they produce, people should own their data, their attention, and the virtual space they choose to contribute to.&lt;/p&gt;
+
+&lt;p&gt;Mask Network integrates decentralized social messaging, borderless payment network, decentralized file storage and sharing, decentralized finance, DAO, and NFT to provide a safe and convenient portal for users to jump right into the continent of decentralized finance and then the new world of Web 3.0.&lt;/p&gt;</content><author><name></name></author><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="" /></entry><entry xml:lang="en"><title type="html">We Are Online: The Mask Forum is Here</title><link href="/2021/07/05/we-are-online-the-mask-forum-is-here" rel="alternate" type="text/html" title="We Are Online: The Mask Forum is Here" /><published>2021-07-05T00:00:00+00:00</published><updated>2021-07-05T00:00:00+00:00</updated><id>/2021/07/05/we-are-online-the-mask-forum-is-here</id><content type="html" xml:base="/2021/07/05/we-are-online-the-mask-forum-is-here">&lt;p&gt;&lt;img src=&quot;/uploads/1-61.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Mask Forum, the new discussion platform for the Mask Network community, is now online. Mask Forum will be a key opinion-exchange platform for Mask Network users and will play a key role in the governance and operation of the MaskDAO.&lt;/p&gt;
+
+&lt;p&gt;MaskDAO is a DAO formed by $MASK holders. By participating in forum discussions, DAO members express their thoughts on relevant topics and make decisions accordingly. The total number of previous votes has now surpassed 200M $MASK, showing the enthusiasm community member has in DAO governance. The DAO governance requires a huge amount of communication, therefore a good communication platform is vital.&lt;/p&gt;
+
+&lt;p&gt;Community discussions for Mask Network users have always been scattered around various platforms. The communication barrier between members is high, and the efficiency of communication is also affected. After the Mask Forum goes online, it will become the new home of community communication, bringing together people from different regions and cultural backgrounds, who speak different languages, but share the same identity: they are all Mask Network community members.&lt;/p&gt;
+
+&lt;p&gt;Click &lt;a href=&quot;http://we.mask.io/&quot;&gt;here&lt;/a&gt; to visit Mask Forum.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/uploads/2-39.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The Mask Forum will consist following categories: News &amp;amp; Announcements, General, Development &amp;amp;Technical, Products &amp;amp; Features, Proposals, and Knowledge Base.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;“&lt;strong&gt;News &amp;amp; Announcements&lt;/strong&gt;” will update the latest news about Mask Network, version releases, cooperation activities, monthly reports, etc.&lt;/li&gt;
+  &lt;li&gt;“&lt;strong&gt;General&lt;/strong&gt;” will include Q&amp;amp;A, and feedbacks about Web 3.0 activities, with Chinese, Japanese, and Korean sub-categories.&lt;/li&gt;
+  &lt;li&gt;“&lt;strong&gt;Development &amp;amp; Technical&lt;/strong&gt;” will consist of discussions about technical details, geeks, and product fans can share development updates and download beta versions.&lt;/li&gt;
+  &lt;li&gt;“&lt;strong&gt;Product &amp;amp; Features&lt;/strong&gt;” will involve discussions about all existing and potential product features.&lt;/li&gt;
+  &lt;li&gt;“&lt;strong&gt;Proposals&lt;/strong&gt;” will play a key role in the governance of the MaskDAO. All members could post new topics and write proposals, and communicate with the ITO Review Committee. The details about the &lt;a href=&quot;https://masknetwork.medium.com/improvements-in-the-ito-review-committee-application-process-f5811148b6a&quot;&gt;improvements in the Permissionless ITO&lt;/a&gt; (which passed the &lt;a href=&quot;https://snapshot.org/#/masknetwork.eth/proposal/QmfYBYP7mKu7Tt6zdeVRWSh4uDPaLfz5JXT1dLS7WFiahE&quot;&gt;Snapshot community vote&lt;/a&gt;) could also be discussed here.&lt;/li&gt;
+  &lt;li&gt;“&lt;strong&gt;Knowledge Base&lt;/strong&gt;” will be an encyclopedia of the Mask extension and all relevant community activities.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;English will be the main language of the Mask Forum, and the support of other languages (Chinese, Japanese, Korean, etc.) will be available soon. Apart from the daily discussion and communications, there will be regular updates of long articles.&lt;/p&gt;
+
+&lt;p&gt;Visit the Mask Forum, write topic discussions, express your thoughts, and participate in the governance of DAO. Mask Network team members will show up. We look forward to the exchange of ideas and thoughts of our community members.&lt;/p&gt;</content><author><name></name></author><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/%7B%7B%20site.baseurl_root%20%7D%7D/uploads/1-61.png" /></entry><entry xml:lang="en"><title type="html">Improvements in the ITO Review Committee &amp;amp; Application Process</title><link href="/2021/06/25/improvements-in-the-ito-review-committee-application-process" rel="alternate" type="text/html" title="Improvements in the ITO Review Committee &amp; Application Process" /><published>2021-06-25T00:00:00+00:00</published><updated>2021-06-25T00:00:00+00:00</updated><id>/2021/06/25/improvements-in-the-ito-review-committee-application-process</id><content type="html" xml:base="/2021/06/25/improvements-in-the-ito-review-committee-application-process">&lt;p&gt;&lt;img src=&quot;/uploads/1-59.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Mask Network has been actively practicing and exploring the possibilities of ITO (Initial Twitter Offering) since we announced the upgraded rules of ITO in April. We introduced “Permissionless ITO” and “Community Choice ITO” for interested users and projects in that update, and are constantly seeking solutions that will improve the user experience.&lt;/p&gt;
+
+&lt;p&gt;During the ITO attempts in the last few months, we received many applications to the Community Choice ITO, went through two rounds of ITO Review Committee, and assisted projects including Lever, O3 Swap, DAOSquare, and Evanesco to launch ITO, providing free support like smart contract deployment and marketing, which has been recognized by our partners and community members. The Snapshot votes we proposed have accumulated more than 200 Million $MASK votes and over 10,000 ITO participants. Meanwhile, we found some underlying issues and risks in the current Permissionless ITO and Community Choice ITO guidelines.&lt;/p&gt;
+
+&lt;p&gt;Permissionless ITO could be risky and cause potential economic loss, while the communication process for Community Choice ITO projects has been ambiguous and lengthy. The ITO Review Committee plays a vital role in the examination of Community Choice ITO projects. However, there are issues such as Committee members lacking representation of in the community, and the low efficiency of the discussions among committee members.&lt;/p&gt;
+
+&lt;p&gt;To find feasible solutions to the issues raised above, we would like to propose changes to the existing guidelines of Permissionless and Community Choice ITO, and the ITO Review Committee. We will post 3 Snapshot votes, each lasting 48 hours. All $MASK holders have the right to vote “Yes” or “No” to show support or against the Snapshot proposal.&lt;/p&gt;
+
+&lt;p&gt;Below are details of the three Snapshot votes:&lt;/p&gt;
+
+&lt;h3 id=&quot;proposal-1-improvements-in-the-permissionless-ito-launching-process&quot;&gt;&lt;a href=&quot;https://snapshot.org/#/masknetwork.eth/proposal/QmfYBYP7mKu7Tt6zdeVRWSh4uDPaLfz5JXT1dLS7WFiahE&quot;&gt;&lt;strong&gt;Proposal 1: Improvements in the Permissionless ITO launching process&lt;/strong&gt;&lt;/a&gt;&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;Overview&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Mask Network has been actively practicing and exploring the possibilities of ITO (Initial Twitter Offering) since we announced the upgraded rules of ITO in April. We introduced “Permissionless ITO” and “Community Choice ITO” for interested users and projects in that update, and are constantly seeking solutions that will improve the user experience.&lt;/p&gt;
+
+&lt;p&gt;ITO was originally designed to be a fully permissionless function that is free and open to anyone. However, we have also found and foresee more scammy activities around the ITO that’ll potentially cause loss of our users.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Proposal&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;In order to avoid such loss and at the same time create more value and use cases of the $MASK token, we are proposing &lt;strong&gt;a $MASK deposit requirement for Permissionless ITO launching&lt;/strong&gt;. The deposit will set a threshold to Permissionless ITO, and be the precautionary act if the launched ITO is found to be scammy later. More details about the deposit could be further discussed on the &lt;a href=&quot;https://we.mask.io/&quot;&gt;Mask Forum&lt;/a&gt; after it goes online.&lt;/p&gt;
+
+&lt;p&gt;Note:&lt;/p&gt;
+
+&lt;p&gt;Projects that plan to do a “Community Choice ITO,” but do not pass the vote by either ITO Review Committee or the Mask Network community Snapshot vote, could also deposit $MASK (pending the voting result) to launch an ITO.&lt;/p&gt;
+
+&lt;p&gt;The Snapshot vote will last for 48 hours, and all $MASK holders could vote “Yes” or “No” on &lt;strong&gt;whether we should set a $MASK deposit requirement for Permissionless ITO launching&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;proposal-2-improvements-in-the-community-choice-ito-launching-process&quot;&gt;&lt;a href=&quot;https://snapshot.org/#/masknetwork.eth/proposal/QmPzMzXkFXuEDnxud4F2MA9V31MmnMBRhCCe4iFXiGrSY6&quot;&gt;&lt;strong&gt;Proposal 2: Improvements in the Community Choice ITO launching process&lt;/strong&gt;&lt;/a&gt;&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;Overview&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Mask Network has been actively practicing and exploring the possibilities of ITO (Initial Twitter Offering) since we announced the upgraded rules of ITO in April. We introduced “Permissionless ITO” and “Community Choice ITO” for interested users and projects in that update, and are constantly seeking solutions that will improve user experience. We’re now updating the process for “Community Choice ITO.”&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Proposal&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Improved process for “Community Choice ITO”:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/uploads/睿萱.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;The project fills out a &lt;a href=&quot;https://forms.gle/gUS34vrm1xNWQDe2A&quot;&gt;Google form&lt;/a&gt; with the required information (including but not limited to the white paper, team introduction, investment institutions, tokenomics, distribution mechanism, whether there are other IDO plans, etc.) and a preliminary ITO proposal (including but not limited to offering value, number of ITO rounds, token holding requirements, whitelist rules, etc.).&lt;/li&gt;
+  &lt;li&gt;The ITO Review Committee conducts round 1 discussion about the project and its preliminary ITO proposal for 48-hours and conducts Committee vote #1. If the project passes the vote (more than 7 members voted in the Committee, with the approval rate higher than 50%), then Mask Network will launch a Snapshot vote for all community members.&lt;/li&gt;
+  &lt;li&gt;If the project does not pass Committee vote #1, then the project can make changes and adjustments to the proposal based on the ITO Review Committee’s comments in the round 1 discussion, and provide a final ITO proposal within 24 hours for round 2 discussion. The Committee will conduct discussion #2 for 24-hour and vote. A Snapshot vote will be proposed if the proposal passes (to pass the vote, there should be more than 7 people voted in the Committee, with more than 50% of approval rate); if it still does not pass, then it fails the “Community Choice ITO” process.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;The voting result from the $MASK community will decide whether these new rules apply to future ITO projects.&lt;/p&gt;
+
+&lt;p&gt;The Snapshot vote will last for 48 hours, all $MASK holders could vote “Yes” or “No” on the &lt;strong&gt;improved Community Choice ITO process&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;proposal-3-changes-to-the-ito-review-committee&quot;&gt;&lt;a href=&quot;https://snapshot.org/#/masknetwork.eth/proposal/QmPS9W8qB6asKSjR8AiM9LxpTDgWMT9TNcb6sLVdA2BgdD&quot;&gt;&lt;strong&gt;Proposal 3: Changes to the ITO Review Committee&lt;/strong&gt;&lt;/a&gt;&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;Overview&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;After the ITO update in April, we introduced the ITO Review Committee who conducts the preliminary review for projects that apply for a “Community Choice ITO.” After examining a few projects with the ITO Review Committee, we noticed issues such as Committee members lacking representation of the community, and the low efficient communication between committee members. We thereby propose an update in the rule of the ITO Review Committee.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Proposal&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;We propose that each round of the ITO Review Committee &lt;strong&gt;will be composed of three parts&lt;/strong&gt;: &lt;strong&gt;users by application, active Mask community members, and personnel from relevant organizations with professional backgrounds&lt;/strong&gt;. There will be 11 members per round, and each term is extended &lt;strong&gt;from 15 days to 30 days&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;1/ Users by application. (People who meet any 1 of the following criteria can fill out the &lt;a href=&quot;https://forms.gle/ceVUdhYmLL9yRLQ5A&quot;&gt;application form&lt;/a&gt;)&lt;/p&gt;
+
+&lt;p&gt;-Users who hold at least 1000 $MASK.&lt;/p&gt;
+
+&lt;p&gt;-Interacted with the Mask Network’s contract at least twice, including ITO participation, red packet claims, NFT auctions, etc.&lt;/p&gt;
+
+&lt;p&gt;-Posted at least 3 encrypted tweets using the Mask Network plug-in feature before May 30, 2021.&lt;/p&gt;
+
+&lt;p&gt;2/ Active Mask community members&lt;/p&gt;
+
+&lt;p&gt;-Users who are active in Mask Network Telegram, WeChat Group, Discord, Mask Forum on a daily basis.&lt;/p&gt;
+
+&lt;p&gt;-Users who offer constructive opinions about Mask Network.&lt;/p&gt;
+
+&lt;p&gt;3/ Personals in the field (blockchain, investment, research institutions, media, and relevant organizations, etc.) will be invited to the ITO Review Committee.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;They have professional backgrounds in blockchain, investment, research, media, etc.&lt;/li&gt;
+  &lt;li&gt;They will provide professional opinions, and review projects objectively.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;While still in the term, Committee members could withdraw from the Committee freely. Meanwhile, members of the committee who failed to fulfill the duty* could be disqualified from the Committee. Mask Network will add nominees if there are any vacancies.&lt;/p&gt;
+
+&lt;p&gt;* “Failed to fulfill the duty” refers but is not limited to one of the following situations:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Never participate in the discussion or give feedbacks within the one project’s application period&lt;/li&gt;
+  &lt;li&gt;Neither vote nor called a clear abstention vote for more than 2 times during the voting period&lt;/li&gt;
+  &lt;li&gt;Seeks personal gain as a member of the Committee&lt;/li&gt;
+  &lt;li&gt;Other actions that compromise the collective benefit of the MaskDAO&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The voting result from the $MASK community will decide whether these new rules apply to the future ITO Review Committee.&lt;/p&gt;
+
+&lt;p&gt;The Snapshot vote will last for 48 hours, all $MASK holders could vote “Yes” or “No” on the changes to the ITO Review Committee.&lt;/p&gt;</content><author><name></name></author><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/%7B%7B%20site.baseurl_root%20%7D%7D/uploads/1-59.png" /></entry><entry xml:lang="en"><title type="html">Vitalik｜Gitcoin Grants Round 9: The Next Phase of Growth</title><link href="/2021/06/17/vitalik-gitcoin-grants-round-9-the-next-phase-of-growth" rel="alternate" type="text/html" title="Vitalik｜Gitcoin Grants Round 9: The Next Phase of Growth" /><published>2021-06-17T00:00:00+00:00</published><updated>2021-06-17T00:00:00+00:00</updated><id>/2021/06/17/vitalik-gitcoin-grants-round-9-the-next-phase-of-growth</id><content type="html" xml:base="/2021/06/17/vitalik-gitcoin-grants-round-9-the-next-phase-of-growth">&lt;p&gt;查看带有完整超链接的原文请访问：&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://vitalik.ca/general/2021/04/02/round9.html&quot; title=&quot;https://vitalik.ca/general/2021/04/02/round9.html&quot;&gt;https://vitalik.ca/general/2021/04/02/round9.html&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;em&gt;Special thanks to the Gitcoin team for feedback and diagrams.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Special note: Any criticism in these review posts of actions taken by people or organizations, especially using terms like “collusion”, “bribe” and “cabal”, is only in the spirit of analysis and mechanism design, and should not be taken as (especially moral) criticism of the people and organizations themselves. You’re all well-intentioned and wonderful people and I love you.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Gitcoin Grants Round 9 has just finished, and as usual the round has been a success. Along with 500,000 in matching funds, $1.38 million was donated by over 12,000 contributors to 812 different projects, making this the largest round so far. Not only old projects, but also new ones, received a large amount of funding, proving the mechanism’s ability to avoid entrenchment and adapt to changing circumstances. The new East Asia-specific category in the latest two rounds has also been a success, helping to catapult multiple East Asian Ethereum projects to the forefront.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/uploads/1-58.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;However, with growing scale, round 9 has also brought out unique and unprecedented challenges. The most important among them is collusion and fraud: in round 9, over 15% of contributions were detected as being probably fraudulent. This was, of course, inevitable and expected from the start; I have actually been surprised at how long it has taken for people to start to make serious attempts to exploit the mechanism. The Gitcoin team has responded in force, and has published a blog post detailing their strategies for detecting and responding to adversarial behavior along with a general governance overview. &lt;strong&gt;However, it is my opinion that to successfully limit adversarial behavior in the long run more serious reforms, with serious sacrifices, are going to be required&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;many-new-and-bigger-funders&quot;&gt;Many new, and bigger, funders&lt;/h3&gt;
+
+&lt;p&gt;Gitcoin continues to be successful in attracting many matching funders this round. BadgerDAO, a project that describes itself as a “DAO dedicated to building products and infrastructure to bring Bitcoin to DeFi”, has donated $300,000 to the matching pool - the largest single donation so far.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/uploads/2-54.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Other new funders include Uniswap, Stakefish, Maskbook, FireEyes, Polygon, SushiSwap and TheGraph. As Gitcoin Grants continues to establish itself as a successful home for Ethereum public goods funding, it is also continuing to attract legitimacy as a focal point for donations from projects wishing to support the ecosystem. This is a sign of success, and hopefully it will continue and grow further. The next goal should be to get not just one-time contributions to the matching pool, but long-term commitments to repeated contributions (or even newly launched tokens donating a percentage of their holdings to the matching pool)!&lt;/p&gt;
+
+&lt;h3 id=&quot;churn-continues-to-be-healthy&quot;&gt;Churn continues to be healthy&lt;/h3&gt;
+
+&lt;p&gt;One long-time concern with Gitcoin Grants is the balance between stability and entrenchment: if each project’s match award changes too much from round to round, then it’s hard for teams to rely on Gitcoin Grants for funding, and if the match awards change too little, it’s hard for new projects to get included.&lt;/p&gt;
+
+&lt;p&gt;We can measure this! To start off, let’s compare the top-10 projects in this round to the top-10 projects in the previous round.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/uploads/3-49.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;In all cases, about half of the top-10 carries over from the previous round and about half is new (the flipside, of course is that half the top-10 drops out). The charts are a slight understatement: the Gitcoin Grants dev fund and POAP appear to have dropped out but actually merely changed categories, so something like 40% churn may be a more accurate number.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/uploads/4-29.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;If you check the results from round 8 against round 7, you also get about 50% churn, and comparing round 7 to round 6 gives similar values. Hence, it is looking like the degree of churn is stable. To me, it seems like roughly 40-50% churn is a healthy level, balancing long-time projects’ need for stability with the need to avoid new projects getting locked out, but this is of course only my subjective judgement.&lt;/p&gt;
+
+&lt;h3 id=&quot;adversarial-behavior&quot;&gt;Adversarial behavior&lt;/h3&gt;
+
+&lt;p&gt;The challenging new phenomenon this round was the sheer scale of the adversarial behavior that was attempted. In this round, there were two major issues. First, there were large clusters of contributors discovered that were probably a few individual or small closely coordinated groups with many accounts trying to cheat the mechanism. This was discovered by proprietary analysis algorithms used by the Gitcoin team.&lt;/p&gt;
+
+&lt;p&gt;For this round, the Gitcoin team, in consultation with the community, decided to eat the cost of the fraud. Each project received the maximum of the match award it would receive if fraudulent transactions were accepted and the match award it would receive if they were not; the difference, about $33,000 in total, was paid out of Gitcoin’s treasury. For future rounds, however, the team aims to be significantly stricter about security.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/uploads/5-28.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;A diagram from the Gitcoin team’s post describin their process for finding and dealing with adversarial behavior.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;In the short term, simply ignoring fraud and accepting its costs has so far worked okay. In the long term, however, fraud must be dealt with, and this raises a challenging political concern. The algorithms that the Gitcoin team used to detect the adversarial behavior are proprietary and closed-source, and &lt;em&gt;they have to be closed-source&lt;/em&gt; because otherwise the attackers could adapt and get around them. Hence, the output of the quadratic funding round is not just decided by a clear mathematical formula of the inputs. Rather, if fraudulent transactions were to be removed, it would also be fudged by what risks becoming a closed group twiddling with the outputs according to their arbitrary subjective judgements.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;It is worth stressing that this is not Gitcoin’s fault. Rather, what is happening is that Gitcoin has gotten big enough that it has finally bumped into the exact same problem that every social media site, no matter how well-meaning its team, has been bumping into for the past twenty years.&lt;/strong&gt; Reddit, despite its well-meaning and open-source-oriented team, employs many secretive tricks to detect and clamp down on vote manipulation, as does every other social media site.&lt;/p&gt;
+
+&lt;p&gt;This is because &lt;em&gt;making algorithms that prevent undesired manipulation, but continue to do so despite the attackers themselves knowing what these algorithms are, is really hard&lt;/em&gt;. In fact, &lt;strong&gt;the entire science of mechanism design is a half-century-long effort to try to solve this problem&lt;/strong&gt;. Sometimes, there are successes. But often, they keep running into the same challenge: collusion. It turns out that it’s not that hard to make mechanisms that give the outcomes you want if all of the participants are acting independently, but once you admit the possibility of one individual controlling many accounts, the problem quickly becomes much harder (or even intractable).&lt;/p&gt;
+
+&lt;p&gt;But the fact that we can’t achieve perfection doesn’t mean that we can’t try to come closer, and benefit from coming closer. Good mechanisms and opaque centralized intervention are substitutes: the better the mechanism, the closer to a good result the mechanism gets all by itself, and the more the secretive moderation cabal can go on vacation (an outcome that the actually-quite-friendly-and-cuddly and decentralization-loving Gitcoin moderation cabal very much wants!). In the short term, the Gitcoin team is also proactively taking a third approach: making fraud detection and response accountable by inviting third-party analysis and community oversight.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/uploads/6-24.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Picture courtesy of the Gitcoin team’s excellent blog post.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Inviting community oversight is an excellent step in preserving the mechanism’s legitimacy, and in paving the way for an eventual decentralization of the Gitcoin grants institution. However, it’s not a 100% solution: as we’ve seen with technocratic organizations inside national governments, it’s actually quite easy for them to retain a large amount of power despite formal democratic oversight and control. &lt;strong&gt;The long-term solution is shoring up Gitcoin’s &lt;em&gt;passive&lt;/em&gt; security, so that active security of this type becomes less necessary.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;One important form of passive security is making some form of unique-human verification no longer optional, but instead mandatory. Gitcoin already adds the option to use phone number verification, BrightID and several other techniques to “improve an account’s trust score” and get greater matching. But what Gitcoin will likely be forced to do is make it so that some verification is required &lt;em&gt;to get any matching at all&lt;/em&gt;. This will be a reduction in convenience, but the effects can be mitigated by the Gitcoin team’s work on enabling more diverse and decentralized verification options, and the long-term benefit in enabling security without heavy reliance on centralized moderation, and hence getting longer-lasting legitimacy, is very much worth it.&lt;/p&gt;
+
+&lt;h3 id=&quot;retroactive-airdrops&quot;&gt;Retroactive airdrops&lt;/h3&gt;
+
+&lt;p&gt;A second major issue this round had to do with Maskbook. In February, Maskbook announced a token and the token distribution included a retroactive airdrop to anyone who had donated to Maskbook in previous rounds.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/uploads/7-22.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;The table from Maskbook’s announcement post showing who is eligible for the airdrops.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;The controversy was that Maskbook was continuing to maintain a Gitcoin grant this round, despite now being wealthy and having set a precedent that donors to their grant might be rewarded in the future. The latter issue was particularly problematic as it &lt;em&gt;could&lt;/em&gt; be construed as a form of obfuscated vote buying. &lt;strong&gt;Fortunately, the situation was defused quickly; it turned out that the Maskbook team had simply forgotten to consider shutting down the grant after they released their token, and they agreed to shut it down. They are now even part of the funders’ league, helping to provide matching funds for future rounds!&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Another project attempted what some construed as a “wink wink nudge nudge” strategy of obfuscated vote buying: they hinted in chat rooms that they have a Gitcoin grant and they are going to have a token. No explicit promise to reward contributors was made, but there’s a case that the people reading those messages could have interpreted it as such.&lt;/p&gt;
+
+&lt;p&gt;In both cases, what we are seeing is that &lt;em&gt;collusion is a spectrum, not a binary&lt;/em&gt;. In fact, there’s a pretty wide part of the spectrum that even completely well-meaning and legitimate projects and their contributors could easily engage in.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/uploads/8-17.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Note that this is a somewhat unusual “moral hierarchy”. Normally, the more acceptable motivations would be the altruistic ones, and the less acceptable motivations would be the selfish ones. Here, though, the motivations closest to the left &lt;em&gt;and&lt;/em&gt; the right are selfish; the altruistic motivation is close to the left, but it’s not the &lt;em&gt;only&lt;/em&gt; motivation close to the left. The key differentiator is something more subtle: &lt;strong&gt;are you contributing because you like the consequences of the project getting funded (inside-the-mechanism), or are you contributing because you like some (outside-the-mechanism) consequences of &lt;em&gt;you personally&lt;/em&gt; funding the project?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;The latter motivation is problematic because it subverts the workings of quadratic funding. Quadratic funding is all about assuming that people contribute because they like the consequences of the project getting funded, recognizing that the amounts that people contribute will be much less than they ideally “should be” due to the tragedy of the commons, and mathematically compensating for that. But if there are large side-incentives for people to contribute, and these side-incentives are attached to that person specifically and so they are not reduced by the tragedy of the commons at all, then the quadratic matching &lt;em&gt;magnifies&lt;/em&gt; those incentives into a very large distortion.&lt;/p&gt;
+
+&lt;p&gt;In both cases (Maskbook, and the other project), we saw something in the middle. The case of the other project is clear: there was an accusation that they made hints at the possibility of formal compensation, though it was not explicitly promised. In the case of Maskbook, it seems as though Maskbook did nothing wrong: the airdrop was retroactive, and so none of the contributions to Maskbook were “tainted” with impute motives. But the problem is more long-term and subtle: &lt;strong&gt;if there’s a &lt;em&gt;long-term pattern&lt;/em&gt; of projects making retroactive airdrops to Gitcoin contributors, then users will feel a pressure to contribute primarily not to projects that they think are public goods, but rather to projects that they think are likely to later have tokens&lt;/strong&gt;. This subverts the dream of using Gitcoin quadratic funding to provide alternatives to token issuance as a monetization strategy.&lt;/p&gt;
+
+&lt;h3 id=&quot;the-solution-making-bribes-and-retroactive-airdrops-cryptographically-impossible&quot;&gt;The solution: making bribes (and retroactive airdrops) cryptographically impossible&lt;/h3&gt;
+
+&lt;p&gt;The simplest approach would be to delist projects whose behavior comes too close to collusion from Gitcoin. In this case, though, this solution cannot work: the problem is not projects doing airdrops &lt;em&gt;while&lt;/em&gt; soliciting contributions, the problem is projects doing airdrops &lt;em&gt;after&lt;/em&gt; soliciting contributions. While such a project is still soliciting contributions and hence vulnerable to being delisted, there is no indication that they are planning to do an airdrop. More generally, we can see from the examples above that policing motivations is a tough challenge with many gray areas, and is generally not a good fit for the spirit of mechanism design. But if delisting and policing motivations is not the solution, then what is?&lt;/p&gt;
+
+&lt;p&gt;The solution comes in the form of a technology called MACI.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/uploads/9-13.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;MACI is a toolkit that allows you to run &lt;em&gt;collusion-resistant applications&lt;/em&gt;, which simultaneously guarantee several key properties:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Correctness&lt;/strong&gt;: invalid messages do not get processed, and the result that the mechanism outputs actually is the result of processing all valid messages and correctly computing the result.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Censorship resistance&lt;/strong&gt;: if someone participates, the mechanism cannot cheat and pretend they did not participate by selectively ignoring their messages.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Privacy&lt;/strong&gt;: no one else can see how each individual participated.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Collusion resistance&lt;/strong&gt;: a participant cannot prove to others how they participated, &lt;em&gt;even if they wanted to prove this&lt;/em&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Collusion resistance is the key property: it makes bribes (or retroactive airdrops) impossible, because users would have no way to prove that they actually contributed to someone’s grant or voted for someone or performed whatever other action. This is a realization of the secret ballot concept which makes vote buying impractical today, but with cryptography.&lt;/p&gt;
+
+&lt;p&gt;The technical description of how this works is not that difficult. Users participate by signing a message with their private key, encrypting the signed message to a &lt;em&gt;public key&lt;/em&gt; published by a central server, and publishing the encrypted signed message to the blockchain. The server downloads the messages from the blockchain, decrypts them, processes them, and outputs the result along with a ZK-SNARK to ensure that they did the computation correctly.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/uploads/10-20.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Users cannot prove how they participated, because they have the ability to send a “key change” message to trick anyone trying to audit them: they can first send a key change message to change their key from A to B, and then send a “fake message” signed with A. The server would reject the message, but no one else would have any way of knowing that the key change message had ever been sent. There is a trust requirement on the server, though only for privacy and coercion resistance; the server cannot publish an incorrect result either by computing incorrectly or by censoring messages. In the long term, multi-party computation can be used to decentralize the server somewhat, strengthening the privacy and coercion resistance guarantees.&lt;/p&gt;
+
+&lt;p&gt;There is already a quadratic funding system using MACI: clr.fund. It works, though at the moment proof generation is still quite expensive; ongoing work on the project will hopefully decrease these costs soon.&lt;/p&gt;
+
+&lt;h3 id=&quot;practical-concerns&quot;&gt;Practical concerns&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;Note that adopting MACI does come with necessary sacrifices&lt;/strong&gt;. In particular, there would no longer be the ability to see who contributed to what, weakening Gitcoin’s “social” aspects. However, the social aspects could be redesigned and changed by taking insights from elections: elections, despite their secret ballot, frequently give out “I voted” stickers. They are not “secure” (in that a non-voter can easily get one), but they still serve the social function. One could go further while still preserving the secret ballot property: &lt;strong&gt;one could make a quadratic funding setup where MACI outputs the value of &lt;em&gt;how much&lt;/em&gt; each participant contributed, but not who they contributed to&lt;/strong&gt;. This would make it impossible for specific projects to pay people to contribute to them, but would still leave lots of space for users to express their pride in contributing. Projects could airdrop to &lt;em&gt;all&lt;/em&gt; Gitcoin contributors without discriminating by project, and announce that they’re doing this together with a link to their Gitcoin profile. However, users would still be able to contribute to someone else and collect the airdrop; hence, this would arguably be within bounds of fair play.&lt;/p&gt;
+
+&lt;p&gt;However, this is still a longer-term concern; MACI is likely not ready to be integrated for round 10. For the next few rounds, focusing on stepping up unique-human verification is still the best priority. Some ongoing reliance on centralized moderation will be required, though hopefully this can be simultaneously reduced and made more accountable to the community. The Gitcoin team has already been taking excellent steps in this direction. And if the Gitcoin team does successfully play their role as pioneers in being the first to brave and overcome these challenges, then we will end up with a secure and scalable quadratic funding system that is ready for much broader mainstream applications!&lt;/p&gt;</content><author><name></name></author><summary type="html">查看带有完整超链接的原文请访问：</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="" /></entry><entry xml:lang="en"><title type="html">Mask Network × DoinGud: The Next-Gen NFT Experience on Twitter</title><link href="/2021/06/16/mask-network-x-doingud-the-next-gen-nft-experience-on-twitter" rel="alternate" type="text/html" title="Mask Network × DoinGud: The Next-Gen NFT Experience on Twitter" /><published>2021-06-16T00:00:00+00:00</published><updated>2021-06-16T00:00:00+00:00</updated><id>/2021/06/16/mask-network-x-doingud-the-next-gen-nft-experience-on-twitter</id><content type="html" xml:base="/2021/06/16/mask-network-x-doingud-the-next-gen-nft-experience-on-twitter">&lt;p&gt;&lt;img src=&quot;/uploads/1-57.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Mask Network will partner with DoinGud, the NFT marketplace for social impact, to allow seamless access to traditional Web 2.0 social platforms. It will allow creators to display their work while users could access their homepage and trade the work via Twitter at the same time.&lt;/p&gt;
+
+&lt;p&gt;Content producers online inevitably put a lot of effort into finding supporters aside from creating their work. Meanwhile, collectors and curators also put a lot of effort into finding the “perfect” work. Traditional social networks (e.g. Twitter) facilitate people to find each other, but the operation of building connections to further commercial gains for both parties is difficult to achieve on traditional social networks and has to be taken place on new platforms.&lt;/p&gt;
+
+&lt;p&gt;As an open source Web 3.0 application, Mask Network has been trying to build a bridge between the existing Internet Web 2.0 and the new, open Web 3.0, with the hope of bringing more great Web 3.0 applications to traditional social media platforms like Twitter and Facebook. Mask extension can save users a lot of tedious steps, allowing content creation-related practitioners to showcase and trade their work as NFTs while interacting with their peers and supporters on the traditional social media platforms they are familiar with.&lt;/p&gt;
+
+&lt;p&gt;This partnership is significant for creators and others: with the help of Mask Network, DoinGud will take DApplet development a step further, empowering creators, collectors, and social impact organizations that use DoinGud. You don’t have to be an expert in the technology or learn the logic of using a new platform, you can experience the magic of Web 3.0 in a familiar interface. Meanwhile, the partnership also enriches the NFT-related content options for Mask plugin users and allows more people to get to know talented creators.&lt;/p&gt;
+
+&lt;p&gt;Mask Network and DoinGud both believe that technology is supposed to play the role of empowering people and serving people. Any online community is constituted by people and should be people-centric, autonomous, self-governing, and self-sustaining.&lt;/p&gt;
+
+&lt;p&gt;Manuel Gonzalez Alzuru, the founder of DoinGud said: “As we build our NFT platform to bring together creators, curators, collectors, and social impact organizations, we are laser-focused on providing our community with tools that will make access to the NFT world easier than ever. Mask Network’s solution of bringing web3 solutions to traditional social media is a natural choice for DoinGud and the vast community we are striving to serve.”&lt;/p&gt;
+
+&lt;p&gt;We welcome all creators to join the community and our discussion and bring new interesting thoughts. Please also stay tuned to “DIVE NFT Adoption,” our latest Clubhouse talk.&lt;/p&gt;
+
+&lt;p&gt;When: 15:30 June 16th, GMT&lt;/p&gt;
+
+&lt;p&gt;Where: &lt;a href=&quot;https://www.clubhouse.com/event/xnR3OA3R&quot; title=&quot;https://www.clubhouse.com/event/xnR3OA3R&quot;&gt;https://www.clubhouse.com/event/xnR3OA3R&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/uploads/2-53.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;About DoinGud&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;DoinGud is an ecosystem exploring the future of digital content, the creator and the giving economies, where curated creators of multiple disciplines can connect with their communities and collectors, and support a social impact organisation of their choice. We’re collaborating and developing with some of the brightest creators, technologists, communities, and blockchain companies to bring to you a next-gen NFT experience.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;About Mask Network&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Mask Network is the core product of Dimension, which is positioned to become the bridge that connects internet users from Web 2.0 to Web 3.0. The foundational technology of Mask Network is a peer-to-peer encrypted messaging application, with new functions continuously being created around this foundation. We at Mask Network are strong believers in the ownership economy. People should own what they produce, people should own their data, their attention and the virtual space they choose to contribute to.&lt;/p&gt;
+
+&lt;p&gt;Mask Network integrates decentralized social messaging, borderless payment network, decentralized file storage and sharing, decentralized finance, DAO and NFT to provide a safe and convenient portal for users to jump right into the continent of decentralized finance and then the new world of Web 3.0.&lt;/p&gt;</content><author><name></name></author><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/%7B%7B%20site.baseurl_root%20%7D%7D/uploads/1-57.png" /></entry><entry xml:lang="zh-Hans"><title type="html">Mask Network is Now Live on Polygon and BSC, Officially Enters the Multi-Chain Metaverse</title><link href="/2021/06/14/mask-network-is-now-live-on-polygon-and-bsc-officially-enters-the-multi-chain-metaverse" rel="alternate" type="text/html" title="Mask Network is Now Live on Polygon and BSC, Officially Enters the Multi-Chain Metaverse" /><published>2021-06-14T00:00:00+00:00</published><updated>2021-06-14T00:00:00+00:00</updated><id>/2021/06/14/mask-network-is-now-live-on-polygon-and-bsc-officially-enters-the-multi-chain-metaverse</id><content type="html" xml:base="/2021/06/14/mask-network-is-now-live-on-polygon-and-bsc-officially-enters-the-multi-chain-metaverse">&lt;p&gt;&lt;img src=&quot;/uploads/1-56.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Mask Network is now live on Polygon and Binance Smart Chain (BSC), officially declare the beginning of the Web 3.0 multi-chain era.&lt;/p&gt;
+
+&lt;p&gt;Mask Network is dedicated to searching for excellent Web 3.0 applications and to providing a better product experience at a lower cost. The skyrocketing Ethereum price (and its fluctuation), as well as the rising numbers of blockchain users and DApps, results in a very congested and pricey Ethereum network. More and more projects started to look for solutions on Layer2 and other chains. Mask Network has been continuously selecting and adjusting solutions and has reached an agreement with Polygon and BSC to create and complete the multi-chain metaverse of Mask Network together.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;em&gt;Polygon provides a cost-effective, speedy cross-chain solution. Polygon is a Layer2 solution blockchain, which provides scalable, secure, and instant Ethereum transactions using Plasma side-chains and a Proof-of-Stake network.&lt;/em&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;BSC boasts smart contract functionality and compatibility with the Ethereum Virtual Machine (EVM). The design goal here was to leave the high throughput of the Binance chain intact while introducing smart contracts into its ecosystem.&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;After the official integration of Polygon and BSC, DApps in the Mask Network ecosystem will no longer be limited to Ethereum. This allows the creation of faster and cheaper DApps, and will expand the landscape of the Mask Network ecosystem significantly; amazing DApps on Polygon and BSC network will also be able to reach more users through Mask Network. The existing Red Packet plugin is available on multi-chain, users could use the Polygon network or BSC network to receive or send Twitter Red Packet. Other features such as ITO and Swaps will also be live on multi-chain, thereby reducing costs and attract more users.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/uploads/2-37.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;For Mask Network, the integration with Polygon and BSC also means a more diverse user base from various ecosystems. We look forward to seeing more creative ways of using the Mask Network extension; when the gas fee increases, users will also have a wider selection, to avoid unnecessary loss.&lt;/p&gt;
+
+&lt;p&gt;We are excited about the multi-chain era. This not only lowers the cost for users, provides a richer experience but is also an inevitable stage of Mask Network’s vision of creating an open internet of the future. We hope to make Web 3.0 a digital world that is easier and more user-friendly.&lt;/p&gt;</content><author><name></name></author><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/%7B%7B%20site.baseurl_root%20%7D%7D/uploads/1-56.png" /></entry><entry xml:lang="zh-Hans"><title type="html">Mask Network Newsletter (May 2021)</title><link href="/2021/06/02/mask-network-newsletter-may-2021" rel="alternate" type="text/html" title="Mask Network Newsletter (May 2021)" /><published>2021-06-02T00:00:00+00:00</published><updated>2021-06-02T00:00:00+00:00</updated><id>/2021/06/02/mask-network-newsletter-may-2021</id><content type="html" xml:base="/2021/06/02/mask-network-newsletter-may-2021">&lt;p&gt;&lt;img src=&quot;/uploads/may-newsletter-cover.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;-engineering-update&quot;&gt;🔧 Engineering Update&lt;/h2&gt;
+
+&lt;h3 id=&quot;-mask-for-extension&quot;&gt;🌍 Mask for Extension&lt;/h3&gt;
+
+&lt;h4 id=&quot;v-1317&quot;&gt;v 1.31.7&lt;/h4&gt;
+
+&lt;p&gt;Improve the display of NFT information&lt;/p&gt;
+
+&lt;p&gt;Improve ITO card display details&lt;/p&gt;
+
+&lt;p&gt;Add owner specific display&lt;/p&gt;
+
+&lt;h4 id=&quot;increase-qualification-judgment&quot;&gt;Increase qualification judgment&lt;/h4&gt;
+
+&lt;p&gt;Improve the display wallet, Trade, and Collectible&lt;/p&gt;
+
+&lt;h4 id=&quot;v-1320&quot;&gt;v 1.32.0&lt;/h4&gt;
+
+&lt;p&gt;UI improvements of ITO plugin&lt;/p&gt;
+
+&lt;p&gt;Processing detail correction&lt;/p&gt;
+
+&lt;h4 id=&quot;v-1323&quot;&gt;v 1.32.3&lt;/h4&gt;
+
+&lt;p&gt;Show old ITO claim button&lt;/p&gt;
+
+&lt;p&gt;Improve ITO display details&lt;/p&gt;
+
+&lt;h2 id=&quot;-ecosystem-building&quot;&gt;🌳 Ecosystem Building&lt;/h2&gt;
+
+&lt;h3 id=&quot;-privacy&quot;&gt;&lt;strong&gt;-Privacy&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://masknetwork.medium.com/mask-network-will-work-with-nym-in-plugin-development-for-better-privacy-protection-50baed58ba1&quot;&gt;&lt;strong&gt;Mask Network will Work With Nym in Plugin Development, for Better Privacy Protection&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/uploads/nym-poster.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Mask Network engaged in in-depth talks with privacy infrastructure platforms Nym about the next mixnet testnet. The two organizations will open dialogues and hold extended discussions pertaining to privacy protection and the real-world application of encrypted decentralization concepts. We also plan to cooperate in node development, allowing people to use Mask Network nodes on the Nym testnet.&lt;/p&gt;
+
+&lt;h3 id=&quot;-community-choice-ito&quot;&gt;🙋 Community Choice ITO&lt;/h3&gt;
+
+&lt;p&gt;Mask Network supported 4 Community Choice ITO projects that passed community voting in May, among which 3 have launched ITO successfully:&lt;/p&gt;
+
+&lt;p&gt;(sorted by the order of ITO launching time)&lt;/p&gt;
+
+&lt;h4 id=&quot;lever-network&quot;&gt;&lt;strong&gt;Lever Network&lt;/strong&gt;&lt;/h4&gt;
+
+&lt;p&gt;&lt;img src=&quot;/uploads/ito-lever.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;AMM-based Decentralized Margin Trading Platform&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://masknetwork.medium.com/announcing-the-community-choice-ito-lever-network-c86b78f8935d&quot;&gt;More info&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;o3-swap&quot;&gt;&lt;strong&gt;O3 Swap&lt;/strong&gt;&lt;/h4&gt;
+
+&lt;p&gt;&lt;img src=&quot;/uploads/ito-o3.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Cross-chain Aggregation Protocol&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://masknetwork.medium.com/announcing-the-community-choice-ito-o3-swap-4090ddae63e1&quot;&gt;More info&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;dao-square&quot;&gt;&lt;strong&gt;DAO Square&lt;/strong&gt;&lt;/h4&gt;
+
+&lt;p&gt;&lt;img src=&quot;/uploads/ito-daosquare.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Web3 Incubator&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://news.daosquare.io/daosquare-ito-details-f727202fe9e8&quot;&gt;More info&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;evanesco-network--ito-yet-to&quot;&gt;&lt;strong&gt;Evanesco Network — ITO yet to&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;/uploads/eva.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Polkadot Private Protocol Platform&lt;/li&gt;
+  &lt;li&gt;The first project applied to our updated community choice ITO&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Fill&lt;/strong&gt; &lt;a href=&quot;https://docs.google.com/forms/d/e/1FAIpQLSe-qUPuk6Q3GMcXL4MGvGjIQSVdrRDIKnLIyng1egIwQcxa8g/viewform&quot;&gt;&lt;strong&gt;this form&lt;/strong&gt;&lt;/a&gt; &lt;strong&gt;to apply to a Community Choice ITO&lt;/strong&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/%7B%7B%20site.baseurl_root%20%7D%7D/uploads/may-newsletter-cover.png" /></entry><entry xml:lang="en"><title type="html">Middleware Changes the World</title><link href="/2021/05/19/middleware-changes-the-world" rel="alternate" type="text/html" title="Middleware Changes the World" /><published>2021-05-19T00:00:00+00:00</published><updated>2021-05-19T00:00:00+00:00</updated><id>/2021/05/19/middleware-changes-the-world</id><content type="html" xml:base="/2021/05/19/middleware-changes-the-world">&lt;p&gt;A monopoly business is the best business, but it is hard to be the monopoly in the Web 3.0 world due to fork and composability. Yet, we found the middleware business to be an exception. Chainlink is one such representation of middleware, while programs like TheGraph also provide a prime example of highly monopolistic middleware services. For easier understanding, I will go on to refer to these services as a reverse prophecy machine.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/uploads/1-55.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Chainlink: the internet -&amp;gt; blockchain (Web2 -&amp;gt; Web3)&lt;/p&gt;
+
+&lt;p&gt;TheGraph: blockchain -&amp;gt; the internet (Web3 -&amp;gt; Web2)&lt;/p&gt;
+
+&lt;p&gt;In recent years, we have been looking for and laying the foundations of our middleware projects. Apart from TheGraph, we also discovered Mask Network.&lt;/p&gt;
+
+&lt;p&gt;The role of middleware is to break past the Internet’s barriers and become the bridge between Web 2.0 and Web 3.0, which is the prerequisite for large-scale applications. All great causes start from building bridges and paving roads: that is why we view the market’s enthusiasm over $LINK and $GRT as a strong reflection that society understands this idea. However, having a prophecy machine and a reverse prophecy machine is not enough because these services are built for machines. Mask Network, however, is created for humans.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/uploads/2-52.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Chainlink: middleware for &lt;strong&gt;machine&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Mask Network: middleware for &lt;strong&gt;humans&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;TheGraph: middleware for &lt;strong&gt;machine&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Six months ago, we predicted that $GRT would be the next $LINK, and now we predict $MASK to be the next $GRT. The latter part of this article will discuss why we came to reach such a conclusion.&lt;/p&gt;
+
+&lt;p&gt;In 2020, many applications surpassed the valuation of public chains, and this trend continues to grow. I said “the era of the applet has come” in a group chat at the end of 2019, and the DeFi wave came with KNC. This year, I continue saying “the era of application has come,” but the difference is that with more projects beginning to acquire internet products, there will be an even larger-scale usage of applications.&lt;/p&gt;
+
+&lt;p&gt;Every big market condition is driven by a meta-innovation, which explodes in popularity after some time. Uniswap is the meta-innovation of DeFi, and some may even argue that debiting and synthetic assets are its meta-innovations as well. While they are indeed innovative, these factors are not stand-alone contributors for two reasons. Firstly, the demand for lending would not increase without a large number of speculative assets available on Uniswap. Secondly, synthetic assets and derivatives would not be active without Uniswap attracting a large number of stable coins to enter. &lt;strong&gt;It is easy to earn when you are close to the money, and it is easy to diversify when you are close to users.&lt;/strong&gt; DeFi is a business about money and all other DApps (decentralized applications) pale in comparison to that. I do not reject the uses of all these non-financial DApps, but it is simply that their time has not yet come. This change needs to be driven by a new meta-innovation, and it is waiting for Mask Network.&lt;/p&gt;
+
+&lt;p&gt;“Mask Network is a portal that helps users to seamlessly transit from Web 2.0 to Web 3.0. It enables users to send encrypted messages, cryptocurrencies and even DApps on traditional social networking platforms. Hence, users can create a decentralized application ecosystem.” — that is the official description.&lt;/p&gt;
+
+&lt;p&gt;I discovered Mask Network back in early 2020 when it was still called Maskbook. Just by the name “Maskbook,” you could tell how interesting the idea was — Facebook with a mask. After discussing it with Suji Yan, the founder of Mask Network, my first impression was that it was an additional “network on top.” Just when everyone had accepted the fact that today’s online users are irrevocably tied to their favourite social media platforms like Twitter or Facebook, using Mask Network’s “network on top” might be able to break that impenetrable monopoly of users. This is meta-innovation!&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;“You can’t beat something when it becomes too powerful, but you can stand on top of it.”&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/uploads/3-48.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The saying “Software is eating the world” came from the internet pioneer, formerly founder of Netscape, Marc Andreessen’s article in the Wall Street Journal in August 2011. It seems to be true today, but it has an underlying meaning, that “programmers” are leading the way into the future. Many new technologies were first adopted by programmers and reached the larger public after its gradual optimization. For instance: Github is not just used by programmers anymore, and Python is used in more industries. Notion also uses “/”; a programmer’s favourite shortcut key, to improve user’s efficiency (instead of the archaic Ctrl+Key).&lt;/p&gt;
+
+&lt;p&gt;No matter how the big companies continue to develop new software, in the end, there is no one single software that would work for everyone. For a video conference, there is at least three different software available: Zoom, VooV Meeting, Google Meet, and so on; there’s a myriad of software bundles for working purposes, but when you want to share something, you need to make sure that the other party uses the same software. In this way, software companies rely on their established reputation and large existing user base to grow their empires, a dominance that users can only passively allow. This lack of receptiveness to change and untested waters also limits innovation from within the industry: third parties can rarely bring new features to big corporate software, therefore they frequently face pushback and have to start anew. The constant emergence of new software brings users delight and fresh potential, but this software must be part of the monopoly for users to see the same level of convenience in using it. Big companies hold the monopolistic power, but if they are not willing to open the platform for third party innovations, how does that leave the next generation of start-ups? It’s time to change!&lt;/p&gt;
+
+&lt;p&gt;“After endless mountains and rivers that leave one doubting whether there is a path out, one suddenly encounters the shade of a willow, bright flowers and a lovely village.” — a traditional Chinese poem&lt;/p&gt;
+
+&lt;p&gt;There’s a script called “Greasemonkey” that is well loved by programmers in the know, who use it to buy train tickets during the holiday season because it is fast to develop and cheap to use. More importantly, users can install it easily and it is supported by Firefox and Chrome, so it is easy to utilize. There are a variety of apps like Greasemonkey in Mask Network’s dapplet market, which integrates all Web 2.0 apps into Web 3.0 seamlessly. One notable example is “Kuaichong.” To us, the Kuaichong dapplet is a milestone, akin to “Fruit Ninja” in the App Store.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/uploads/4-33.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;“Transak” trading dapplet&lt;/p&gt;
+
+&lt;p&gt;After installing the Mask Network extension, users can open their eyes to a completely different world on Twitter and Facebook. Unlike the dark web, Mask Network is the gateway to a new civilization, where users can enter Web 3.0. As the world begins to rebuild everything on this newer web, there will be huge opportunities for many young people. The existence of Mask Network is no less than the App Store. In fact, it is the starting point of another app boom, except that this time, it’s called dapplet.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/uploads/5-27.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Vitalik loves Mask Network!&lt;/p&gt;
+
+&lt;p&gt;The shadow-dom technology Mask Network uses is mature but under-appreciated. So far, the most successful applet is the aforementioned Greasemonkey (or GM for short), which functions as an add-on on to Firefox/Chrome browser. It allows users to install some scripts which change the website based on HTML directly, making it easier to use.. Embedded technology can also help to improve the user experience of existing software without asking for permission.&lt;/p&gt;
+
+&lt;p&gt;The popularity of GM has proven this doable.&lt;/p&gt;
+
+&lt;p&gt;Young entrepreneurs are also able to use Mask Network’s dapplet technology, to break past the thick barriers of the big corporate monopoly.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://lh3.googleusercontent.com/0ASROlkrhRloWr25473k5wdwCYVTINbU_zP6qtj8cITTBDCdMNb2qdYwlfR5W-2n11OL8HWSh0fRIToqQG_oyaQhTUunH0vScO0k6RZX5b2lumVeavj5YFBZOcNafXIgADQrqoYe =624x356&quot; alt=&quot;Image&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Human-centric, connecting everything&lt;/p&gt;
+
+&lt;p&gt;As the image above shows, the software is inevitably human-centric. Many of our preconceived notions of software are wrong. Due to the limitations of centralized technology, a lot of software has become internationalized and regionalized (e.g. Tiktok), so it is no longer possible to expand based on centralized technology. But decentralized technology is borderless. For the old web, what was once an advantage is now a disadvantage; the original network effect has become a network shackle; and large internet companies have been unable to grow, going from boom to bust. This is the inherent elimination mechanism that is embedded within an industry of rapid iteration. In 10 years, users will forget about Twitter and Facebook. As the user, you are neither Facebook nor any software, you’re just yourself, millions of data fragments which make up your online avatar. Taking everything as a whole implies staleness and stagnation while fragmentation creates flexibility and composability. Decentralization and fragmentation are variable concepts, but an easy combination of both can reduce the resistance to innovation, such is the basic condition for technological progress — especially in the software industry. In today’s world, successful software refers to hundreds of open source modules.&lt;/p&gt;
+
+&lt;p&gt;The internet and blockchain are completely incompatible, and such incompatibility is what grants the blockchain industry its independent growth (that has not been eroded by large companies). Things that are easy to achieve on the internet are hard to do on the blockchain. It is the same in the other direction: blockchain makes a borderless and permissionless open financial market possible, which the internet companies cannot achieve through any means. In this way, it is because blockchain can’t do what the Internet does, that the middleware business has gotten this much attention from the market.&lt;/p&gt;
+
+&lt;p&gt;The internet is software-centric, while blockchain is human-centric. The best way to break a monopoly is to destroy its foundation. Large companies use private database technology to store user information, while blockchain is a kind of public data. Bitcoin is building a peer-to-peer network (also called an ‘Overlay’ network or an ‘on-the-top’ network). No one can block Bitcoin, because this peer-to-peer decentralized network is outside the jurisdiction of the Internet. Mask Network is just like that, capable of being embedded in products with hundreds of millions of users through browser technology without the approval of large companies, providing Web 3.0 services to a large number of users without needing them to change their habits. In this way, it provides a practical solution to break the Internet monopoly (again: the popularity of Greasemonkey has proven that this is feasible).&lt;/p&gt;
+
+&lt;p&gt;If I were to attach a value to the future applets market Mask Network, I would estimate it to be at the level of $LINK and $GRT. 2021 is all about optimization and expansion, and blockchain applications will only prosper when the big three middleware pieces (LINK, GRT, MASK) come together.&lt;/p&gt;
+
+&lt;p&gt;At the end of this article, we will display some dapplets to peek into the future with you. I believe there will be tens of thousands of Mask Network applets popping up in the future. Perhaps, this meta-innovation exists not to change the world, but to give young people the opportunities they need.&lt;/p&gt;
+
+&lt;p&gt;Mask Network：The Portal to the New, Open Internet.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/uploads/7-21.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Dapplet that could send encrypted Red Packet on Twitter&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/uploads/8-16.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Initial Twitter Offering dapplet&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/uploads/9-12.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Dapplet based on image steganography&lt;/p&gt;
+
+&lt;p&gt;ステガノグラフィをベースにしたDapplet&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/uploads/10-19.png&quot; alt=&quot;&quot; /&gt;&lt;img src=&quot;/uploads/11-15.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Quadratic Funding dapplet&lt;/p&gt;</content><author><name></name></author><summary type="html">A monopoly business is the best business, but it is hard to be the monopoly in the Web 3.0 world due to fork and composability. Yet, we found the middleware business to be an exception. Chainlink is one such representation of middleware, while programs like TheGraph also provide a prime example of highly monopolistic middleware services. For easier understanding, I will go on to refer to these services as a reverse prophecy machine.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="" /></entry></feed>

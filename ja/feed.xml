@@ -1,0 +1,884 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja"><generator uri="https://jekyllrb.com/" version="3.6.3">Jekyll</generator><link href="/ja/feed.xml" rel="self" type="application/atom+xml" /><link href="/ja/" rel="alternate" type="text/html" hreflang="ja" /><updated>2021-07-08T07:48:53+00:00</updated><id>/ja/feed.xml</id><title type="html">News</title><subtitle>The Portal to the New, Open Internet.</subtitle><entry xml:lang="zh-Hans"><title type="html">ミドルウェアが世界を変える</title><link href="/ja/2021/05/07/%E3%83%9F%E3%83%89%E3%83%AB%E3%82%A6%E3%82%A7%E3%82%A2%E3%81%8C%E4%B8%96%E7%95%8C%E3%82%92%E5%A4%89%E3%81%88%E3%82%8B" rel="alternate" type="text/html" title="ミドルウェアが世界を変える" /><published>2021-05-07T00:00:00+00:00</published><updated>2021-05-07T00:00:00+00:00</updated><id>/ja/2021/05/07/%E3%83%9F%E3%83%89%E3%83%AB%E3%82%A6%E3%82%A7%E3%82%A2%E3%81%8C%E4%B8%96%E7%95%8C%E3%82%92%E5%A4%89%E3%81%88%E3%82%8B</id><content type="html" xml:base="/ja/2021/05/07/%E3%83%9F%E3%83%89%E3%83%AB%E3%82%A6%E3%82%A7%E3%82%A2%E3%81%8C%E4%B8%96%E7%95%8C%E3%82%92%E5%A4%89%E3%81%88%E3%82%8B">&lt;p&gt;独占ビジネスは最高のビジネスだが、Web3.0の世界では（フォークやコンポーザビリティのために）独占することは難しいと思われます。しかし、ミドルウェア・ビジネスは例外であることがわかりました。Chainlinkはミドルウェアの代表格であり、TheGraphも独占性の高いミドルウェアサービスを提供しており、理解しやすいように逆予言機と呼ぶことにします。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/uploads/1-55.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Chainlink：インターネット→ブロックチェーン(Web2→Web3)&lt;/p&gt;
+
+&lt;p&gt;TheGraph：ブロックチェーン→インターネット(Web3→Web2)&lt;/p&gt;
+
+&lt;p&gt;近年、ミドルウェアのプロジェクトを探しては寝かせているのですが、TheGraphの他に、Mask Networkも見つけました。ミドルウェアの役割は、インターネットの閉塞感を打破し、Web2.0とWeb3.0の架け橋となることであり、それは大規模なアプリケーションに対応するための必要条件でもあります。すべての大義名分は、橋を架け、道を舗装することから始まります。だからこそ、市場が$LINKや$GRTに熱狂するのは、資本が最も賢いからなのです。しかし、予言機や逆予言機があるだけでは不十分で、これらは機械のためのものです。MaskNetworkは人間のためのものです。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/uploads/2-52.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Chainlink：機械のためのミドルウェア&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Mask Network：人間のためのミドルウェア&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;TheGraph：機械のためのミドルウェア&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;半年前、我々は$GRTが次の$LINKになると予測したが、今回は$MASKが次の$GRTになると予測しています。後半では、なぜそのような結論に至ったのかを説明します。&lt;/p&gt;
+
+&lt;p&gt;2020年には、多くのアプリケーションがパブリックチェーンの評価額を超えており、それは成長を続けています。私は2019年末のグループチャットで「アプレットの時代が来た」と言いましたが、KNCでDeFiの波が来ました。今年も引き続き「アプレットの時代が来た」と言っていますが、違うのは、今年はより大規模なアプレットを使ったアプリケーションが登場するということです（一部のプロジェクトがインターネット製品を買収し始めています）。&lt;/p&gt;
+
+&lt;p&gt;大きな市場環境には必ずメタ・イノベーションがあり、それがしばらくすると爆発的に普及します。UniswapはDeFiのメタイノベーションであり、debitingやSynthetic Assetもメタイノベーションだと思う人がいるかもしれません。確かにこれらは革新的ですが、2つの理由から決定的なものではありません。第一に、Uniswapで大量の投機的資産が入手できなければ、貸し出し需要は増えない。第二に、合成資産やデリバティブは、Uniswapが安定したコインを大量に集めて参入しなければ活発にならない。お金との距離が近いと稼ぎやすく、ユーザーとの距離が近いと多様になりやすい。DeFiはお金に関するビジネスであり、それに比べれば他のDAppsはすべて青白いです。これらの非金融系のDAppsがすべて悪いとは言いませんが、彼らの時代はまだ来ていません。そのためにはメタ・イノベーションが必要であり、それを待っているのがMask Networkなのです。&lt;/p&gt;
+
+&lt;p&gt;“Mask Networkは、ユーザーがWeb 2.0からWeb 3.0にシームレスに移行することを支援するポータルです。これにより、ユーザーは従来のソーシャル・ネットワーキング・プラットフォーム上で、暗号化されたメッセージや暗号通貨、さらにはDAppsを送信することができます。したがって、ユーザーは分散型アプリケーションのエコシステムを作ることができます。” —- それが公式の説明文です。&lt;/p&gt;
+
+&lt;p&gt;私がMask Networkを発見したのは2020年初頭で、当時は「Maskbook」と呼ばれていました。Maskbook」という名前だけで、その面白さが伝わってきました。仮面をつけたFacebookです。マスク・ネットワークの創設者であるスジ・ヤン氏と話してみて、最初に感じたこと。”network on the top”。ユーザーはTwitterなしでは生きていけない」という事実を誰もが認めているときに、「network on the top」を使って、マスク・ネットワークはユーザーの不可侵の独占を打ち破ることができるかもしれない。これはメタ・イノベーションです。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;“強すぎるものには勝てないが、その上を行くことはできる”&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/uploads/3-48.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;“Software is eating the world “という言葉は、インターネットの先駆者であり、かつてNetscapeの創業者であったマーク・アンドリーセンが、2011年8月にWall Street Journalに寄稿した記事から来ています。今の時代にも当てはまりそうですが、この言葉には「プログラマー」が未来をリードしているという意味が込められています。多くの新技術は、プログラマーによって最初に採用され、徐々に最適化されて一般に普及していきました。例えば、Github。Githubはもはやプログラマーだけのものではなく、Pythonはより多くの業界で使用されています。また、Notionでは、プログラマーのお気に入りのショートカットキーである「/」を使用して、ユーザーの作業効率を向上させています（Ctrl+Keyはもう必要ありません）。&lt;/p&gt;
+
+&lt;p&gt;どんなに大企業が新しいソフトを開発しても、結局は万人に通用するソフトは存在しません。ビデオ会議には最低でも3つのソフトが必要になります。Zoom、VooV Meeting、Google Meeting……作業用のバンドルソフトはたくさんあるが、何かを共有したいときには、相手も同じソフトを使っているかどうかを確認する必要があります。ソフトウェア会社は帝国を築いていますが、ユーザーはそれを受動的に受け止めるしかありません。サードパーティが大企業のソフトウェアに新機能を提供することはほとんどなく、そのため、常に新しいソフトウェアを開発しなければなりませんでした。常に新しいソフトウェアが登場することは、ユーザーに喜びと不快感をもたらしますが、ユーザーにとってより便利になるためには、ソフトウェアは独占的でなければなりません。大企業が独占しているにもかかわらず、プラットフォームをオープンにしようとしない、それでは次世代のスタートアップ企業はどうなるのでしょうか？今こそ、変革の時です。&lt;/p&gt;
+
+&lt;p&gt;“After endless mountains and rivers that leave doubt whether there is a path out, suddenly one encounters the shade of a willow, bright flowers and a lovely village.” —- 漢詩の一節&lt;/p&gt;
+
+&lt;p&gt;プログラマーが愛用している「Greasemonkey」というスクリプトがあるのですが、これを使ってホリデーシーズンに電車のチケットを買っていました。電車の切符を買うのにこのスクリプトが使われているのは、開発が早く、安価に使えるからです。さらに言えば、ユーザーが簡単にインストールでき、FirefoxやChromeにも対応しているので、普及させやすいのです。Greasemonkeyのようなアプリは、Mask Networkのdapplet市場にたくさんあり、Web 2.0のアプリをWeb 3.0にシームレスに統合しています。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/uploads/4-33.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;“Transak” trading dapplet&lt;/p&gt;
+
+&lt;p&gt;Mask Networkの拡張機能をインストールすると、ユーザーはTwitterやFacebookで別の世界を見ることができました。ダークウェブとは異なり、Mask Networkは新しい文明へのネットワークであり、ユーザーはWeb 3.0に入ることができた。ここでは人々がすべてを再構築するので、多くの若者にとって大きなチャンスとなります。Mask・Networkの存在は、App Storeに勝るとも劣らない、新たなアプリ・ブームの起点となるものだが、今回はdapplet（分散型アプリケーション）と呼ばれるものです。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/uploads/5-27.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;VitalikはMask Networkが大好きです!&lt;/p&gt;
+
+&lt;p&gt;Mask Networkが使用したshadow-dom技術は成熟しているが、あまり評価されていません。今のところ、最も成功しているappletは、前述のGreasemonkey（略してGM）であり、これはFirefox/Chromeブラウザのアドオンです。これは、ユーザーがいくつかのスクリプトをインストールできるようにするもので、HTMLをベースにしたほとんどのウェブサイトを直接変更することができ、より使いやすくすることができます。埋め込み技術は、現在のソフトウェアのユーザーエクスペリエンスを向上させるために、許可を得ずに役立ちます。&lt;/p&gt;
+
+&lt;p&gt;電車の切符を買うためのスクリプトが人気なことからも、これが可能であることがわかります。&lt;/p&gt;
+
+&lt;p&gt;Mask・Networkのdapplet技術を使って、若い起業家が大企業の独占的な厚い壁を破ることができます。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/uploads/6-23.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;人間を中心に、すべてをつなぐ&lt;/p&gt;
+
+&lt;p&gt;上の図が示すように、ソフトウェアを人間中心のものにすることは避けられません。これまでのソフトウェアに対する理解の多くは間違っています。中央集権的な技術の限界から、多くのソフトウェアが国際化・地域化してしまい（例：Tiktok）、中央集権的な技術をベースにした拡張ができなくなってしまったのです。しかし、分散型技術はボーダレスです。かつてのアドバンテージが今ではデメリットとなり、本来のネットワーク効果がネットワークの足かせとなり、大規模なインターネット企業は成長できず、好景気から不景気へ、これは反復の早い産業の中に組み込まれた消去法のメカニズムであると言えます。10年後、ユーザーはTwitterやFacebookのことを忘れているでしょう。あなたはFacebookでもどんなソフトウェアでもなく、あなた自身であり、何百万ものデータの断片があなたのオンラインアバターを構成しているのです。全体とは陳腐さを意味し、断片化とは柔軟性とコンポーサビリティを意味します。分散化と断片化は変化する概念であり、簡単に組み合わせることでイノベーションへの抵抗を減らすことができ、技術進歩の基本的な条件となります。特にソフトウェア業界では、今日の成功したソフトウェアは何百ものオープンソースモジュールを参照することになります。&lt;/p&gt;
+
+&lt;p&gt;インターネットとブロックチェーンは完全に相容れないものであり、そのような相容れないものこそがブロックチェーン産業の独立した成長を付与し、大企業に侵食されていないのです。インターネットでは簡単に実現できることでも、ブロックチェーンではなかなかできません。それは逆も同じで、ブロックチェーンはボーダレス、パーミッションレスのオープンな金融市場を可能にしますが、これはインターネット企業ではどうやっても実現できません。また、ブロックチェーンはインターネットと同じことができないので、ミドルウェアビジネスがこれだけ市場から注目されているのです。&lt;/p&gt;
+
+&lt;p&gt;インターネットはソフトウェア中心で、ブロックチェーンは人間中心です。独占を打破するには、独占の基盤を破壊するのが一番です。大企業はプライベートなデータベース技術を使ってユーザー情報を保存しているが、ブロックチェーンは一種のパブリックデータです。ビットコインはpeer-to-peerのネットワークを構築していますが、これはオーバーレイ・ネットワークとも呼ばれ、on-the-top networkとも理解できます。このpeer-to-peerの分散型ネットワークは、インターネットの管轄外であるため、誰もビットコインをブロックすることはできません。Mask Networkもそれと同じで、大企業の承認なしに、ブラウザ技術を使って何億人ものユーザーがいる製品に組み込むことができ、ユーザーの習慣を変えることなく、大量のユーザーにWeb 3.0のサービスを提供することができます。インターネットの独占状態を打破するための現実的な解決策を提供しているのです（繰り返しになりますが、電車の切符のスクリプトの人気がこれが実現可能であることを証明しています）。&lt;/p&gt;
+
+&lt;p&gt;将来のapplets市場であるMask Networkの価値を見積もるとしたら、$LINKや$GRTのレベルではないかと思います。2021年は最適化と拡大が重要であり、ブロックチェーンアプリケーションは、大きな3つのミドルウェア（LINK、GRT、MASK）が揃って初めて繁栄します。&lt;/p&gt;
+
+&lt;p&gt;この記事の最後に、いくつかのdappletsを置いて、皆さんと一緒に未来を覗いてみましょう。今後、何万ものMask Networkのapplets が出てくると思います。メタ・イノベーションとは、世界を変えることではなく、若者がより多くの機会を必要としていることなのかもしれません。&lt;/p&gt;
+
+&lt;p&gt;Mask Network: The Portal to the New, Open Internet.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/uploads/7-21.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Twitterで暗号化されたRed Packetを送ることができるDapplet&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/uploads/8-16.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Initial Twitter Offering dapplet&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/uploads/9-12.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;ステガノグラフィをベースにしたDapplet&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/uploads/10-19.png&quot; alt=&quot;&quot; /&gt;&lt;img src=&quot;/uploads/11-15.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Quadratic Funding dapplet&lt;/p&gt;
+
+&lt;p&gt;（翻訳：Yutaka）&lt;/p&gt;</content><author><name></name></author><summary type="html">独占ビジネスは最高のビジネスだが、Web3.0の世界では（フォークやコンポーザビリティのために）独占することは難しいと思われます。しかし、ミドルウェア・ビジネスは例外であることがわかりました。Chainlinkはミドルウェアの代表格であり、TheGraphも独占性の高いミドルウェアサービスを提供しており、理解しやすいように逆予言機と呼ぶことにします。</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/ja" /></entry><entry xml:lang="zh-Hans"><title type="html">ITOがアップグレード！次はどのプロジェクトが選ばれるかな？</title><link href="/ja/2021/04/25/ito" rel="alternate" type="text/html" title="ITOがアップグレード！次はどのプロジェクトが選ばれるかな？" /><published>2021-04-25T00:00:00+00:00</published><updated>2021-04-25T00:00:00+00:00</updated><id>/ja/2021/04/25/ito</id><content type="html" xml:base="/ja/2021/04/25/ito">&lt;p&gt;&lt;img src=&quot;/uploads/1-52.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;2021年の初めに、Mask Networkはまったく新しい機能であるITO（Initial Twitter Offering）をリリースしました。Loopring $ LRC、Mirror Protocol $ mTSLA、および独自の$ MASKを含む多くの優れたプロジェクトは、この機能を最初にリリースして以来、ITOを立ち上げました。&lt;/p&gt;
+
+&lt;p&gt;ますます多くのユーザーがITOに興味を持っているのを見てとても嬉しいです。しかし、過去のITOイベントの間に、私たちのコミュニティで多くの質問が提起されていることに気づきました。そこで、この記事では、ITOをより徹底的に紹介し、今後のITOの計画について説明していきたいと思います。&lt;/p&gt;
+
+&lt;h3 id=&quot;itoとは&quot;&gt;&lt;strong&gt;ITOとは？&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;p&gt;マスクネットワークによって導入されたITO（Initial Twitter Offering）は、分散型ブロックチェーンネットワークインフラストラクチャであるイーサリアムに基づく分散型アセットオファリング機能です。ユーザーはTwitterで直接トークンの起動に参加できます。プロジェクトは、既存のトークンを割引価格で提供することでユーザーに報酬を与えたり、ITOを通じて認知度を高めたり、単に新しいトークンを起動したりすることもできます。&lt;/p&gt;
+
+&lt;h3 id=&quot;機能は次のとおりです&quot;&gt;&lt;strong&gt;機能は次のとおりです。&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;複数のERC-20トークンの価格をカスタマイズする&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;ユーザースワップ制限を設定する&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;開始/終了時間を設定する&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;最近更新された高度な機能は次のとおりです&quot;&gt;&lt;strong&gt;最近更新された高度な機能は次のとおりです。&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;IPリージョンの制限&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;リストから選択して、IPに基づいて選択した国のユーザーをブロックできます。デフォルトのものはすべての地域で開いています。&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;トークンのロック解除時間を設定&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;トークンをロックして、希望する時間にのみトークンを解放することを選択できます。&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;プラグイン&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/DimensionDev/InitialTwitterOffering/blob/master/contracts/IQLF.sol&quot;&gt;IQLFインターフェイス&lt;/a&gt;に基づいて独自の資格契約を作成し、ユーザーがITOの資格を得る方法をカスタマイズできます。デフォルトのものは誰もが通過できるようにします。カスタマイズには次のものが含まれます。&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;1.ホワイトリスト&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;2.1つ以上の特定のトークンを保持している&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;3.1つ以上の特定のトークンなどを保持していない&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;コミュニティやプロジェクトのさまざまなニーズを満たすために、将来的にはより多くの種類のオークションとサポートマルチチェーンがあります。&lt;/p&gt;
+
+&lt;p&gt;優れた資産発行ツールが十分に発達したソーシャルネットワークと統合されると、大きな可能性が解放されると私たちは信じています。これは、Mask Networkが達成しようとしているビジョンの一部でもあります。つまり、優れたDAppを従来のインターネットに導入することでWeb2.0とWeb3.0を橋渡しします。&lt;/p&gt;
+
+&lt;h3 id=&quot;プロジェクトがitoを立ち上げる方法&quot;&gt;&lt;strong&gt;プロジェクトがITOを立ち上げる方法：&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;h4 id=&quot;オプションa許可なしに立ち上げれるito&quot;&gt;&lt;strong&gt;オプションA：許可なしに立ち上げれるITO&lt;/strong&gt;&lt;/h4&gt;
+
+&lt;p&gt;ITOは分散型の許可のないトークン提供方法であり、Mask Networkがインストールされている個人や組織は、MaskNetworkに通知せずにERC-20アセットを起動できます。個人またはプロジェクトが資産の魅力的な価格（新規または既存）を設定し、十分なマーケティング努力とガイダンスがあれば、優れたトークンオファリングを開始することが可能になります。&lt;/p&gt;
+
+&lt;h4 id=&quot;オプションbコミュニティによる審査制ito&quot;&gt;&lt;strong&gt;オプションB：コミュニティによる審査制ITO&lt;/strong&gt;&lt;/h4&gt;
+
+&lt;p&gt;コミュニティとプロジェクトのフィードバックから、コミュニティはMask NetworkのITOに関心を持っており、ITOは許可なく起動できますが、MaskNetworkの支援を求めていることがわかりました。慎重に検討した後、MaskNetworkはコミュニティ投票メカニズムを導入します。許可のないITOとは別に、コミュニティの投票メカニズムが、マスクネットワークエコシステム全体に利益をもたらしながら、プロジェクトがより良いマーケティングに役立つことを願っています。&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;em&gt;ITOレビュー委員会&lt;/em&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Mask Networkは、ITOに申請するすべてのプロジェクトの予備審査プロセスを実施するために、ITO審査委員会を開始します。また、コミュニティのメンバーがより優れたプロジェクトを紹介してくれることを歓迎します。&lt;/p&gt;
+
+&lt;p&gt;ITOレビュー委員会は、マスクネットワークのメンバーと3,000ドル以上のマスクを保有するコミュニティメンバーによって形成され、各メンバーの任期は15日間で、メンバーは再審査期間中に自由に撤退することができます。将来的には、MaskNetworkはITOガバナンスの力をコミュニティに完全に戻します。自律ITO審査委員会への参加申請はまもなく開始されます。&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;em&gt;$ MASK投票&lt;/em&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;予備審査に合格したすべてのプロジェクトは48時間続く投票に&lt;strong&gt;進み&lt;/strong&gt;、Mask Network &lt;strong&gt;@realmaskbookの&lt;/strong&gt;公式Twitterがユーザーに投票リンクを共有し、$ MASK保有者はプロジェクトが可能かどうかについて「はい」または「いいえ」に投票できます。 ITOを起動します。総投票数は定足数を満たす必要があります。現在、定足数は100,000マスクで、承認率は66.67％を超えています。&lt;strong&gt;（数は将来変更される可能性があります）。&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Mask Networkは、コミュニティの投票に合格したITOプロジェクトをサポートします。&lt;/p&gt;
+
+&lt;h3 id=&quot;ユーザーがitoに参加する方法&quot;&gt;&lt;strong&gt;ユーザーがITOに参加する方法&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;p&gt;方法は他のプラットフォームのオファリングに参加するのと同じであり、プロジェクトの品質と可能性を区別するためにユーザーの洞察が必要です。ITOの開始時にパニック買いの状況が発生する可能性があるため、ユーザーはインターネットを準備し、十分なガス料金を支払う必要があります。&lt;/p&gt;
+
+&lt;p&gt;コミュニティの投票メカニズムが次の素晴らしいITOプロジェクトを生み出し、より多くのプロジェクトにITOを実施する機会を与えることを願っています。将来的には、ITOガバナンスをコミュニティに戻し、完全な分散型自律を実現することも計画しています。&lt;/p&gt;
+
+&lt;p&gt;ITOの説明は以上です&lt;strong&gt;&lt;em&gt;。&lt;/em&gt;&lt;/strong&gt;少し様子を見てみましょう。次はどこのプロジェクトが選ばれるかな？&lt;/p&gt;
+
+&lt;p&gt;（翻訳者：twitter@crypto___baby）&lt;/p&gt;</content><author><name></name></author><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/ja/%7B%7B%20site.baseurl_root%20%7D%7D/uploads/1-52.png" /></entry><entry xml:lang="ja"><title type="html">月報| Mask Network 3月のニュース（2021年3月）</title><link href="/ja/2021/03/31/mask-network-3-2021-3" rel="alternate" type="text/html" title="月報| Mask Network 3月のニュース（2021年3月）" /><published>2021-03-31T00:00:00+00:00</published><updated>2021-03-31T00:00:00+00:00</updated><id>/ja/2021/03/31/mask-network-3-2021-3</id><content type="html" xml:base="/ja/2021/03/31/mask-network-3-2021-3">&lt;p&gt;&lt;img src=&quot;/uploads/1-50.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;-engineeringアップデート&quot;&gt;&lt;strong&gt;🔧 Engineeringアップデート&lt;/strong&gt;&lt;/h1&gt;
+
+&lt;h2 id=&quot;-mask-for-extension&quot;&gt;🌍 Mask for Extension&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;v 1.29.10&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Mask Walletに取引履歴を表示するようにしました。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;v 1.29.11&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;トークンのデータソースとしてUniswap Infoを統合しました。&lt;/p&gt;
+
+&lt;p&gt;ウォレットにCollectiblesタブを追加してNFTを表示しました。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;v 1.29.12&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;非表示のNFTのデフォルト画像を更新しました。&lt;/p&gt;
+
+&lt;p&gt;ITOプラグインを改良しました。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;v 1.29.13&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;ウォレットのタブのデザインを変更しました。&lt;/p&gt;
+
+&lt;h2 id=&quot;-mask-ios&quot;&gt;&lt;strong&gt;📱 Mask iOS&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;v 1.29.12&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Trust Wallet Cireを統合しました。&lt;/p&gt;
+
+&lt;p&gt;Zerion APIを接続。&lt;/p&gt;
+
+&lt;p&gt;MaskのJSコードを更新しました。&lt;/p&gt;
+
+&lt;p&gt;互換性の問題を修正しました。&lt;/p&gt;
+
+&lt;h3 id=&quot;️-mask-for-android&quot;&gt;&lt;strong&gt;🤖️ Mask for Android&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;v 1.29.10&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;新規アカウント設定ガイドのダイアログを解除できない問題を修正しました。&lt;/p&gt;
+
+&lt;p&gt;データベースのバックアップファイルをエクスポートする際の問題を修正しました。&lt;/p&gt;
+
+&lt;h1 id=&quot;-ecosystem-building&quot;&gt;🌳 Ecosystem Building&lt;/h1&gt;
+
+&lt;h2 id=&quot;--nft&quot;&gt;- NFT&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://mp.weixin.qq.com/s/ytL_1MhFwVxgLmwb_uAOcw&quot;&gt;DEGO x Mask Network｜Web 3.0でNFTの入り口を構築する&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Mask Networkは、クロスチェーンのNFTおよびDeFiプロトコルであるDEGO Financeと戦略的パートナーシップを結びました。両者は、NFTのblind boxes、ゲーム、ソーシャルネットワークなどの分野で協力していきます。ユーザーは、数回のクリックで、NFTの作成、収集、売買をTwitter上で行うことができるようになります。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://mp.weixin.qq.com/s/-PMmXZfnizot2HIvaOehzg&quot;&gt;Mask Network × Cent｜見たばかりのツイートをTwitter上で買う&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Mask Networkは、Centとの共同バウンティにより、Twitterに直接NFTを追加します。Twitter内で直接ツイートを入札・取引することで、ツイートする人をサポートします。&lt;/p&gt;
+
+&lt;p&gt;Sample:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/uploads/2-48.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Bounty:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://gitcoin.co/issue/DimensionDev/Maskbook/2599&quot; title=&quot;https://gitcoin.co/issue/DimensionDev/Maskbook/2599&quot;&gt;https://gitcoin.co/issue/DimensionDev/Maskbook/2599&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;--defi&quot;&gt;- DeFi&lt;/h2&gt;
+
+&lt;table&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;[🔗 Mask NetworkがNEAR Protocol&lt;/td&gt;
+      &lt;td&gt;と提携、共同で懸賞金をかけてキックオフ](https://mp.weixin.qq.com/s/gGE2opBPt8kIDFXWoet8Mw)&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;Mask Networkは、PoSブロックチェーンNEAR Protocolと戦略的パートナーシップを締結しました。The Rainbow Bridge、NEAR EVM、NEAR Dropなどの主要コンポーネントが、Mask Networkに統合される予定です。&lt;/p&gt;
+
+&lt;p&gt;この協力関係は、NEAR WalletをMask Networkに統合し、将来のパートナーシップのための強固な基盤を作るという共同懸賞金から始まりました。&lt;/p&gt;
+
+&lt;p&gt;懸賞金：&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://gitcoin.co/issue/DimensionDev/Maskbook/2602/100025151&quot; title=&quot;https://gitcoin.co/issue/DimensionDev/Maskbook/2602/100025151&quot;&gt;https://gitcoin.co/issue/DimensionDev/Maskbook/2602/100025151&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://mp.weixin.qq.com/s/RCJ613Ln5mcGHTh8CRHs3Q&quot;&gt;🤝 Mask NetworkがConvergenceに出資し、ITO（Initial Twitter Offering）とWST（Wrapped Security Token）で手を結ぶ&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Mask Networkは、分散型の交換可能な資産プロトコルであるConvergenceに投資し、提携しました。Convergence上のプロジェクトは、Initial Twitter Offeringを通じてWrapped Security Tokenのローンチを行い、ConvergenceのAMMプールで取引することができます。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://mp.weixin.qq.com/s/A_g8KNlZj74cbXKuqvWhJA&quot;&gt;Mask Network × Polygon｜その他の遊び方は？&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Mask Networkは、レイヤー2のソリューション・アグリゲーターであるPolygon (旧 Matic Network)と協力して、イーサリアムにおけるトラフィックや高いガス代などの現状の問題について、技術的な対話を行います。Mask Networkはまず、共同バウンティを通じて、Polygonのエコシステムの一部である分散型取引所のQuickSwapを統合します。&lt;/p&gt;
+
+&lt;p&gt;バウンティ&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://gitcoin.co/issue/DimensionDev/Maskbook/2645/100025307&quot; title=&quot;https://gitcoin.co/issue/DimensionDev/Maskbook/2645/100025307&quot;&gt;https://gitcoin.co/issue/DimensionDev/Maskbook/2645/100025307&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;--community--developer&quot;&gt;- Community &amp;amp; Developer&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://mp.weixin.qq.com/s/A4nqUdMXzQmr6CZ0UvtFjA&quot;&gt; &lt;strong&gt;Mask Network × Gitcoin｜Gitcoin Grants Round 9&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Mask Networkは、Gitcoin Grants Round 6から積極的にファンディングを行っており、Gitcoinでは20件以上のバウンティを公開しています。一方、Mask Networkは、Gitcoin Grants Round 9への支援を継続し、未来のブロックチェーンのエコシステム構築やオープンソースプロジェクトの開発に、より多くの開発者を奨励しています。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/uploads/3-46.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Mask Networkは、数年前にGitcoinと技術提携しました。Mask NetworkはGitcoinの寄付リンクを自動的に認識することができるので、拡張機能をインストールした後、ユーザーは数回クリックするだけで寄付をすることができます。GR9期間中にはMASK Webinarも開催され、Twitterから直接Gitcoin Grantをサポートする方法や、その他のクールな機能を紹介したビデオを “こちら “からご覧いただけます。&lt;/p&gt;
+
+&lt;h1 id=&quot;mask-token&quot;&gt;$MASK Token&lt;/h1&gt;
+
+&lt;h2 id=&quot;maskがtransakに登場twitterでの直接購入をサポート&quot;&gt;$MASKがTransakに登場、Twitterでの直接購入をサポート&lt;/h2&gt;
+
+&lt;p&gt;$MASKトークンが、ConsenSysが推奨するfiat on-rampのアグリゲーターであるTransakに登場しました。これにより、Twitter上で$MASKトークンを直接購入することが可能になりました。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/uploads/4-5.gif&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;トークンのアンロック詳細2021年3月&quot;&gt;📍トークンのアンロック詳細（2021年3月）&lt;/h2&gt;
+
+&lt;p&gt;2021年3月29日（UTC+8）に行われた最初の$MASKアンロックは、$MASKトークンの公式発表から約1ヶ月が経過しました。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/uploads/5.webp&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/ja/%7B%7B%20site.baseurl_root%20%7D%7D/uploads/1-50.png" /></entry><entry xml:lang="ja"><title type="html">$MASKトークンの初回アンロック（2021 年 3 月）の詳細</title><link href="/ja/2021/03/26/mask-2021-3-29" rel="alternate" type="text/html" title="$MASKトークンの初回アンロック（2021 年 3 月）の詳細" /><published>2021-03-26T00:00:00+00:00</published><updated>2021-03-26T00:00:00+00:00</updated><id>/ja/2021/03/26/mask-2021-3-29</id><content type="html" xml:base="/ja/2021/03/26/mask-2021-3-29">&lt;p&gt;&lt;img src=&quot;/uploads/771038253706819007.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;$MASKトークンの公式発表から約1ヶ月が経ちましたが、ITOやLBPに積極的にご参加いただきありがとうございます。このたび、$MASKトークンの配分と各ステージでのアンロックの進捗状況を公開することになりました。&lt;/p&gt;
+
+&lt;p&gt;参考：&lt;a href=&quot;https://news.mask.io/2021/02/11/introducing-the-mask-token&quot; title=&quot;https://news.mask.io/2021/02/11/introducing-the-mask-token&quot;&gt;https://news.mask.io/2021/02/11/introducing-the-mask-token&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;$MASKトークンの初回アンロック（2021年3月29日）の詳細は以下の表をご覧ください。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/uploads/654770200978803623.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;1ヶ月目のアンロック（2021年3月）後には、総供給量の10.91%に相当する10,913,333ドルのMASKが流通します。9%は最初の1ヶ月間で流通していますので、今回は1.91%がリリースされます。&lt;/li&gt;
+  &lt;li&gt;今回リリースされる1.91%のうち、1.1%が財団から、0.81%が投資家からです。財団の部分は、アンロックされたとはいえ、追って通知があるまで私たちが保管しておきます。そのため、実質的なアンロック率は0.81%となります。&lt;/li&gt;
+  &lt;li&gt;現在の$MASKの価格から考えると、0.81%の新規にリリースされたトークンは11,340,000ドル（$MASK1枚あたり14ドルと仮定）の価値があり、これは$MASKの1日の取引量の20%にも満たない金額です。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;今後も$MASKトークンのリリースに関する最新情報を更新していきますので、公式発表にご期待ください。&lt;/p&gt;</content><author><name></name></author><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/ja/%7B%7B%20site.baseurl_root%20%7D%7D/uploads/771038253706819007.png" /></entry><entry xml:lang="ja"><title type="html">ITOの参加方法と＄MASKのAirdropsの入手方法について</title><link href="/ja/2021/02/17/ito-mask-airdrops" rel="alternate" type="text/html" title="ITOの参加方法と＄MASKのAirdropsの入手方法について" /><published>2021-02-17T00:00:00+00:00</published><updated>2021-02-17T00:00:00+00:00</updated><id>/ja/2021/02/17/ito-mask-airdrops</id><content type="html" xml:base="/ja/2021/02/17/ito-mask-airdrops">&lt;p&gt;&lt;img src=&quot;/uploads/1-2.jpeg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;1. マスクアカウントの作成方法&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;ダウンロード&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://mask.io&quot; title=&quot;http://mask.io&quot;&gt;http://mask.io&lt;/a&gt; (&lt;a href=&quot;http://mask.io/&quot; title=&quot;http://mask.io/&quot;&gt;http://mask.io/&lt;/a&gt;) で Mask をダウンロードしてインストールしてください。&lt;/li&gt;
+  &lt;li&gt;また、ChromeやFirefoxの拡張機能ストアでもMask Networkを検索することができます。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;オンボーディング&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;新規ユーザーは指以下の手順で設定してください。&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;新しいペルソナを作成します。&lt;/li&gt;
+  &lt;li&gt;”Twitterアカウントで接続する”をクリックします。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;/uploads/2-3.gif&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;MaskがTwitterのページにリダイレクトし、ユーザー名を検出します。&lt;/li&gt;
+  &lt;li&gt;ユーザー名を確認して”Connect to twitter.com”をクリックします。&lt;/li&gt;
+  &lt;li&gt;これで、友達に挨拶ができるようになりました。”Compose Encrypted Post”をクリックして、あなたの投稿を解読できる人を選択します。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;/uploads/3-4.gif&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;ウォレットの設定&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Maskは、新規ユーザーのための新しいウォレットアドレスを自動的に作成します。&lt;/li&gt;
+  &lt;li&gt;右上の青い”Mask”ボタンをクリックします。&lt;/li&gt;
+  &lt;li&gt;“Enter Dashboard”をクリックします。&lt;/li&gt;
+  &lt;li&gt;“Wallets”をクリックしてウォレットを表示します。&lt;strong&gt;バックアップを忘れずにお願いします！&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;/uploads/4-2.gif&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;ウォレットの変更&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;方法1.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;右上の”Mask”ボタンをクリックします。&lt;/li&gt;
+  &lt;li&gt;“Enter Dashboard”をクリックします。&lt;/li&gt;
+  &lt;li&gt;“Wallets”をクリックします。&lt;/li&gt;
+  &lt;li&gt;既存のウォレットアドレスをクリックします。&lt;/li&gt;
+  &lt;li&gt;“Change”をクリックして、使用するウォレットと接続します。(MetaMaskとWalletConnectに対応しました)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;/uploads/5-4.gif&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;方法2.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Twitterで”$XXX”を検索。&lt;/li&gt;
+  &lt;li&gt;“Swap”をクリックします。&lt;/li&gt;
+  &lt;li&gt;既存のウォレットのアドレスをクリック&lt;/li&gt;
+  &lt;li&gt;“Change”をクリックして、ウォレットと連携します。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;/uploads/6-3.gif&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;2. ITOへの参加方法&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;開始後、Twitter（@realmaskbook）でITOのツイートを探してください。&lt;/li&gt;
+  &lt;li&gt;“Enter”をクリックして参加してください。&lt;/li&gt;
+  &lt;li&gt;このツイートは、ITOの各ラウンドが始まるまでに公開されます。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;/uploads/7-15.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;この画像は参考画像です&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;“Swap Reminder”をよく確認してください。&lt;/li&gt;
+  &lt;li&gt;“I understand”をクリックします。&lt;/li&gt;
+  &lt;li&gt;“Continue”をクリックします。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;/uploads/8-11.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;この画像は参考画像です&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;スワップしたい$MASKの金額を入力し（各ラウンドで1アドレスにつき最大2000$MASKまで）、”Unlock”をクリックします。&lt;/li&gt;
+  &lt;li&gt;取引を確認します。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;/uploads/9-8.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;取引が確定すると、成功画面が表示されます!&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;ITO中に購入した$MASKは、02/26/2021 3:00am UTC+0以降は全てロックアップされます。&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;/uploads/10-14.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;この画像は参考画像です&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;3. $MASK AirdropsとITOを入手する方法&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;現在のバージョンはまだアップグレードされていませんので、アップデートをお待ちください。以下の画像は参考画像です。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Airdrops&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;下の画像で丸で囲んだ青い”MASK”ボタンに移動します。&lt;/li&gt;
+  &lt;li&gt;クリックすると、あなたが受け取ることができる$MASKトークンの数が表示されます。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;ITO&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;画像の中で丸く囲んだ青い”MASK”ボタンをクリックして、02/26/2021, 3:00am UTC+0までに$MASKを請求してください。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;/uploads/11-11.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;この画像は参考画像です&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/uploads/12-8.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;この画像は参考画像です&lt;/p&gt;
+
+&lt;p&gt;（翻訳：Yutaka）&lt;/p&gt;</content><author><name></name></author><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/ja/%7B%7B%20site.baseurl_root%20%7D%7D/uploads/1-2.jpeg" /></entry><entry xml:lang="ja"><title type="html">MaskNetworkがLoopringと提携してイーサリアムレイヤー2エコシステムを構築</title><link href="/ja/2021/02/07/masknetwork-loopring-2" rel="alternate" type="text/html" title="MaskNetworkがLoopringと提携してイーサリアムレイヤー2エコシステムを構築" /><published>2021-02-07T00:00:00+00:00</published><updated>2021-02-07T00:00:00+00:00</updated><id>/ja/2021/02/07/masknetwork-loopring-2</id><content type="html" xml:base="/ja/2021/02/07/masknetwork-loopring-2">&lt;p&gt;&lt;img src=&quot;/uploads/1-34.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;MaskNetworkは、イーサリアムレイヤー2のLoopring Protocolと戦略的パートナーシップの構築を発表することを嬉しく思います。レイヤー2スケーリング、zkRollup、その他の分散化技術において深い協力関係を築くことになります。我々の協力の当面の目標は、分散型取引所における高額な取引手数料と中央集権型中継器への依存を解決し、より効率的なEthereum Layer2エコシステムへの道を開くことに焦点を当てています。アプリケーションレイヤーでは、MaskNetworkとLoopringは、より多くのセカンドレイヤーの「Red Packet」機能の開発に協力していきます。我々の協力の当面の目標は、DEXにおける高額な取引手数料と中央集権型のリレイヤーへの依存を解決し、より効率的なイーサリアムレイヤー2エコシステムへの道を開くことに焦点を当てます。&lt;/p&gt;
+
+&lt;p&gt;MaskNetworkは、ソーシャルメディアプラットフォーム上に分散型アプリケーションのエコシステムを構築し、現在のインターネットと新しくオープンなWeb3.0とをつなぐ架け橋となることを目指しています。現在、私たちの分散化機能には、イーサリアム上のRed Packet、NFT、マーケットデータ、そして取引などがあります。Loopringは、イーサリアムのために初めて実現したレイヤー2スケーリングソリューションであり、zkRollupを使用してEthereum上のトランザクションスループットを3,000txまで増加させ、その間、トランザクションガス料金を大幅に削減し、DeFiエコシステムに参加する誰もが手頃な価格で利用できるようにしています。&lt;/p&gt;
+
+&lt;p&gt;私たちのパートナーシップは、ユーザーがより高速なネットワーク速度を体験し、トランザクションコストを大幅に削減し、より多くのユーザーが分散型Webへの橋を渡り、ソーシャルメディアプラットフォーム上の何十億人ものユーザーがDeFiの世界に参入するためのゲートウェイとなることを支援します。&lt;/p&gt;
+
+&lt;p&gt;以前、LoopringはMaskNetworkのITO機能を利用した初のInitial Twitter Offeringプロジェクトとなりました。約5万ドル相当の$LRCは3分足らずで完売し、Twitter上では数千人の参加者が集まりました。このイベントは驚くほどの成功を収め、今後のMaskNetworkとLoopringの協力関係の礎となりました。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;ITO連携の詳細は以下の記事で確認できます。&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://mp.weixin.qq.com/s/bl10OCddYFdU7X_dgkUS2w&quot;&gt;&lt;strong&gt;MaskNetworkのITO発表：Loopring&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;/uploads/2-35.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;最近、イーサリアム上のガス料金が大幅に値上がりしており、その間にLoopringレイヤー2は1000Gwei tx/sに達しています。今回のMaskNetworkとLoopringとの提携では、将来的にLoopringレイヤー2でセカンドレイヤーのred packetsを送信する予定です。そして、Loopringとの戦略的パートナーシップは、レイヤー2上での技術共有とイノベーションにも焦点を当て、分散型ウェブとDeFiエコシステムのためのより高速で堅牢な基盤を構築していきます。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;-レイヤー2とは&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;レイヤー2は、現在イーサリアムネットワークが直面しているスケーリングの問題を解決するための包括的なソリューションです。ネットワーク上の取引スループットが高い時間帯の混雑や極端に高い取引手数料のため、ほとんどのユーザーはUXが不親切であると感じており、また、イーサリアムネットワークを大規模なアプリケーションには不向きな状況にしています。このようなイーサリアムネットワークのスケーリング問題を解決するために、レイヤー2という概念が生まれました。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;-Loopringについて&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/uploads/3-36.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Loopringは、ブロックチェーンスマートウォレットとセカンドレイヤーのスケーリングソリューションに焦点を当てた次世代のDEXオーダーマッチングプロトコルです。Loopringウォレットは、世界初のセカンドレイヤーのノン・カストディアルウォレットであり、LoopringはzkRollup技術をベースにした世界初のDEX製品であり、多くの取引所が同じオーダーブックにオフチェーンマッチングとオンチェーン決済サービスを提供することを可能にしています。これは、中央集権型取引所が直面している多くのリスクに対する直接的な解決策です。&lt;/p&gt;
+
+&lt;p&gt;LoopringAMMはLoopringプロトコル3.6バージョンをベースにしており、zkRollupのレイヤー2スケーリング技術を活用し、セカンドレイヤーのネットワーク上での入出金、ガス手数料0、取引速度とスループットはUniswapの1,000倍以上となっています。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;-About Mask Network&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/uploads/4-26.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Mask Network とは現状のソーシャルプラットフォームで構築されておるオープソースンシステムで、Web2.0 と Web3.0 の架け橋というものです。Mask Network は非中央集権型プライバシーソーシャル、無国境支払いネット、非中央集権型データストレージとシェアー、非中央集権型金融及び管理（DAO）を統合することにより、ユーザーは非中央集権型エコシステムを作ることができます。一言で言えば、Mask Network は現在のインターネットから新しくオープンなインターネットに橋を架けたいということです。&lt;br /&gt;
+（翻訳：Yutaka）&lt;/p&gt;</content><author><name></name></author><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/ja/%7B%7B%20site.baseurl_root%20%7D%7D/uploads/1-34.png" /></entry><entry xml:lang="ja"><title type="html">MaskNetwork の報奨金リスト</title><link href="/ja/2021/01/20/masknetwork" rel="alternate" type="text/html" title="MaskNetwork の報奨金リスト" /><published>2021-01-20T00:00:00+00:00</published><updated>2021-01-20T00:00:00+00:00</updated><id>/ja/2021/01/20/masknetwork</id><content type="html" xml:base="/ja/2021/01/20/masknetwork">&lt;p&gt;&lt;img src=&quot;/uploads/1-30.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;MaskNetwork は、既存のソーシャルネットワークをベースにしたオープンソースのプロジェクトです。私たちは、コミュニティと開発者の力を結集して、コードベースや機能を改善しより良い体験をユーザーに提供できることを願っております。&lt;/p&gt;
+
+&lt;p&gt;現在、MaskNetwork はすでに 10 の報奨金を Gitcoin 上で作成しており、2 つは完成したものの、8 つはまだ開発中です。すべてのサイバー市民のための新しく開かれた未来のインターネットに向けて、より多くの開発者の参加を期待しています。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/uploads/2-28.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;未完の報奨金は以下の通りです。詳細はリンクをクリックしてください。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;1：MaskNetworkのSolanaとSerum&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/DimensionDev/Maskbook/issues/1722&quot; title=&quot;https://github.com/DimensionDev/Maskbook/issues/1722&quot;&gt;https://github.com/DimensionDev/Maskbook/issues/1722&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;締め切り：未定&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;第 1 部：導入と背景&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Mask Network はチェーンに依存しないツールとして設計・開発されており、チェーンに依存せず、別の言い方をすればすべてのチェーンをサポートしています。現在、Mask Network は Ethereum 上の DAPPs に焦点を当てていますが、ユーザーに多くの選択肢を提供するために、より多くのチェーンを我々の拡張機能に統合したいと考えています。そのため、内部ウォレットをマルチチェーンウォレットに再設計し、新しいデザインが確定するときには、Ethereum 以外の新しいブロックチェーンの統合を開始したいと考えています。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;第2部：内容&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Solana Wallet&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Solana はスケーラブルで高性能なブロックチェーンです。彼らのウォレット作成、管理を統合し、関連するオンチェーン運用をサポートしたいと考えています。ウォレット統合は、この報奨金のフェーズ 2 と考えており、ウォレット標準をリリースした時点で開始されると予想されています。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Serum UI の統合&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Serum は、オーダーブックとスワップの両方をサポートする分散型オンチェーン取引プラットフォームです。私たちは、そのインターフェイスを私たちのトレーダープラグインに統合したいと考えています。それは、ユーザーが Twitter 上の”$”で始まる任意のトークンのハッシュタグにマウスを置くことで、その価格、トレンド、ペアがある場合は Uniswap の取引所のインターフェイスを表示することができます。 Serum を統合することで、Uniswap 以外のオプションにも対応できるようになり、ユーザーが Twitter から離れることなく Solana と直接トークンを取引できるようになりました。これが第二段階と考えられています。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;2: ファイルサービスの別のプロバイダとして Sia Network を追加する&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/DimensionDev/Maskbook/issues/2069&quot; title=&quot;https://github.com/DimensionDev/Maskbook/issues/2069&quot;&gt;https://github.com/DimensionDev/Maskbook/issues/2069&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;プラットフォーム：&lt;/strong&gt;Gitcoin&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;経験：&lt;/strong&gt;中級レベル&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;カテゴリ：&lt;/strong&gt;Mask プラグイン&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;締め切り：&lt;/strong&gt;4 週間&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;報奨金：&lt;/strong&gt;1,000 DAI&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;第 1 部：&lt;/strong&gt;問題の説明&lt;/p&gt;
+
+&lt;p&gt;我々はすでにファイルサービスのプロバイダとして Arweave を統合しており、ユーザーは任意のタイプのファイルをアップロードしてソーシャルネットワークの投稿に添付することができます。この機能を拡張し、ユーザーに多くのオプションを提供するために、私たちは Sia のようなより多くのプロバイダを追加したいと考えています。Arweave でやったのと同じように、ユーザーのストレージ料金の支払いを支援するマイクロサービスを作る方法を考える必要があるかもしれません。Sia チームからの公式ヘルプは、このバウンティで直接リンクすることができます。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;第 2 部：リソース&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://sia.tech/docs/&quot; title=&quot;https://sia.tech/docs/&quot;&gt;https://sia.tech/docs/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;3: ファイルサービスのCDN を追加&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/DimensionDev/Maskbook/issues/2160&quot; title=&quot;https://github.com/DimensionDev/Maskbook/issues/2160&quot;&gt;https://github.com/DimensionDev/Maskbook/issues/2160&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;プラットフォーム：&lt;/strong&gt;Gitcoin&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;経験：&lt;/strong&gt;中級レベル&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;カテゴリ：&lt;/strong&gt;Maskプラグイン&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;締め切り：&lt;/strong&gt;2 週間&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;報奨金：&lt;/strong&gt;500 DAI&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;第 1 回目 問題の説明&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;現在、私たちはファイルサービスの「バックエンド」として Arweave を使用しています。しかし、エンドポイントはいくつかの要因に影響される可能性があるため、安定していません。私たちは、世界中のユーザーのこの経験を改善するために、CDN を追加したいと考えています。&lt;/p&gt;
+
+&lt;p&gt;将来的には、より多くの “バックエンド”(&lt;a href=&quot;https://github.com/DimensionDev/Maskbook/issues/2160&quot; title=&quot;https://github.com/DimensionDev/Maskbook/issues/2160&quot;&gt;https://github.com/DimensionDev/Maskbook/issues/2069&lt;/a&gt;)を追加する予定ですので、CDNもよろしくお願いします。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;第 2 部：リソース&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/DimensionDev/Maskbook/issues/2160&quot; title=&quot;https://github.com/DimensionDev/Maskbook/issues/2160&quot;&gt;https://github.com/DimensionDev/Maskbook/tree/master/packages/maskbook/src/plugins/FileService&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;4: 任意のメディアタイプと Twitter のプロフィールヘッダー写真を置き換える&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/DimensionDev/Maskbook/issues/2236&quot; title=&quot;https://github.com/DimensionDev/Maskbook/issues/2236&quot;&gt;https://github.com/DimensionDev/Maskbook/issues/2236&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;プラットフォーム：&lt;/strong&gt;Gitcoin&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;経験：&lt;/strong&gt;中級レベル&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;カテゴリ：&lt;/strong&gt;Mask プラグイン&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;締め切り：&lt;/strong&gt;2 週間&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;報奨金：&lt;/strong&gt;1,000 DAI&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;第 1 回目 問題の説明&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Twitter ユーザーの@Prathkum さんに触発されて、Twitter のヘッダーを任意のメディアタイプ、例えば GIF、ビデオ、あるいは html5 ページで装飾できるようにすることで、MaskNetwork のユーザーにも似たようなものを追加する価値があると思います。私の頭の中にはアイデアがありますが、可能性のある解決策をご自身で探っていただきたいと思います。ここではあなたのアイデアを提案してください。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;第 2 部：リソース&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/DimensionDev/Maskbook/issues/2236&quot; title=&quot;https://github.com/DimensionDev/Maskbook/issues/2236&quot;&gt;https://github.com/DimensionDev/Holoflows-Kit&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/DimensionDev/Maskbook/issues/2236&quot; title=&quot;https://github.com/DimensionDev/Maskbook/issues/2236&quot;&gt;https://github.com/DimensionDev/Maskbook/tree/master/packages/maskbook/src/plugins&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/DimensionDev/Maskbook/issues/2236&quot; title=&quot;https://github.com/DimensionDev/Maskbook/issues/2236&quot;&gt;https://github.com/DimensionDev/Stego-JS&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;5: プライベートな直接転送を可能にするプラグインとして Incognito を統合する&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/DimensionDev/Maskbook/issues/2068&quot; title=&quot;https://github.com/DimensionDev/Maskbook/issues/2068&quot;&gt;https://github.com/DimensionDev/Maskbook/issues/2068&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;プラットフォーム：&lt;/strong&gt;Gitcoin&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;経験：&lt;/strong&gt;中級レベル&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;カテゴリ：&lt;/strong&gt;Mask プラグイン&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;締め切り：&lt;/strong&gt;4 週間&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;報奨金：&lt;/strong&gt;1,000 DAI&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;第 1 回目 問題の説明&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;この懸賞金は、&lt;a href=&quot;https://incognito.org/&quot; title=&quot;https://incognito.org/&quot;&gt;https://incognito.org/&lt;/a&gt; を Mask Network 拡張機能のプラグインとして統合し、ユーザーが ETH やその他のサポートされているブロックチェーンをシールドして直接送信できるようにすることを目指しています。例えば、Twitter 上の $PRV の上にマウスを置くと、 DEX インターフェイスのポップアップウィンドウが表示されます。どんなアイデアでも歓迎します。&lt;/p&gt;
+
+&lt;p&gt;これは Incognito チームとの共同報償であり、Incognito チームからの公式なヘルプが提供されます。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;第 2 部：リソース&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://we.incognito.org/t/prv-holders-presentation-november-2020/8135&quot; title=&quot;https://we.incognito.org/t/prv-holders-presentation-november-2020/8135&quot;&gt;https://we.incognito.org/t/prv-holders-presentation-november-2020/8135&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://ethresear.ch/t/incognito-mode-for-ethereum/6232&quot; title=&quot;https://ethresear.ch/t/incognito-mode-for-ethereum/6232&quot;&gt;https://ethresear.ch/t/incognito-mode-for-ethereum/6232&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://medium.com/incognito-chain/incognito-mode-for-ethereum-e0bbae096eaf&quot; title=&quot;https://medium.com/incognito-chain/incognito-mode-for-ethereum-e0bbae096eaf&quot;&gt;https://medium.com/incognito-chain/incognito-mode-for-ethereum-e0bbae096eaf&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://incscan.io/&quot; title=&quot;https://incscan.io/&quot;&gt;https://incscan.io/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://docs.incognito.org/&quot; title=&quot;http://docs.incognito.org/&quot;&gt;http://docs.incognito.org/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;6：Twitter で画像の暗号化を拡張する&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/DimensionDev/Maskbook/issues/1947&quot; title=&quot;https://github.com/DimensionDev/Maskbook/issues/1947&quot;&gt;https://github.com/DimensionDev/Maskbook/issues/1947&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;プラットフォーム：&lt;/strong&gt;Gitcoin&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;経験：&lt;/strong&gt;中級レベル&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;カテゴリ：&lt;/strong&gt;Mask コア機能&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;締め切り：&lt;/strong&gt;2 週間&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;バウンティサイズ：&lt;/strong&gt;500 DAI&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;第 1 部： 問題の説明&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;#1217 (&lt;a href=&quot;https://github.com/DimensionDev/Maskbook/issues/1217&quot; title=&quot;https://github.com/DimensionDev/Maskbook/issues/1217&quot;&gt;https://github.com/DimensionDev/Maskbook/issues/1217&lt;/a&gt;) で説明した画像の暗号化機能を Twitter にも拡張して、ユーザーが「暗号化」(ピクセルレベルのシャッフル)画像をツイートできるようにしたいと思います。前回の報奨金が7月に終了してからコードベースが大きく変わったので、いくつかのリベース作業も行う必要があります。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;パート2: リソース&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=JzvILdOPN3A&quot; title=&quot;https://www.youtube.com/watch?v=JzvILdOPN3A&quot;&gt;https://www.youtube.com/watch?v=JzvILdOPN3A&lt;/a&gt; は、私たちの素晴らしいコミュニティ開発者である @nazariyv さんが、どのように動作するかについての素晴らしいビデオを撮影してくれたので、参考になるでしょう。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;7: オンラインイベント登録プラグイン&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/DimensionDev/Maskbook/issues/1892&quot; title=&quot;https://github.com/DimensionDev/Maskbook/issues/1892&quot;&gt;https://github.com/DimensionDev/Maskbook/issues/1892&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;カテゴリ：Mask プラグイン&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;第 1 部：導入と背景&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;多くのイベントでは、SNS に頼って拡散し、より多くのユーザーを獲得しています。しかし、Twitter はイベントを 1 つの投稿に囲い込むことには対応していません。ツイートの中に eventbrite のリンクを入れて共有し、他の人が自分でリンクをクリックするようにすることしかできません。これは非効率的であり、この問題の解決を目指しています。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;第 2 部：問題点の説明&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;参加される方には、Facebook イベントの仕組みを見ていただきたいと思います。&lt;a href=&quot;https://www.facebook.com/events/718053602385449&quot; title=&quot;https://www.facebook.com/events/718053602385449&quot;&gt;https://www.facebook.com/events/718053602385449&lt;/a&gt; など。Facebook UI の完全な複製は期待していません。必要なのは以下の情報のみです。&lt;/p&gt;
+
+&lt;p&gt;名前&lt;/p&gt;
+
+&lt;p&gt;場所 (URL 付きの仮想イベントになる可能性があります)&lt;/p&gt;
+
+&lt;p&gt;説明&lt;/p&gt;
+
+&lt;p&gt;出席者数&lt;/p&gt;
+
+&lt;p&gt;手数料（0 の場合もあります。暗号資産の支払いが必要です。&lt;/p&gt;
+
+&lt;p&gt;出席条件（例：口座の取引が1回以上あること)&lt;/p&gt;
+
+&lt;p&gt;登録されている参加者（住所や他の情報)&lt;/p&gt;
+
+&lt;p&gt;すべての登録はチェーンでログを取る必要があるので、そのために自分でスマートコントラクトを書いたほうがいいかもしれません。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;8: Subscan の改善&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/DimensionDev/Maskbook/issues/1724&quot; title=&quot;https://github.com/DimensionDev/Maskbook/issues/1724&quot;&gt;https://github.com/DimensionDev/Maskbook/issues/1724&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;締め切り：未定&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;第 1 部：導入と背景&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Mask Network は、ユーザーが Twitter の”$”で始まるトークンのハッシュタグにマウスを合わせると、トークンのマーケット情報が表示されるトレーダープラグインをサポートしています。これは、価格、トレンド、サポートされている取引所とUniswap インターフェイスを示しています。Subscanは、Ethereum の Etherscan のように動作する Polkadot ネットワークのブロックエクスプローラーです。また、Subscan は Polkadot ネットワークで複数の Parachains をサポートしているので、Etherscan とは少しUIが異なります。ユーザーに Polkadot プロジェクトの情報をより多く提供できるようになると思います。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;タスク&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;SubscanAPI 統合&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Polkadot プロジェクトに関連する情報を取得するための Subscan API を実行します。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;トレーダープラグインの追加UI&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Polkadot プロジェクトかどうかを検出する際に、トレーダービューに追加情報を表示する機能を追加しました。これにより、ユーザーはプロジェクトや Polkadot エコシステム全体についてより豊富な情報を得ることができるようになります。また、ユーザーが Twitter で Polkadot について話すことで、より多くのインセンティブが得られると考えています。&lt;/p&gt;</content><author><name></name></author><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/ja/%7B%7B%20site.baseurl_root%20%7D%7D/uploads/1-30.png" /></entry><entry xml:lang="ja"><title type="html">Mask Network がMirror Protocolと提携し、ソーシャルネットワークに合成株式資産を提供</title><link href="/ja/2021/01/15/mask-network-mirror-protocol" rel="alternate" type="text/html" title="Mask Network がMirror Protocolと提携し、ソーシャルネットワークに合成株式資産を提供" /><published>2021-01-15T00:00:00+00:00</published><updated>2021-01-15T00:00:00+00:00</updated><id>/ja/2021/01/15/mask-network-mirror-protocol</id><content type="html" xml:base="/ja/2021/01/15/mask-network-mirror-protocol">&lt;p&gt;&lt;img src=&quot;/uploads/1-1.jpeg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Mask Networkはこのほど、Terraform Labsが提供する合成資産プロトコル「Mirror Protocol」と提携した。Mirror Protocolは、米国の株式市場、先物、ETFなどの実物資産の価格を追跡する初の合成資産プロトコルです。&lt;/p&gt;
+
+&lt;p&gt;これら2つのプロジェクトの協力により、ユーザーはTwitter上で価格チャートを閲覧し、合成資産（mAssets）を直接取引することが可能になります。&lt;/p&gt;
+
+&lt;p&gt;これは、暗号資産とグローバルファイナンスを密接に結びつけるオープンファイナンスの分野で、Mask Networkが成し遂げた大規模な進展となるでしょう。&lt;/p&gt;
+
+&lt;p&gt;Mask Networkは、すでにTwitter上での仮想通貨価格チャートの閲覧や直接取引をサポートする機能を提供しています。&lt;/p&gt;
+
+&lt;p&gt;ユーザーはMaskプラグインを設定した後、Twitterの検索ページでトークンの情報を取得したり、$ETHや$MIRのような「$+ticker」にマウスを合わせると、当社のウィジェットが自動的にそれを検出し、トークンの最新チャートをポップアップ表示します。&lt;/p&gt;
+
+&lt;p&gt;Mirror Protocolの導入により、ユーザーはTwitter上で価格チャートを閲覧したり、mAssetsを直接取引することができるようになりましたが、これはつまり、株式のような現実世界の資産の合成物が中央集権型のソーシャルプラットフォームに導入されたことを意味します。データソースはCoinMarketCapが提供しています。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/uploads/1-29.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;米国株への投資は世界中の投資家にとって非常に魅力的ですが、多くの投資家は参入障壁が高いために制限されています。Mirror ProtocolがMask Networkと提携したことで、従来のネットワークでも合成資産を表示できるようになり、世界中の投資家がよりシンプルで便利なインターフェースで参加できるようになります。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/uploads/3-29.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Mirror Protocolについて&lt;/p&gt;
+
+&lt;p&gt;Mirror Protocolは、Terraネットワーク上のスマートコントラクトを利用したDeFiプロトコルで、実物資産のオンチェーンでの価格エクスポージャーを実現します。DeFiと伝統的な市場の架け橋となるMirrorは、オープンアクセスと検閲耐性を維持しながら、実物資産を介さずに端数で保有して取引できる合成物であるmAssetsを導入します。&lt;/p&gt;
+
+&lt;p&gt;ウェブサイト｜Docs｜Github｜Medium｜Telegram｜Discord｜Twitter&lt;/p&gt;
+
+&lt;p&gt;Mask Networkについて&lt;/p&gt;
+
+&lt;p&gt;Mask Networkは、2019年7月主力製品のDimensionを正式にローンチしました。&lt;/p&gt;
+
+&lt;p&gt;主な機能は暗号化/復号化に関するもので、この点を中心に常に開発が進められています。Mask Network（当初の名称はMaskbook）は、暗号化されたメッセージや暗号通貨、さらにはDApps（Defi、NFT、DAO）までもが移行することなくソーシャルネットワークの上からシームレスに送信できるポータルであり、それによって分散型のApplet(DApplet)エコシステムを構築することができます。&lt;/p&gt;
+
+&lt;p&gt;つまり、現在のインターネットの上に、新しいオープンなインターネットの橋渡しを実現します。&lt;/p&gt;
+
+&lt;p&gt;MaskNetworkは、現在のインターネットの上に新しいオープンなインターネットの架け橋となることを目指して、Mirror Protocolと共に、株式デリバティブ市場の発展に特化し、従来の世界と分散型の世界の境界線をさらに広げ、より広く自由なオープンな金融エコシステムをユーザーに提供していきます。&lt;/p&gt;</content><author><name></name></author><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/ja/%7B%7B%20site.baseurl_root%20%7D%7D/uploads/1-1.jpeg" /></entry><entry xml:lang="ja"><title type="html">Mask NetworkのITO発表：Loopring</title><link href="/ja/2021/01/09/mask-network-ito-loopring" rel="alternate" type="text/html" title="Mask NetworkのITO発表：Loopring" /><published>2021-01-09T00:00:00+00:00</published><updated>2021-01-09T00:00:00+00:00</updated><id>/ja/2021/01/09/mask-network-ito-loopring</id><content type="html" xml:base="/ja/2021/01/09/mask-network-ito-loopring">&lt;p&gt;ITO機能が発表されて以来、Twitterオファリングに参加したいというお問い合わせやご要望を多数いただいておりました。&lt;/p&gt;
+
+&lt;p&gt;慎重に検討した結果、私たちはLoopringと提携し初回のTwitterオファリングを開催することを決定しました! 他にもいくつかのプロジェクトが待ち受けています。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/uploads/1-23.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;(Mask NetworkのTwitterオファリングは、トークン発行とスワップの新しい方法であることに注意してください。パーミッションレスな性質から、誰でもTwitterから離れることなく、いつでもオファリングをローンチすることができます)。&lt;/p&gt;
+
+&lt;h3 id=&quot;itoの詳細&quot;&gt;ITOの詳細&lt;/h3&gt;
+
+&lt;p&gt;Loopringについて&lt;/p&gt;
+
+&lt;p&gt;Loopringは、スケーラブルで安全な取引所とペイメントのためのEthereum zkRollupプロトコルです。&lt;/p&gt;
+
+&lt;p&gt;Loopringは、モバイルのEthereumスマートウォレットであるLoopring Walletや、ガス料金のかからないオーダーブックやAMMであるLoopring Exchangeなど、我々のLayer-2プロトコルの上に、非カストディアルで高性能なプロダクトを構築しています。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/uploads/2-24.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;1月10日(日)13:00(UTC-5)にTwitter @realmaskbookにて$LRCの購入が可能になります。Loopring ITOの価格は、提供開始時の$LRCの価格をベースに、30%の割引が適用されます。&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Token Type: ERC20&lt;/p&gt;
+
+  &lt;p&gt;Symbol: LRC&lt;/p&gt;
+
+  &lt;p&gt;Quote Tokens: USDT, USDC, DAI&lt;/p&gt;
+
+  &lt;p&gt;募集価格：～$50,000&lt;/p&gt;
+
+  &lt;p&gt;アドレスの購入上限：～$500&lt;/p&gt;
+
+  &lt;p&gt;開始時刻：2021.1.10 13:00 (UTC-5) / 2021.1.11 02:00 (UTC+8)&lt;/p&gt;
+
+  &lt;p&gt;終了時刻：2021.1.10 21:00 (UTC-5)/2021.1.11 10:00 (UTC+8)&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;ITOは8時間、スワップは先着順となっています。&lt;/p&gt;
+
+&lt;p&gt;ITOについてはこちらの記事を読んでみてください。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;&quot; title=&quot;https://masknetwork.medium.com/a-new-chapter-of-mask-network-ito-aa8182a0badc&quot;&gt;マスクネットワークの新章 - ITO：&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://masknetwork.medium.com/a-new-chapter-of-mask-network-ito-aa8182a0badc&quot; title=&quot;https://masknetwork.medium.com/a-new-chapter-of-mask-network-ito-aa8182a0badc&quot;&gt;https://masknetwork.medium.com/a-new-chapter-of-mask-network-ito-aa8182a0badc&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/uploads/11-6.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;itoに参加するには&quot;&gt;ITOに参加するには？&lt;/h3&gt;
+
+&lt;h3 id=&quot;-マスクのダウンロード&quot;&gt;-マスクのダウンロード&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://mask.io&quot; title=&quot;http://mask.io&quot;&gt;http://mask.io&lt;/a&gt; で Mask をダウンロードしてインストールしてください。また、ChromeやFirefoxの拡張機能でも検索できます。&lt;/p&gt;
+
+&lt;h3 id=&quot;-mask-networkのオンボーディング&quot;&gt;-Mask Networkのオンボーディング&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;新規の方はセットアップの手順に沿ってください。新規のペルソナを作成する→Twitterアカウントと連携する。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;/uploads/3-24.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;マスクネットワークは自動的にTwitterのページにジャンプし、あなたのユーザー名を検出します。ユーザー名を確認して”Connect to twitter.com”をクリックします。&lt;/li&gt;
+  &lt;li&gt;これで、友達に挨拶ができるようになりました。“Compose Encrypted Post”(暗号化された投稿を作成)をクリックして、あなたの投稿を解読できる人を選択するだけです。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;/uploads/4-17.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;-ウォレットの設定&quot;&gt;-ウォレットの設定&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Maskは、新規ユーザーのための新しいウォレットアドレスを自動的に作成します。右上のブルーマスクアイコンをクリックします。→“Enter Dashboard”(ダッシュボードに入る)をクリック → “Wallet“をクリックするとウォレットが表示されます。忘れずにバックアップを取っておきましょう。&lt;/li&gt;
+  &lt;li&gt;Maskは他のウォレットのインポートにも対応しています。再度、右上の青いスマイリーフェイスをクリックし“Connect Wallet”(ウォレットを接続)をクリック → 「ウォレットを接続」をクリックします。メタマスク」か「ウォレットコネクト」を選択 → “Wallet Connect”(ウォレットコネクト)をクリックして、普段使っているウォレットと接続しましょう。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;/uploads/5-10.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/uploads/6-11.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;-ito&quot;&gt;-ITO&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Twitter(@realmaskbook)でITOのツイートを探す。“Enter”をクリックしてください。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;/uploads/7-9.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Sample&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Swap Reminder(スワップリマインダー)をよく確認し、「理解しました」をクリックします。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;/uploads/8.gif&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Sample&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;あなたが購入したい量を入力し”Enter”をクリックします→トランザクションを確認します。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;/uploads/9.gif&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Sample&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;トランザクションを確認後、完了ページに移りMask Dashborad上にアセットを確認することができるでしょう。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;/uploads/10-8.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Sample&lt;/p&gt;
+
+&lt;p&gt;ワクワクしませんか？ぜひ、初めてのITOに参加してみてください。&lt;/p&gt;
+
+&lt;p&gt;ITOが、真の経済的自由を一般の人々にもたらすための、もう一つの重要な一歩になることを願っています。&lt;/p&gt;
+
+&lt;p&gt;追伸：あなた自身でITOを作成することもできます。より多くの個人やプロジェクトの参加を期待しています。&lt;/p&gt;
+
+&lt;p&gt;（翻訳：Yutaka）&lt;/p&gt;</content><author><name></name></author><summary type="html">ITO機能が発表されて以来、Twitterオファリングに参加したいというお問い合わせやご要望を多数いただいておりました。</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/ja/%7B%7B%20site.baseurl_root%20%7D%7D/uploads/1-23.png" /></entry><entry xml:lang="ja"><title type="html">Suji・Yan氏が「RadicalxChange」フェローシッププログラムのメンターに招かれました</title><link href="/ja/2021/01/08/suji-yan-radicalxchange" rel="alternate" type="text/html" title="Suji・Yan氏が「RadicalxChange」フェローシッププログラムのメンターに招かれました" /><published>2021-01-08T00:00:00+00:00</published><updated>2021-01-08T00:00:00+00:00</updated><id>/ja/2021/01/08/suji-yan-radicalxchange</id><content type="html" xml:base="/ja/2021/01/08/suji-yan-radicalxchange">&lt;p&gt;“グローバル社会の一員として、私たちは今、並々ならぬ岐路に立っています。世界各地では、格差が拡大し、経済が停滞し、民主主義がますます脅かされています。この問題を解決するためには、様々な声を吸収してこそ、積極的で徹底的な変革が実現できると信じています。新しい可能性を想像するための芸術、歴史から学び、より良い未来を築くための助けとなる知識、新しい施設を設立するためのイノベーション、そして憎しみと分裂と闘うためのアクティビズムが必要です。”&lt;/p&gt;
+
+&lt;p&gt;—— RadicalxChange&lt;/p&gt;
+
+&lt;p&gt;RadicalxChangeは世界中のトレンドと提案です。その思想は Glen Weyl（共著者）の&lt;Radical Markets=&quot;&quot;&gt;から派生していますが、同書の理論では終わりません。&lt;/Radical&gt;&lt;/p&gt;
+
+&lt;p&gt;それどころか、RadicalxChangeは継続的に深く発展し続けており、公平性、税制、金融、社会、テクノロジー、ブロックチェーン、健康などの最新の研究に基づき、地域を超えた活発なコミュニティを形成しています。RadicalxChangeは、テクノロジーとデザインを通じて、より良い未来を創造していきたいと考えています。&lt;/p&gt;
+
+&lt;p&gt;2019年5月31日、Suji YanはKatt Guと共にRadicalxChangeに「フリーソフトウェアムーブメントと新しい労働の形」という論文を発表しました。その内容は中国の多くのテクノロジー企業が996の勤務スケジュールに従っているという現象についてでした。&lt;/p&gt;
+
+&lt;p&gt;そこで、ある人物が目立ち、「996.icu」というサイトを立ち上げ、世論を喚起しました。記事は、&lt;Radical Markets=&quot;&quot;&gt;の「Data as Labor」という概念に焦点を当て、「ユーザーが生み出すデータは新しい労働の形である」という見解を提起しています。&lt;/Radical&gt;&lt;/p&gt;
+
+&lt;p&gt;これを機に、DimensionとRadicalxChangeの協力関係が始まります。先日、Suji・Yan氏はRadicalxChangeフェローシッププログラムのメンターとして招聘されました。彼のユニークな洞察力と能力に影響を受けて、より多くの人が新しい分野を共同で探求し、変化をもたらすことが期待されています。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/uploads/1-21.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;2020年10月、DimensionはDWeb Shanghaiと共同で、“The Fifth Annual Conference of Network Society: The Web of Phronesis ‍”では、Vitalik ButerinとGlen Weylが“Inter-World-View”で “Radical Markets “についての講演に招かれました。The Web of Phronesisでは、Vitalik ButerinとGlen Weylが”Inter-World-View”で “Radical Markets “についての講演に招かれました。&lt;/p&gt;
+
+&lt;p&gt;“Radical Market”とは、自由市場の配分効率と投資インセンティブを同時に考慮しながら、ボトムアップで未来の経済・社会・情報技術計画を構想し、危機を共通の利益のための機会に変えようとする “radical change”を求める思考実験です。&lt;/p&gt;
+
+&lt;p&gt;イベントでは、Vitalik氏が「EthereumコミュニティガバナンスとGitcoin Quadratic Funding」について、Glen Weyl氏が&lt;Radical Markets=&quot;&quot;&gt;をベースにした「RadicalxChange Movement」の原則と、それがすでにビジネスやガバナンスを変革しつつある方法について議論しました。&lt;/Radical&gt;&lt;/p&gt;
+
+&lt;p&gt;2021年1月から、RadicalxChangeフェローシッププログラムでは、最初の10週間のコホートを開催し、市民社会を強化し、公共財を再考するためのプロジェクトに共同で取り組むミッションドリブンの個人とチームを集めます。&lt;/p&gt;
+
+&lt;p&gt;積極的かつ包括的な変化は、多様な声や背景を取り入れることによってのみ可能であると私たちは信じています。選ばれたフェローは、活動家、アート、デザイン、起業家精神、投資、政策立案、研究、テクノロジーなど、様々な分野からの参加者です。&lt;/p&gt;
+
+&lt;p&gt;Glen Weylは、&lt;Radical Market=&quot;&quot;&gt;の著者でもあるRadicalxChange Foundationの創設者であり、議長を務めています。&lt;/Radical&gt;&lt;/p&gt;
+
+&lt;p&gt;Ethereumの創始者であるVitalik Buterin氏も理事会メンバーの1人です。自由で競争力のあるオープンな市場メカニズムを構築することで、不平等を減らし、繁栄を最大化することに専念しており、その結果、世界的なキャズムが固定化され、協調的な社会メカニズムが私たちの手の届くところにあります。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/uploads/2-27.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Glen Weyl&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Glen Weylは、1985年サンフランシスコ生まれの経済学者。マイクロソフトのOffice of the Chief Technology Officer Political Economist and Social Technologist（OCTOPEST）でもある。2018年、Glenは資本主義への首尾一貫した持続可能な代替案を求める「RadicalxChange Foundation」を設立した。Glenは『Radical Market』の共著者として、問題のある市場メカニズムに焦点を当て、多様に共有された私たちの生活の豊かさに忠実な市場とテクノロジーを構築しようとしています。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/uploads/3-23.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Suji Yan&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Suji Yan, Dimension&amp;amp;Mask NetworkのCEO。UIUC（University of Illinois at Urbana-Champaign）コンピュータ工学科を中退して起業。Qdaily &amp;amp; Caixin Mediaの元独立記者、自動運転企業の元エンジニアでもあります。アマチュアとして“radical market”/ RadicalxChange、Data Law Groupや他の経済学者、法律学者との共著記事を執筆。Wired、 South China Morning Post、Wall Street Journalなどで公開されました。現在、個に特化したオープンソース、暗号化とプライバシー保護（会社の製品であるmask.io / Tessercube.com）に焦点を当てています。&lt;/p&gt;
+
+&lt;p&gt;また、教官は下記のメンバーも含めています。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/uploads/4-17.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/uploads/5-16.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/uploads/6-10.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/uploads/7-11.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;“ It’s not radical to critique our current society.&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;It’s radical to build a better one.”&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">“グローバル社会の一員として、私たちは今、並々ならぬ岐路に立っています。世界各地では、格差が拡大し、経済が停滞し、民主主義がますます脅かされています。この問題を解決するためには、様々な声を吸収してこそ、積極的で徹底的な変革が実現できると信じています。新しい可能性を想像するための芸術、歴史から学び、より良い未来を築くための助けとなる知識、新しい施設を設立するためのイノベーション、そして憎しみと分裂と闘うためのアクティビズムが必要です。”</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/ja/%7B%7B%20site.baseurl_root%20%7D%7D/uploads/_20210109210749.jpg" /></entry></feed>
